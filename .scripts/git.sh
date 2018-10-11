@@ -8,7 +8,7 @@ git add ~/.Xresources
 git add ~/.bashrc
 git add ~/.vimrc
 git add ~/.xinitrc
-
+git add ~/.muttrc
 read message
 
 echo "Commit message"
