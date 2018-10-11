@@ -135,9 +135,10 @@ alias it='cd /mnt/Share/IT'
 alias public='cd ~/Share/Public'
 alias docs='cd ~/Documents/it-web-processes'
 alias status='cd ~/Projects/status-page'
-#
+#Lock PC
 alias lock='bash ~/.scripts/lock.sh'
-
+#set keyboard to UK(gb)
+alias gb='setxkbmap gb'
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 export FZF_DEFATUL_POS="--extended"
 
