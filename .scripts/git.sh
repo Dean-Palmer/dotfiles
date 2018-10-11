@@ -14,3 +14,5 @@ read message
 echo "Commit message"
 
 git commit -m "$message"
+
+git push
