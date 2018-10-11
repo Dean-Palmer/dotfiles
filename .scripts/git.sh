@@ -1,5 +1,4 @@
 #!/bin/bash
-git add ~/.mutt
 git add ~/.screenlayout
 git add ~/.scripts
 git add ~/.vim
@@ -9,10 +8,7 @@ git add ~/.bashrc
 git add ~/.vimrc
 git add ~/.xinitrc
 git add ~/.muttrc
-read message
-
 echo "Commit message"
-
+read message
 git commit -m "$message"
-
 git push
