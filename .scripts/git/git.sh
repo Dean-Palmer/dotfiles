@@ -8,6 +8,8 @@ git add ~/.bashrc
 git add ~/.vimrc
 git add ~/.xinitrc
 git add ~/.muttrc
+git add ~/.config/i3/config
+git add ~/.config/polybar/config
 echo "Commit message"
 read message
 git commit -m "$message"

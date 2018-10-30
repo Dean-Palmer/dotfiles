@@ -116,9 +116,9 @@ if ! shopt -oq posix; then
   fi
 fi
 #Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
-source ~/.scripts/aliases.sh
+source ~/.scripts/misc/aliases.sh
 #Lock PC
-alias lock='bash ~/.scripts/lock.sh'
+alias lock='bash ~/.scripts/misc/lock.sh'
 #set keyboard to UK(gb)
 alias gb='setxkbmap gb'
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
