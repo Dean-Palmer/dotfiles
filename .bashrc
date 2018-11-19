@@ -115,6 +115,10 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+#Custom
+
+
 #Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
 source ~/.scripts/misc/aliases.sh
 #Lock PC

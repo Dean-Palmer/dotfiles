@@ -1,6 +1,7 @@
 ## Basic configuration
 
-source "~/.mutt/user"
+source "~/.mutt/vortex"
+source "~/.mutt/proton"
 
 ### Advanced configuration
 ### YOU SHOULD NOT MODIFY THIS UNLESS YOU KNOW WHAT YOU'RE DOING
@@ -80,10 +81,10 @@ set index_format=" %?M?   ↳&%4C?   %Z      %D     %-15.15n    %s"
 
 # Mailboxes
 bind    index   G  imap-fetch-mail
-macro   index   gi "<change-folder>=INBOX<enter>"       "Go to Inbox"
-macro   index   gs "<change-folder>=$my_sent<enter>"    "Go to Sent"
-macro   index   gd "<change-folder>=$my_drafts<enter>"  "Go to Drafts"
-macro   index   gt "<change-folder>=$my_trash<enter>"   "Go to Trash"
+#macro   index   gi "<change-folder>=INBOX<enter>"       "Go to Inbox"
+#macro   index   gs "<change-folder>=$my_sent<enter>"    "Go to Sent"
+#macro   index   gd "<change-folder>=$my_drafts<enter>"  "Go to Drafts"
+#macro   index   gt "<change-folder>=$my_trash<enter>"   "Go to Trash"
 
 # Index
 bind    index   <up>        previous-entry
@@ -132,4 +133,4 @@ color   body        brightblue default (https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]
 #set pager_index_lines= 5 # how large is the index window?
 
 #Custom
-set content_type=text/html
+set content_type=text/plain

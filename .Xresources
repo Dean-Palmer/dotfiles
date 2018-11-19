@@ -1,9 +1,10 @@
 URxvt.font: xft:monospace:size=10
+URxvt.letterSpace: -1
 URxvt.scrollBar: false
 ! special
 *.foreground:   #c7ccd1
 *.depth:32
-*.background:   rgba:0780/1570/1690/c000
+*.background:   rgba:0000/0000/0000/c000
 *.cursorColor:  #d0d0d0
 
 ! black
