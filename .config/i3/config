@@ -153,6 +153,8 @@
 	bindsym $mod+Shift+0 move container to workspace $ws10
 
 	#Custom bind
+#Application shortcuts
+	bindsym $mod+q exec --no-startup-id qutebrowser
 #Music keybinds
 	bindsym $mod+p exec --no-startup-id mpc play
 	bindsym $mod+i exec --no-startup-id mpc pause	
@@ -175,25 +177,25 @@
 	# exit i3 (logs you out of your X session)
 	bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
 
-	# resize window (you can also use the mouse for that)
+# resize window (you can also use the mouse for that)
 	mode "resize" {
-		# These bindings trigger as soon as you enter the resize mode
+	# These bindings trigger as soon as you enter the resize mode
 
-		# Pressing left will shrink the window’s width.
-		# Pressing right will grow the window’s width.
-		# Pressing up will shrink the window’s height.
-		# Pressing down will grow the window’s height.
-		bindsym j resize shrink width 10 px or 10 ppt
-		bindsym k resize grow height 10 px or 10 ppt
-		bindsym l resize shrink height 10 px or 10 ppt
-		bindsym semicolon resize grow width 10 px or 10 ppt
+	# Pressing left will shrink the window’s width.
+	# Pressing right will grow the window’s width.
+	# Pressing up will shrink the window’s height.
+	# Pressing down will grow the window’s height.
+	bindsym h resize shrink width 10 px or 10 ppt
+	bindsym j resize grow height 10 px or 10 ppt
+	bindsym k resize shrink height 10 px or 10 ppt
+	bindsym l resize grow width 10 px or 10 ppt
 
 
-		# same bindings, but for the arrow keys
-		bindsym Left resize shrink width 10 px or 10 ppt
-		bindsym Down resize grow height 10 px or 10 ppt
-		bindsym Up resize shrink height 10 px or 10 ppt
-		bindsym Right resize grow width 10 px or 10 ppt
+	# same bindings, but for the arrow keys
+	bindsym Left resize shrink width 10 px or 10 ppt
+	bindsym Down resize grow height 10 px or 10 ppt
+bindsym Up resize shrink height 10 px or 10 ppt
+	bindsym Right resize grow width 10 px or 10 ppt
 
 
 
@@ -209,7 +211,7 @@
 	set $text-color	#f3f4f5
 	set $inactive-text-color #676E7D
 	set $urgent-bg-color 	#E53935
-#Custom polybar config
+# Custom polybar config
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 	# Start i3bar to display a workspace bar (plus the system information i3status
@@ -227,70 +229,76 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 #		position bottom
 #	}
 
-	# Monitor settings
-	exec xrandr --output DP-1 --mode 1920x1080 --pos 1920x0 --rotate right --output HDMI-2 --off --output HDMI-1 --primary --mode 1920x1080 --pos 0x288 --rotate normal 
+# Monitor settings
+exec --no-startup-id xrandr --output DP-1 --mode 1920x1080 --pos 1920x0 --rotate right --output HDMI-2 --off --output HDMI-1 --primary --mode 1920x1080 --pos 0x288 --rotate normal 
 
 
 
-	# Pulse Audio controls
+# Pulse Audio controls
 	bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
 	bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume
 	bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
 
-	# Sreen brightness controls
+# Sreen brightness controls
 	bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
 	bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
 
-	# Touchpad controls
+# Touchpad controls
 	bindsym XF86TouchpadToggle exec /some/path/toggletouchpad.sh # toggle touchpad
 
-	# Media player controls
+# Media player controls
 	bindsym XF86AudioPlay exec playerctl play
 	bindsym XF86AudioPause exec playerctl pause
 	bindsym XF86AudioNext exec playerctl next
 	bindsym XF86AudioPrev exec playerctl previous
 
-	# Wallpaper with feh
-exec_always feh --bg-fill ~/Pictures/Landscape/lotr.jpg ~/Projects/Pictures/Portrait/arch-card-black-demo.png
+# Wallpaper with feh
+exec_always feh --bg-fill ~/Projects/Pictures/Landscape/red-woman.jpg ~/Projects/Pictures/Landscape/gray.png
+
+# class		border		backgr.		text		indicator	child_border
+client.focused	#4c7899		#ff3300		#ffffff		#ff3300		#ff4d00
+
+
+
+
 
 # Gaps
 for_window [class="^.*"] border pixel 1
 gaps inner 0
 gaps outer 0 
 smart_borders on
-#default_border pixel 1 
 
 # Hide cursor
 exec_always --no-startup-id unclutter
 
-#Force workspaces to monitors (chrome portait to the portrait monitor.)
+# Force workspaces to monitors (chrome portait to the portrait monitor.)
 workspace $ws2 output DP-1 
 
-#Set keyboard to GB on startup
-exec --no-startup-id setxkbmap gb
+# Set keyboard to GB on startup
+exec_always --no-startup-id setxkbmap gb
 
-#Start pulseaudio
+# Start pulseaudio
 
 exec --no-startup-id pulseaudio
 
-#Start compton
+# Start compton
 exec --no-startup-id compton
 
-#run the urxvt update so terminal looks pretty
+# Run the urxvt update so terminal looks pretty
 exec --no-startup-id xrdb ~/.Xresources
 
-#Run wal to set the color scheme
+# Run wal to set the color scheme
 exec_always --no-startup-id wal -i ~/Pictures/portrait/a-lot.jpg -n
 
-#run arandr script to line monitors
+# Run arandr script to line monitors
 exec --no-startup-id ~/.screenlayout/screen.sh
 
-#runs pulseaudio so I will have audio when i log in
+# Runs pulseaudio so I will have audio when i log in
 exec --no-startup-id pulseaudio
 
 
-#Custom keybinds
-#bind ctrl to escape for use with vim
+# Custom keybinds
+# Bind ctrl to escape for use with vim
 exec --no-startup-id xcape -e 'Control_L=Escape' -t 175
 bindsym $mod+Shift+t		gaps inner current set 50; gaps outer current set 50
 bindsym $mod+Shift+y		gaps inner current set 10; gaps outer current set 10

@@ -20,6 +20,8 @@ alias ares='ssh -p2020 deanpalmer@185.216.76.51'
 alias pbcopy='xsel --clipboard --input'
 alias compress='tar -czvf'
 alias extract='tar -xzvf'
+alias=(~/.scripts/misc/aliases.sh)
+doto=(~/.scripts/misc/todo.sh)
 #Quick Directory Jumps
 alias it='cd /mnt/share/IT'
 alias public='cd /mnt/share/Public'

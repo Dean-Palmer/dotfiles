@@ -3,6 +3,8 @@
 source "~/.mutt/vortex"
 source "~/.mutt/proton"
 
+set beep_new
+
 ### Advanced configuration
 ### YOU SHOULD NOT MODIFY THIS UNLESS YOU KNOW WHAT YOU'RE DOING
 

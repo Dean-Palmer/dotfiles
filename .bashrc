@@ -117,12 +117,18 @@ if ! shopt -oq posix; then
 fi
 
 #Custom
-
+#A few short lines that will set the env variables to make it easier to have todo list in a bash terminal. e.g. `echo "Item 1" >> todo` <---- this will add what is in the quotes to the end of a file titled after the current day. WARNING if you use only one `>` it will replace everything in the file instead of just adding it to the end.
+# To echo your todo list type 'cat todo' and it will print the files contents to the terminal. If you want to edit the todo file just type "vim todo" this will open the current days todo in a vim buffer.
+source ~/.scripts/misc/todo.sh
+date=( $(date +%a))
+todo=(~/.scripts/docs/$date.todo)
 
 #Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
 source ~/.scripts/misc/aliases.sh
+
 #Lock PC
 alias lock='bash ~/.scripts/misc/lock.sh'
+
 #set keyboard to UK(gb)
 alias gb='setxkbmap gb'
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
