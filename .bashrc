@@ -75,13 +75,13 @@ esac
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=auto'
-    #alias dir='dir --color=auto'
-    #alias vdir='vdir --color=auto'
+	alias ls='ls --color=auto'
+	alias dir='dir --color=auto'
+	alias vdir='vdir --color=auto'
 
-    alias grep='grep --color=auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
+	alias grep='grep --color=auto'
+	alias fgrep='fgrep --color=auto'
+	alias egrep='egrep --color=auto'
 fi
 
 # colored GCC warnings and errors
@@ -117,12 +117,6 @@ if ! shopt -oq posix; then
 fi
 
 #Custom
-#A few short lines that will set the env variables to make it easier to have todo list in a bash terminal. e.g. `echo "Item 1" >> todo` <---- this will add what is in the quotes to the end of a file titled after the current day. WARNING if you use only one `>` it will replace everything in the file instead of just adding it to the end.
-# To echo your todo list type 'cat todo' and it will print the files contents to the terminal. If you want to edit the todo file just type "vim todo" this will open the current days todo in a vim buffer.
-source ~/.scripts/misc/todo.sh
-date=( $(date +%a))
-todo=(~/.scripts/docs/$date.todo)
-
 #Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
 source ~/.scripts/misc/aliases.sh
 

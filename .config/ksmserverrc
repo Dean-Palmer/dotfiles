@@ -1,0 +1,33 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10969f6144000154529946500000007240004
+clientId2=10969f6144000154520871100000028580007
+clientId3=10969f6144000154520871100000028580006
+clientId4=10969f6144000154529946800000007240008
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_10969f6144000154520871100000028580007_1545300285_172680
+program1=pulseaudio
+program2=/usr/bin/kwin_x11
+program3=/usr/lib/org_kde_powerdevil
+program4=/usr/lib/protonmail/bridge/Desktop-Bridge
+restartCommand1=
+restartCommand2=/usr/bin/kwin_x11,-session,10969f6144000154520871100000028580007_1545300285_172680
+restartCommand3=/usr/lib/org_kde_powerdevil,-session,10969f6144000154520871100000028580006_1545300285_164350
+restartCommand4=/usr/lib/protonmail/bridge/Desktop-Bridge,-session,10969f6144000154529946800000007240008_1545300285_164722
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=deanpalmer
+userId2=deanpalmer
+userId3=deanpalmer
+userId4=deanpalmer
+wasWm1=false
+wasWm2=true
+wasWm3=false
+wasWm4=false

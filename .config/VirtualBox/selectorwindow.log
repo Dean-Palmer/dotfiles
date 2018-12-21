@@ -1,0 +1,18 @@
+VirtualBox GUI VM Selector Window 5.2.22 r126257 linux.amd64 (Nov  9 2018 11:16:45) release log
+00:00:00.493540 Log opened 2018-12-13T09:17:13.394888000Z
+00:00:00.493542 Build Type: release
+00:00:00.493545 OS Product: Linux
+00:00:00.493547 OS Release: 4.19.8-arch1-1-ARCH
+00:00:00.493549 OS Version: #1 SMP PREEMPT Sat Dec 8 13:49:11 UTC 2018
+00:00:00.493578 DMI Product Name: System Product Name
+00:00:00.493591 DMI Product Version: System Version
+00:00:00.493648 Host RAM: 7858MB (7.6GB) total, 6697MB (6.5GB) available
+00:00:00.493653 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.493654 Process ID: 15474
+00:00:00.493655 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.493688 Qt version: 5.12.0
+00:00:00.519646 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.716633 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 640x288 x 638x1043
+00:00:00.716804 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x288 x 638x1043
+00:00:00.725301 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.725411 GUI: UIMediumEnumerator: Medium-enumeration finished!

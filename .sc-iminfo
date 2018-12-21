@@ -1,0 +1,27 @@
+:int goto hi
+:int goto 1
+:int goto This
+:int goto D5
+:int goto A0
+:q!
+::q
+:q
+>Text
+<Text
+\hi
+=0.1
+=SUM(A0+A1)
+>Long string that this is
+>This is a long string
+=19
+=12
+>test
+=@avg(B1:B4)
+=3
+=4
+=5
+=6
+=1
+=10
+=48
+=@sum(B0:B2)
