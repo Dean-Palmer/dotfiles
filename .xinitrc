@@ -1,1 +1,1 @@
-exec startkde
+exec xorg

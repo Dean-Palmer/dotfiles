@@ -1,0 +1,1 @@
+(function(){const result=[];const frames=document.getElementsByTagName("iframe");for(let i=0;i<frames.length;i++){const frame=frames[i];result.push({location:window.location.href,top:window===window.top,src:frame.src,rect:frame.getBoundingClientRect()})}return JSON.stringify(result)})();

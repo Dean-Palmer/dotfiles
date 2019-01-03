@@ -1,0 +1,2033 @@
+[
+	{
+		"elementTypes": {
+			"email": 25,
+			"tel": 25,
+			"text": 25
+		},
+		"htmlName": {
+			"faketext": 80,
+			"fakeusername": 80
+		},
+		"labels": {},
+		"minTextLength": 8,
+		"name": "overlay_username",
+		"placeholders": {
+			"enterusername": -1000
+		}
+	},
+	{
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"passwordastext": 100,
+			"~dummy[^a-zA-Z]?password": 80,
+			"~fake[^a-zA-Z]?password": 80,
+			"~password[^a-zA-Z]?dummy": 80,
+			"~password[^a-zA-Z]?placeholder": 80,
+			"~password[^a-zA-Z]?text": 80,
+			"~text[^a-zA-Z]?password": 80
+		},
+		"id": "overlay_textPassword",
+		"labels": {},
+		"minTextLength": 8,
+		"placeholders": {
+			"password": 100
+		},
+		"valueWeights": {
+			"enterpassword": 100,
+			"enteryourpassword": 100,
+			"lösenord": 100,
+			"password": 100,
+			"sensibleàlacasse": 100
+		}
+	},
+	{
+		"elementTypes": {
+			"password": 25
+		},
+		"htmlName": {
+			"": 0,
+			"fakepac": 80,
+			"~[^a-zA-Z]?fake[^a-zA-Z]?password": 80,
+			"~password[^a-zA-Z]?placeholder": 80
+		},
+		"id": "overlay_password",
+		"labels": {},
+		"minTextLength": 8,
+		"placeholders": {},
+		"valueWeights": {
+			"enter password": 100
+		}
+	},
+	{
+		"autoCompleteType": {
+			"cc-csc": 100
+		},
+		"dataStripe": {
+			"cvc": 1000
+		},
+		"designation": "cvv",
+		"elementTypes": {
+			"number": 20,
+			"password": 25,
+			"tel": 15,
+			"text": 10
+		},
+		"htmlName": {
+			"": 0,
+			"=cardSecurityCode": 100,
+			"address": -100,
+			"cardcode": 50,
+			"cardsecurecode": 50,
+			"ccid": 50,
+			"csc": 50,
+			"cvc": 50,
+			"cvd": 50,
+			"cvn": 50,
+			"cvv": 50,
+			"securitycode": 50,
+			"tbxverification": 50,
+			"verification_value": 50
+		},
+		"id": "cvv",
+		"labels": {
+			"": 0,
+			"cardcode": 10,
+			"cardidentificationnumber": 50,
+			"cardidnumber": 60,
+			"cardsecuritynumber": 60,
+			"cardsecurityvalue": 50,
+			"cardvalidationnumber": 50,
+			"ccv": 40,
+			"checksumme": 50,
+			"cid": 40,
+			"cidnumber": 50,
+			"creditcardsecuritycode": 80,
+			"creditcardsecurityid": 80,
+			"cryptogrammedesecurite": 80,
+			"cryptogrammedesécurité": 80,
+			"csc": 40,
+			"cvc": 40,
+			"cvd": 40,
+			"cvdnumber": 50,
+			"cvn": 40,
+			"cvscode": 70,
+			"cvv": 50,
+			"cvvc": 50,
+			"cvvcardid": 50,
+			"cvvcode": 80,
+			"cvvcv": 50,
+			"cvvnumber": 80,
+			"kontrolciffer": 80,
+			"kontrolcifre": 80,
+			"securitycode": 50,
+			"securitydigits": 50,
+			"securitynumber": 50,
+			"sicherheitskode": 80,
+			"signaturepanelcode": 50,
+			"spc": 40,
+			"verificationcode": 50,
+			"verifikationskode": 80,
+			"versodevotrecartebancaire": 50
+		},
+		"minTextLength": 3,
+		"placeholders": {
+			"cvc": 50,
+			"cvcnumber": 50,
+			"cvv": 50
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"cc-given-name": 80,
+			"cc-name": -1000
+		},
+		"designation": "cardholder",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"~cc[^a-zA-Z]?first[^a-zA-Z]?name": 80,
+			"~credit[^a-zA-Z]?card[^a-zA-Z]?first[^a-zA-Z]?name": 80,
+			"~first[^a-zA-Z]?name[^a-zA-Z]?cc": 80,
+			"~holder[^a-zA-Z]?first[^a-zA-Z]?name": 80
+		},
+		"id": "cardholder_first",
+		"labels": {
+			"": 0
+		},
+		"minTextLength": 15,
+		"placeholders": {
+			"~first[^a-zA-Z]?name": 10
+		},
+		"resolves": {
+			"default": "cardholder_first"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"cc-exp": 80
+		},
+		"designation": "expiry",
+		"elementTypes": {
+			"number": 10,
+			"tel": 10,
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"=credit-card-expiration": 100,
+			"=txtExpDate": 100,
+			"~cc[^a-zA-Z]?exp": 30,
+			"~cc[^a-zA-Z]?expiry": 30
+		},
+		"id": "expiry_mmyy",
+		"labels": {
+			"": 0,
+			"ccv": -100,
+			"creditcardexpirydate": 80,
+			"expdate": 80,
+			"expiration": 80,
+			"expirationdate": 80,
+			"expirefin": 80,
+			"expires": 80,
+			"expirydate": 80,
+			"issued": -1000,
+			"mmyy": 100,
+			"number": -100,
+			"securitycode": -100,
+			"startdate": -1000,
+			"validfrom": -1000,
+			"zip": -100
+		},
+		"minTextLength": 4,
+		"placeholders": {
+			"": 0,
+			"month": -100,
+			"year": -100,
+			"~^mm[^a-zA-Z]?yyy?y?$": 80,
+			"~^yyy?y?[^a-zA-Z]?mm$": 80
+		},
+		"resolves": {
+			"default": "expiry_mmyy"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"cc-family-name": -1000,
+			"cc-given-name": -1000,
+			"cc-name": 100
+		},
+		"dataStripe": {
+			"name": 1000
+		},
+		"designation": "cardholder",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"=firstname": -500,
+			"=lastname": -500,
+			"titulaire": 50,
+			"~card[^a-zA-Z]?holder[^a-zA-Z]?(name)?": 80,
+			"~card[^a-zA-Z]?name": 50,
+			"~cc[^a-zA-Z]?name": 50,
+			"~credit[^a-zA-Z]?card[^a-zA-Z]?name": 80,
+			"~name[^a-zA-Z]?on[^a-zA-Z]?card": 80,
+			"~payment.*customername": 40,
+			"~payment[^a-zA-Z]?name": 70
+		},
+		"id": "cardholder",
+		"labels": {
+			"": 0,
+			"cardholder": 80,
+			"cardholdername": 80,
+			"cardholdersname": 80,
+			"cardname": 30,
+			"creditcardowner": 80,
+			"karteninhaber": 50,
+			"kreditkarteninhaber": 80,
+			"nameasitappearsoncard": 80,
+			"nameasitappearsoncreditcard": 80,
+			"nameaufderkarte": 80,
+			"nameaufderkreditkarte": 80,
+			"nameofcardholder": 80,
+			"nameoncard": 80,
+			"nameoncreditcard": 80,
+			"nameonthecard": 80,
+			"nameprintedoncard": 80,
+			"navnp(a)?kortet": 80,
+			"nombre": 80,
+			"paymentamount": -100,
+			"titulaire": 50
+		},
+		"minTextLength": 15,
+		"placeholders": {
+			"": 0,
+			"nameoncard": 80,
+			"~card[^a-zA-Z]?holder[^a-zA-Z]?name": 80
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"cc-number": 100
+		},
+		"dataStripe": {
+			"number": 1000
+		},
+		"designation": "ccnum",
+		"elementTypes": {
+			"number": 30,
+			"tel": 25,
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"address": -1000,
+			"cardidentifiernumber": 100,
+			"cardnumber": 50,
+			"creditcardaccountnumber": 1000,
+			"creditcardid": 50,
+			"creditcardnumber": 100,
+			"creditnumber": 50,
+			"flight": -1000,
+			"month": -1000,
+			"telephone": -1000,
+			"~cc(number|[0-9])": 100,
+			"~sec(urity)?": -1000
+		},
+		"id": "ccnum",
+		"labels": {
+			"": 0,
+			"accountnumber": -1000,
+			"americanexpress#": 80,
+			"brojkartice": 50,
+			"card#": 50,
+			"cardaccountnumber": 50,
+			"cardno": 50,
+			"cardnumber": 50,
+			"cardoraccountnumber": 50,
+			"cardverificationno": -1000,
+			"ccnumber": 50,
+			"creditcard#": 100,
+			"creditcardno": 80,
+			"creditcardnumber": 100,
+			"flight": -1000,
+			"giftcardnumber": -1000,
+			"kaartnummer": 80,
+			"kartennummer": 50,
+			"kontokort": 80,
+			"kortnummer": 80,
+			"kreditkarte": 80,
+			"kreditkartennummer": 100,
+			"kreditkort": 80,
+			"mastercard#": 80,
+			"month": -1000,
+			"name": -1000,
+			"number": 30,
+			"numerkarty": 80,
+			"numero": 30,
+			"numro": 30,
+			"numérodecarte": 50,
+			"numérodelacarte": 50,
+			"n°decarte": 80,
+			"phone": -1000,
+			"ponumber": -1000,
+			"street": -1000,
+			"tarjeta": 50,
+			"telephone": -1000,
+			"vat": -1000,
+			"verification": -1000,
+			"visa#": 80
+		},
+		"maxSplit": 4,
+		"minSplit": 3,
+		"placeholders": {
+			"": 0,
+			"################": 50,
+			"accountnumber": -1000,
+			"card#": 50,
+			"cardnumber": 50,
+			"creditcard": 50,
+			"phone": -1000
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"bday": -1000,
+			"bday-year": -1000,
+			"cc-exp-year": 100
+		},
+		"dataStripe": {
+			"exp-year": 1000,
+			"exp_year": 1000,
+			"expyear": 1000
+		},
+		"designation": "expiry",
+		"displayValueWeights": {
+			"=2016": 100,
+			"=2017": 100,
+			"=2018": 100,
+			"=2019": 100,
+			"=2020": 100
+		},
+		"elementTypes": {
+			"number": 15,
+			"select-one": 20,
+			"tel": 10,
+			"text": 10
+		},
+		"htmlName": {
+			"": 0,
+			"ccyear": 50,
+			"month": -1000,
+			"year": 5,
+			"~dob.?day": -1000,
+			"~ex.?yr": 80,
+			"~exp.?year": 80,
+			"~expdate.?year": 80,
+			"~expiration.?year": 80,
+			"~expiry.?2": 50,
+			"~expiry.?year": 80
+		},
+		"id": "expiry_yy",
+		"labels": {
+			"": 0,
+			"country": -1000,
+			"expirationyear": 80,
+			"issued": -1000,
+			"startdate": -1000,
+			"udløbsdato": 10,
+			"validfrom": -1000
+		},
+		"minSelectLength": 5,
+		"minTextLength": 2,
+		"placeholders": {
+			"": 0,
+			"=year": 10,
+			"=yy": 80,
+			"=yyyy": 80
+		},
+		"resolves": {
+			"default": "expiry_yy"
+		},
+		"valueWeights": {
+			"": 0,
+			" 0 ": -1000,
+			"=1": -20,
+			"=13": -20,
+			"=14": -20,
+			"=15": -20,
+			"=16": 10,
+			"=17": 10,
+			"=18": 10,
+			"=19": 10,
+			"=1975": -1000,
+			"=2": -20,
+			"=2005": -50,
+			"=2013": -20,
+			"=2014": -20,
+			"=2015": -20,
+			"=2016": 50,
+			"=2017": 50,
+			"=2018": 50,
+			"=2019": 50,
+			"=2020": 50,
+			"=3": -20,
+			"=4": -20,
+			"=5": -20,
+			"year": 1000
+		}
+	},
+	{
+		"autoCompleteType": {
+			"bday": -1000,
+			"bday-month": -1000,
+			"cc-exp-month": 100
+		},
+		"dataStripe": {
+			"exp-month": 1000,
+			"exp_month": 1000,
+			"expmonth": 1000
+		},
+		"designation": "expiry",
+		"displayValueWeights": {
+			"": 0,
+			"00": -50,
+			"01": 10,
+			"02": 10,
+			"03": 10,
+			"04": 10,
+			"05": 10,
+			"06": 10,
+			"07": 10,
+			"08": 10,
+			"09": 10,
+			"10": 10,
+			"11": 10,
+			"12": 10,
+			"13": -1000,
+			"augustus": 50,
+			"december": 50,
+			"enero": 50,
+			"gennaio": 50,
+			"jan": 50,
+			"янв": 50
+		},
+		"elementTypes": {
+			"number": 15,
+			"select-one": 15,
+			"tel": 10,
+			"text": 10
+		},
+		"htmlName": {
+			"": 0,
+			"cardexpmn": 50,
+			"ccmonth": 50,
+			"month": 5,
+			"year": -1000,
+			"~dob.?month": -1000,
+			"~exp(date|iry|ation).?month": 80,
+			"~exp.?month": 80,
+			"~exp?.?mnth": 80,
+			"~expiry.?1": 50
+		},
+		"id": "expiry_mm",
+		"labels": {
+			"": 0,
+			"ablaufmonat": 80,
+			"dataważności": 80,
+			"dateofbirth": -1000,
+			"expirationmonth": 80,
+			"issued": -1000,
+			"startdate": -1000,
+			"udløbsdato": 10,
+			"validfrom": -1000,
+			"vervaldatum": 80,
+			"~expir%w+month": 50
+		},
+		"maxSelectLength": 14,
+		"minSelectLength": 12,
+		"minTextLength": 2,
+		"placeholders": {
+			"": 0,
+			"=mm": 80,
+			"=month": 10,
+			"expmonth": 80,
+			"zip": -100
+		},
+		"resolves": {
+			"default": "expiry_mm"
+		}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "type",
+		"displayValueWeights": {
+			"": 0,
+			"americanexpress": 90,
+			"amex": 90,
+			"country": -1000,
+			"discover": 20,
+			"mastercard": 90,
+			"vicenza": -1000,
+			"virginislands": -1000,
+			"visa": 90
+		},
+		"elementTypes": {
+			"radio": 25,
+			"select-one": 25
+		},
+		"htmlName": {
+			"": 0,
+			"~card[^a-zA-Z]?type": 80,
+			"~cc[^a-zA-Z]?type": 80,
+			"~credit[^a-zA-Z]?card[^a-zA-Z]?type": 80
+		},
+		"labels": {
+			"": 0,
+			"cardtype": 25,
+			"country": -1000,
+			"creditcardtype": 80,
+			"estado": -1000,
+			"kaarttype": 80,
+			"kreditkartenfirma": 80,
+			"kreditkartentyp": 80,
+			"typeofcreditcard": 80
+		},
+		"valueWeights": {
+			"": 0,
+			"americanexpress": 90,
+			"amex": 90,
+			"ax": 50,
+			"canada": -1000,
+			"discover": 20,
+			"ds": 50,
+			"mastercard": 90,
+			"mc": 50,
+			"uk": -1000,
+			"unitedstates": -1000,
+			"usa": -1000,
+			"vi": 50,
+			"visa": 90
+		}
+	},
+	{
+		"autoCompleteType": {
+			"cc-family-name": 80,
+			"cc-name": -1000
+		},
+		"designation": "cardholder",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"~cc[^a-zA-Z]?last[^a-zA-Z]?name": 80,
+			"~credit[^a-zA-Z]?card[^a-zA-Z]?last[^a-zA-Z]?name": 80,
+			"~holder[^a-zA-Z]?last[^a-zA-Z]?name": 80,
+			"~last[^a-zA-Z]?name[^a-zA-Z]?cc": 80
+		},
+		"id": "cardholder_last",
+		"labels": {
+			"": 0
+		},
+		"minTextLength": 15,
+		"placeholders": {
+			"~last[^a-zA-Z]?name": 10
+		},
+		"resolves": {
+			"default": "cardholder_last"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"=current-password": 100,
+			"=new-password": -100
+		},
+		"designation": "password",
+		"elementTypes": {
+			"password": 100
+		},
+		"formDesignation": {
+			"": -1000,
+			"change-password": 100,
+			"login": -1000,
+			"registration": -1000
+		},
+		"htmlName": {
+			"currentpassword": 100,
+			"newpassword": -100,
+			"oldpassword": 100
+		},
+		"id": "change-password_password",
+		"labels": {
+			"currentpassword": 100,
+			"newpassword": -100,
+			"oldpassword": 100
+		},
+		"nextFieldType": {
+			"password": 100
+		},
+		"prevFieldType": {
+			"password": -100
+		}
+	},
+	{
+		"autoCompleteType": {
+			"=current-password": -100,
+			"=new-password": 100
+		},
+		"designation": "new-password",
+		"elementTypes": {
+			"password": 100
+		},
+		"formDesignation": {
+			"": -1000,
+			"change-password": 100,
+			"login": -1000,
+			"registration": -1000
+		},
+		"htmlName": {
+			"confirm": 100,
+			"currentpassword": -100,
+			"newpassword": 100,
+			"oldpassword": -100
+		},
+		"id": "change-password_new-password",
+		"labels": {
+			"confirm": 100,
+			"currentpassword": -100,
+			"newpassword": 100,
+			"oldpassword": -100
+		},
+		"maxSplit": 2,
+		"minSplit": 1,
+		"prevFieldType": {
+			"password": 100
+		}
+	},
+	{
+		"autoCompleteType": {
+			"=current-password": -200,
+			"=new-password": -200,
+			"=username": 200
+		},
+		"elementTypes": {
+			"email": 100,
+			"number": 10,
+			"tel": 10,
+			"text": 50
+		},
+		"htmlName": {
+			"=username": 100,
+			"customerid": 40,
+			"email": 80,
+			"fake": -250,
+			"loginid": 80,
+			"membersdisplayname": 80,
+			"password": -200,
+			"passwordastext": -1000,
+			"personalid": 40,
+			"userid": 100,
+			"username": 100,
+			"usrid": 80,
+			"usrname": 80
+		},
+		"id": "analyze_username",
+		"labels": {
+			"": 0,
+			"appleid": 50,
+			"assignee": -1000,
+			"email": 80,
+			"gebruikersnaam": 80,
+			"hotmailaddress": 80,
+			"initial": -1000,
+			"loginid": 90,
+			"membernumber": 80,
+			"middlename": -1000,
+			"onlineid": 50,
+			"search": -1000,
+			"serial": -1000,
+			"useralias": 70,
+			"userid": 100,
+			"username": 100,
+			"vatid": -1000
+		},
+		"nextFieldType": {
+			"password": 250
+		},
+		"placeholders": {
+			"email": 80,
+			"userid": 80,
+			"username": 100
+		},
+		"prevFieldType": {
+			"password": -100
+		},
+		"resolves": {
+			"default": "username",
+			"formDesignation": {
+				"login": "username",
+				"registration": "new-username"
+			}
+		}
+	},
+	{
+		"autoCompleteType": {
+			"=current-password": 100,
+			"=new-password": 100
+		},
+		"elementTypes": {
+			"password": 100
+		},
+		"formDesignation": {
+			"change-password": -1000
+		},
+		"htmlName": {
+			"=password": 100,
+			"contrasena": 100,
+			"password": 100,
+			"password1": 20,
+			"userid1": -1000
+		},
+		"id": "analyze_password",
+		"labels": {
+			"contraseña": 80,
+			"password": 100,
+			"passwort": 80,
+			"pin": 50,
+			"wachtwoord": 80
+		},
+		"placeholders": {
+			"contrasena": 100,
+			"password": 100
+		},
+		"prevFieldType": {
+			"email": 100,
+			"text": 50
+		},
+		"resolves": {
+			"default": "password",
+			"formDesignation": {
+				"login": "password",
+				"registration": "new-password"
+			}
+		},
+		"tabIndex": {
+			"-1": -1000
+		}
+	},
+	{
+		"active": 1,
+		"autoCompleteType": {
+			"=current-password": -200,
+			"=new-password": -200,
+			"=username": 200
+		},
+		"designation": "username",
+		"elementTypes": {
+			"email": 15,
+			"number": 5,
+			"tel": 5,
+			"text": 10
+		},
+		"formDesignation": {
+			"change-password": -100,
+			"login": 100,
+			"registration": -100
+		},
+		"htmlName": {
+			"=account-key": -200,
+			"=username": 100,
+			"customerid": 40,
+			"email": 80,
+			"fake": -250,
+			"loginid": 80,
+			"membersdisplayname": 80,
+			"password": -200,
+			"passwordastext": -1000,
+			"personalid": 40,
+			"userid": 100,
+			"username": 100,
+			"usrid": 80,
+			"usrname": 80,
+			"~^reg": -200
+		},
+		"id": "username",
+		"labels": {
+			"": 0,
+			"appleid": 50,
+			"assignee": -1000,
+			"email": 80,
+			"gebruikersnaam": 80,
+			"hotmailaddress": 80,
+			"initial": -1000,
+			"loginid": 90,
+			"mailinglist": -1000,
+			"membernumber": 80,
+			"middlename": -1000,
+			"onlineid": 50,
+			"search": -1000,
+			"serial": -1000,
+			"useralias": 70,
+			"userid": 100,
+			"username": 100,
+			"vatid": -1000
+		},
+		"nextFieldType": {
+			"password": 250
+		},
+		"placeholders": {
+			"email": 80,
+			"userid": 80,
+			"username": 100
+		},
+		"prevFieldType": {
+			"password": -100
+		}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "username",
+		"elementTypes": {
+			"password": 100
+		},
+		"htmlName": {
+			"password": -1000,
+			"userid": 30
+		},
+		"id": "concealedUsername",
+		"labels": {
+			"": 0,
+			"email": 80,
+			"gebruikersnaam": 80,
+			"hotmailaddress": 80,
+			"id": 20,
+			"initial": -1000,
+			"middlename": -1000,
+			"search": -1000,
+			"serial": -1000,
+			"useralias": 70,
+			"username": 80,
+			"vatid": -1000
+		},
+		"minTextLength": 10,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "totp",
+		"elementTypes": {
+			"number": 30,
+			"password": 25,
+			"tel": 30,
+			"text": 30
+		},
+		"htmlName": {
+			"2fa": 100,
+			"=authmfaotpcode": 300,
+			"=otc": 300,
+			"=otp": 300,
+			"=password": -200,
+			"=tan": 50,
+			"=tfaga": 300,
+			"=totp": 300,
+			"approvalscode": 100,
+			"authenticatorcode": 200,
+			"challenge": 50,
+			"code": 50,
+			"mfa": 50,
+			"mfaattempt": 200,
+			"mfacode": 200,
+			"onetimepassword": 200,
+			"otc": 50,
+			"otp": 50,
+			"otpattempt": 200,
+			"otpcode": 200,
+			"secondfactor": 200,
+			"securitycode": 100,
+			"securityfactor": 100,
+			"token": 50,
+			"tokenlogin": 200,
+			"totp": 100,
+			"twofactor": 200,
+			"verificationcode": 200,
+			"verifycode": 200
+		},
+		"id": "totp",
+		"labels": {
+			"": 0,
+			"0digit": 100,
+			"1digit": 100,
+			"2digit": 100,
+			"3digit": 100,
+			"4digit": 100,
+			"5digit": 100,
+			"6digit": 100,
+			"=mfa": 200,
+			"code": 50,
+			"securitycode": 100,
+			"securitytoken": 200,
+			"token": 50,
+			"twofactor": 200
+		},
+		"maxSplit": 10,
+		"maxTextLength": 10,
+		"minSplit": 6,
+		"placeholders": {
+			"000000": 100,
+			"0digit": 100,
+			"1digit": 100,
+			"2digit": 100,
+			"3digit": 100,
+			"4digit": 100,
+			"5digit": 100,
+			"6digit": 100,
+			"authenticationcode": 200,
+			"authenticatorcode": 200,
+			"code": 50,
+			"entercode": 100,
+			"giftcard": -1000,
+			"promotion": -1000,
+			"securitycode": 100,
+			"twofactor": 200
+		},
+		"valueWeights": {}
+	},
+	{
+		"active": 1,
+		"autoCompleteType": {
+			"=current-password": 100,
+			"=new-password": -100
+		},
+		"designation": "password",
+		"elementTypes": {
+			"password": 100
+		},
+		"formDesignation": {
+			"change-password": -1000,
+			"login": 300,
+			"registration": -100
+		},
+		"htmlName": {
+			"=password": 100,
+			"contrasena": 100,
+			"currentpassword": 100,
+			"newpassword": -100,
+			"oldpassword": 100,
+			"password": 100,
+			"password1": 20,
+			"userid1": -1000
+		},
+		"id": "password",
+		"labels": {
+			"contraseña": 80,
+			"currentpassword": 100,
+			"newpassword": -100,
+			"oldpassword": 100,
+			"password": 80,
+			"passwort": 80,
+			"pin": 50,
+			"wachtwoord": 80
+		},
+		"placeholders": {
+			"contrasena": 100,
+			"password": 100
+		},
+		"prevFieldType": {
+			"email": 100,
+			"text": 50
+		},
+		"tabdex": {
+			"-1": -1000
+		}
+	},
+	{
+		"designation": "avoid",
+		"elementTypes": {
+			"search": 1000,
+			"text": 20
+		},
+		"form": {
+			"htmlAction": {
+				"/search": 1000
+			},
+			"htmlName": {
+				"search": 1000
+			},
+			"role": {
+				"search": 1000
+			}
+		},
+		"htmlName": {
+			"": 0,
+			"=q": 100,
+			"criteria": 30,
+			"find": 50,
+			"keywords": 80,
+			"query": 80,
+			"recherche": 80,
+			"search": 80,
+			"srch": 80,
+			"suchen": 80,
+			"~search[^a-zA-Z]?box": 1000
+		},
+		"id": "avoid_search",
+		"labels": {
+			"search": 50,
+			"suchen": 50
+		},
+		"minTextLength": 20,
+		"placeholders": {
+			"search": 80,
+			"suchen": 80,
+			"найти": 50
+		},
+		"valueWeights": {
+			"search": 80,
+			"suchen": 80
+		}
+	},
+	{
+		"designation": "avoid",
+		"elementTypes": {
+			"text": 10
+		},
+		"htmlName": {
+			"=identificationCode": 50
+		},
+		"id": "avoid_temporary_code",
+		"labels": {
+			"temporaryidentificationcode": 50
+		}
+	},
+	{
+		"designation": "avoid",
+		"displayValueWeights": {
+			"": 0,
+			"day": -1000,
+			"dec": -1000,
+			"feb": -1000,
+			"jan": -1000,
+			"month": -1000,
+			"year": -1000
+		},
+		"elementTypes": {
+			"number": 20,
+			"select-one": 15,
+			"text": 10
+		},
+		"htmlName": {
+			"qty": 80,
+			"quantity": 80
+		},
+		"id": "avoid_quantity",
+		"labels": {
+			"": 0,
+			"expiration": -1000,
+			"expirationmonth": -1000,
+			"expirationyear": -1000,
+			"quantity": 50
+		},
+		"minSelectLength": 10,
+		"minTextLength": 2,
+		"placeholders": {},
+		"valueWeights": {
+			"": 0,
+			"1975": -1000
+		}
+	},
+	{
+		"designation": "avoid",
+		"form": {
+			"htmlAction": {
+				"newsletter": 1000,
+				"subscribe": 1000,
+				"subscription": 1000
+			},
+			"htmlName": {
+				"newsletter": 1000,
+				"subscribe": 1000,
+				"subscription": 1000
+			}
+		},
+		"id": "avoid_newsletter"
+	},
+	{
+		"designation": "avoid",
+		"elementTypes": {
+			"text": 10
+		},
+		"htmlName": {
+			"captcha": 80
+		},
+		"id": "avoid_captcha",
+		"labels": {
+			"captcha": 50
+		},
+		"minTextLength": 5,
+		"placeholders": {}
+	},
+	{
+		"designation": "avoid",
+		"elementTypes": {
+			"text": 10
+		},
+		"htmlName": {
+			"coupon": 80
+		},
+		"id": "avoid_coupon",
+		"labels": {
+			"coupon": 50
+		},
+		"minTextLength": 8,
+		"placeholders": {}
+	},
+	{
+		"designation": "avoid",
+		"elementTypes": {
+			"select-one": 25
+		},
+		"htmlName": {},
+		"id": "avoid_shipping",
+		"labels": {},
+		"placeholders": {},
+		"valueWeights": {
+			"": 0,
+			"2businessdays": 80,
+			"3businessdays": 80,
+			"4businessdays": 80,
+			"5businessdays": 80,
+			"air": 10,
+			"fedex": 100,
+			"ground": 20,
+			"ups": 10,
+			"usps": 100
+		}
+	},
+	{
+		"autoCompleteType": {
+			"address-line1": 100,
+			"street-address": 30
+		},
+		"dataStripe": {
+			"address[_-]?line1": 1000
+		},
+		"designation": "street",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"address": 5,
+			"calle": 50,
+			"email": -1000,
+			"gmail": -1000,
+			"hotmailaddress": -1000,
+			"ipaddress": -1000,
+			"~add?ress[^a-zA-Z]?1": 50,
+			"~address[^a-zA-Z]?line[^a-zA-Z]?1": 50,
+			"~street[^a-zA-Z]?1": 50
+		},
+		"id": "street",
+		"labels": {
+			"": 0,
+			"=rue": 40,
+			"address": 5,
+			"address1": 30,
+			"adres": 20,
+			"adresse": 20,
+			"billingaddress": 10,
+			"billingstreetaddress": 10,
+			"calle": 10,
+			"gatuadress": 30,
+			"leveransadress": 30,
+			"line1": 30,
+			"strasse": 30,
+			"straße": 30,
+			"straßeundhausnummer": 60,
+			"street": 10,
+			"streetaddress": 10,
+			"streetaddressone": 10,
+			"streetname": 30,
+			"username": -200
+		},
+		"minTextLength": 10,
+		"valueWeights": {
+			"postcode": -1000
+		}
+	},
+	{
+		"autoCompleteType": {
+			"country-name": 100
+		},
+		"dataStripe": {
+			"~address[^a-zA-Z]?country": 1000
+		},
+		"designation": "country",
+		"displayValueWeights": {
+			"": 0,
+			"canada": 90,
+			"deutschland": 90,
+			"english": -1000,
+			"france": 80,
+			"kanada": 90,
+			"unitedkingdom": 90,
+			"unitedstates": 80,
+			"usa": 90,
+			"~^can": 90,
+			"канада": 90,
+			"‪español": -1000,
+			"‪français": -1000
+		},
+		"elementTypes": {
+			"radio": 10,
+			"select-one": 50,
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"airline": -1000,
+			"country": 50,
+			"state": -1000
+		},
+		"id": "country",
+		"labels": {
+			"": 0,
+			"country": 50,
+			"kraj": 50,
+			"land": 20,
+			"pays": 20,
+			"страна": 50
+		},
+		"minTextLength": 10,
+		"valueWeights": {
+			"": 0,
+			"=can": 50,
+			"=uk": 50,
+			"=us": 20,
+			"=usa": 50,
+			"canada": 50,
+			"unitedstates": 50
+		}
+	},
+	{
+		"autoCompleteType": {
+			"postal-code": 100
+		},
+		"dataStripe": {
+			"~address[^a-zA-Z]?zip": 1000
+		},
+		"designation": "zip",
+		"elementTypes": {
+			"tel": 25,
+			"text": 20
+		},
+		"htmlName": {
+			"": 0,
+			"codigo-postal": 50,
+			"codigo_postal": 50,
+			"codigopostal": 50,
+			"email": -1000,
+			"phone": -1000,
+			"postal-code": 50,
+			"postal_code": 50,
+			"postalcode": 50,
+			"zip": 50,
+			"~postal[^a-zA-Z]?code[^a-zA-Z]?(left|right|1|2)": -100
+		},
+		"id": "zip",
+		"labels": {
+			"": 0,
+			"=npa": 80,
+			"codepostal": 50,
+			"código-postal": 80,
+			"código_postal": 80,
+			"códigopostal": 80,
+			"kodpocztowy": 80,
+			"plz": 80,
+			"postal": 10,
+			"postalcode": 50,
+			"postcode": 30,
+			"postleitzahl": 80,
+			"postnummer": 30,
+			"zip": 30,
+			"zipcode": 30,
+			"индекс": 30
+		},
+		"minTextLength": 4,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "new-username",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"=username": 80,
+			"displayname": 10,
+			"~account[^a-zA-Z]?number": -1000,
+			"~first[^a-zA-Z]?name": -1000,
+			"~full[^a-zA-Z]?name": -1000,
+			"~last[^a-zA-Z]?name": -1000,
+			"~screen[^a-zA-Z]?name": 80,
+			"~user[^a-zA-Z]?name": 50
+		},
+		"id": "new-username",
+		"labels": {
+			"": 0,
+			"=id": 20,
+			"accountnumber": -1000,
+			"cardid": -1000,
+			"cardnumber": -1000,
+			"displayname": 80,
+			"flightnumber": -1000,
+			"hotmailaddress": 80,
+			"initial": -1000,
+			"middlename": -1000,
+			"screenname": 80,
+			"serial": -1000,
+			"state": -1000,
+			"travelerid": -1000,
+			"useralias": 70,
+			"username": 80,
+			"vatid": -1000
+		},
+		"minTextLength": 10,
+		"valueWeights": {
+			"": 0,
+			"username": 100
+		}
+	},
+	{
+		"autoCompleteType": {
+			"administrative-area": 100,
+			"province": 100,
+			"region": 100,
+			"state": 100
+		},
+		"dataStripe": {
+			"~address[^a-zA-Z]?state": 1000
+		},
+		"designation": "state",
+		"displayValueWeights": {
+			"": 0,
+			"california": 50,
+			"florida": 50,
+			"ontario": 50
+		},
+		"elementTypes": {
+			"radio": 10,
+			"select-one": 25,
+			"text": 20
+		},
+		"htmlName": {
+			"province": 100,
+			"state": 100
+		},
+		"id": "state",
+		"labels": {
+			"": 0,
+			"canada": -1000,
+			"county": 50,
+			"departurecity": -1000,
+			"province": 80,
+			"stadt": 50,
+			"state": 50,
+			"stateprovince": 80,
+			"unitedstates": -1000,
+			"регион": 50
+		},
+		"minTextLength": 2,
+		"valueWeights": {
+			"": 0,
+			"bc": 20,
+			"california": 50,
+			"florida": 50,
+			"nh": 20,
+			"ny": 20,
+			"ontario": 50
+		}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "postalcode",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"~postal[^a-zA-Z]?code[^a-zA-Z]?(right|2)": 100
+		},
+		"id": "postalcode2",
+		"labels": {
+			"": 0,
+			"postalcode2": 80,
+			"postalcoderight": 80
+		},
+		"minTextLength": 3,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"given-name": 100
+		},
+		"designation": "firstname",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"nombre": 100,
+			"~f[^a-zA-Z]?name": 80,
+			"~first[^a-zA-Z]?name": 100,
+			"~given[^a-zA-Z]?name": 100
+		},
+		"id": "firstname",
+		"labels": {
+			"": 0,
+			"cardholders?name": -1000,
+			"firstlast": -1000,
+			"firstname": 80,
+			"forename": 80,
+			"fornavn": 80,
+			"fullname": -1000,
+			"förnamn": 80,
+			"givenname": 80,
+			"namefirst": 80,
+			"nombre": 80,
+			"nome": 25,
+			"prénom": 80,
+			"tilltalsnamn": 80,
+			"vorname": 80,
+			"имя": 80
+		},
+		"minTextLength": 10,
+		"placeholders": {
+			"firstname": 80
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"country-name": -100,
+			"family-name": -100,
+			"given-name": -100,
+			"name": 100,
+			"name-initial": -100
+		},
+		"designation": "name",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"first_name": -100,
+			"last_name": -100,
+			"username": -1000,
+			"~full[_-]?name": 50,
+			"~your[_-]?name": 50
+		},
+		"id": "name",
+		"labels": {
+			"": 0,
+			"=name": 20,
+			"card": -10,
+			"cardholder": -1000,
+			"companyname": -1000,
+			"displayname": -1000,
+			"email": -80,
+			"firstandlast": 80,
+			"firstlast": 80,
+			"firstname": -70,
+			"fullname": 80,
+			"förochefternamn": 50,
+			"gnome": -20,
+			"imięinazwiskonakarcie": 80,
+			"lastname": -70,
+			"middlename": -1000,
+			"nameoncard": -1000,
+			"nameonthecard": -1000,
+			"navn": 50,
+			"nome": 20,
+			"ownername": 20,
+			"username": -1000,
+			"yourname": 80
+		},
+		"matchesDesignations": [
+			"firstname",
+			"lastname"
+		],
+		"minTextLength": 10,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"tel-local-suffix": 100
+		},
+		"designation": "phone",
+		"elementTypes": {
+			"tel": 25,
+			"text": 20
+		},
+		"htmlName": {
+			"": 0,
+			"phone2": -10,
+			"phone3": 30,
+			"~biller[^a-zA-Z]?us[^a-zA-Z]?phone[^a-zA-Z]?line[^a-zA-Z]?number": 50,
+			"~phone[^a-zA-Z]?domestic[^a-zA-Z]?suffix": 50,
+			"~phone[^a-zA-Z]?extension": 50,
+			"~phone[^a-zA-Z]?local[^a-zA-Z]?suffix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?domestic[^a-zA-Z]?suffix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?local[^a-zA-Z]?suffix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?suffix": 50,
+			"~phone[^a-zA-Z]?suffix": 50
+		},
+		"id": "phone_suffix",
+		"labels": {
+			"": 0,
+			"daytime": -100,
+			"evening": -100,
+			"mobile": -100,
+			"phonedomesticsuffix": 40,
+			"phonelocalsuffix": 40,
+			"phonenumberdomesticsuffix": 40,
+			"phonenumberlocalsuffix": 40,
+			"phonenumbersuffix": 40,
+			"phonesuffix": 40
+		},
+		"maxTextLength": 4,
+		"resolves": {
+			"default": "phone_suffix"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"email": 100
+		},
+		"designation": "email",
+		"elementTypes": {
+			"email": 100,
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"login": 5,
+			"~available[^a-zA-Z]?emails": -1000,
+			"~e[^a-zA-Z]?mail": 50,
+			"~email[^a-zA-Z]?confirm": -1000,
+			"~payment:email": -1000
+		},
+		"id": "email",
+		"labels": {
+			"": 0,
+			"confirmemail": -1000,
+			"confirmyouremail": -1000,
+			"courriel": 80,
+			"deineemail": 80,
+			"direccióndecorreoelectrónico": 80,
+			"email": 60,
+			"emailaddress": 85,
+			"reenteryouremail": -1000,
+			"retypeemail": -1000,
+			"saisissezànouveau": -40,
+			"verifyemail": -1000,
+			"verifyyouremail": -1000,
+			"votrecourriel": 80,
+			"youremail": 80,
+			"youremailaddress": 80,
+			"вашэлектронныйадрес": 80,
+			"почтыещераз": -1000,
+			"электронныйадрес": 60
+		},
+		"minTextLength": 10,
+		"placeholders": {
+			"date": -1000,
+			"email": 25
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"gender-identity": 100,
+			"sex": 100
+		},
+		"designation": "sex",
+		"displayValueWeights": {
+			"": 0,
+			"basic": -500,
+			"female": 50,
+			"feminino": 50,
+			"frau": 50,
+			"herr": 50,
+			"kvinde": 50,
+			"male": 50,
+			"mand": 50,
+			"mascul": 50,
+			"mies": 50,
+			"mujer": 50,
+			"männl": 50,
+			"nainen": 50,
+			"uomo": 50,
+			"vrouw": 50,
+			"жен": 50,
+			"муж": 50
+		},
+		"elementTypes": {
+			"radio": 25,
+			"select-one": 25
+		},
+		"htmlName": {
+			"": 0,
+			"gender": 50,
+			"sex": 50
+		},
+		"id": "sex",
+		"labels": {
+			"": 0,
+			"anrede": 70,
+			"femalemale": 70,
+			"gender": 70,
+			"ikbeneen": 50,
+			"køn": 70,
+			"malefemale": 70,
+			"sex": 70,
+			"вашпол": 70,
+			"мужжен": 70,
+			"пол": 20
+		},
+		"maxSelectLength": 4,
+		"minSelectLength": 2,
+		"valueWeights": {
+			"": 0,
+			"=f": 50,
+			"=m": 50,
+			"female": 50,
+			"male": 50
+		}
+	},
+	{
+		"autoCompleteType": {},
+		"designation": "postalcode",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"~postal[^a-zA-Z]?code[^a-zA-Z]?(left|1)": 100
+		},
+		"id": "postalcode1",
+		"labels": {
+			"": 0,
+			"postalcode1": 80,
+			"postalcodeleft": 80
+		},
+		"minTextLength": 3,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"additional-name-initial": 100
+		},
+		"designation": "initial",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"initial": 80,
+			"~middle[^a-zA-Z]?name": 80
+		},
+		"id": "initial",
+		"labels": {
+			"": 0,
+			"cardholders?name": -1000,
+			"fullname": -1000,
+			"initial": 80,
+			"middlename": 80,
+			"отчество": 80
+		},
+		"minTextLength": 1,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"city": 100,
+			"locality": 100
+		},
+		"dataStripe": {
+			"~address[^a-zA-Z]?city": 1000
+		},
+		"designation": "city",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"city": 100,
+			"flightcity": -1000,
+			"flightnumber": -1000,
+			"poblacion": 20,
+			"zip": -1000
+		},
+		"id": "city",
+		"labels": {
+			"": 0,
+			"=lieu": 30,
+			"city": 30,
+			"email": -80,
+			"flightcity": -1000,
+			"ipaddress": -80,
+			"localité": 30,
+			"miasto": 30,
+			"ort": 20,
+			"población": 10,
+			"postort": 30,
+			"suburb": 30,
+			"town": 30,
+			"towncity": 30,
+			"ville": 30,
+			"город": 30
+		},
+		"minTextLength": 10,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"email": 100
+		},
+		"designation": "email",
+		"elementTypes": {
+			"email": 100,
+			"text": 25
+		},
+		"htmlName": {
+			"~email[^a-zA-Z]?confirm": 100
+		},
+		"id": "confirmemail",
+		"labels": {
+			"": 0,
+			"bekræftemailadresse": 80,
+			"confirmemail": 30,
+			"confirmyouremailaddress": 80,
+			"emailaddressagain": 80,
+			"emailadressewiederholen": 80,
+			"emailnochmalseingeben": 80,
+			"nouveauvotrecourriel": 80,
+			"nuevoladireccióndecorreoelectrónico": 80,
+			"reenteremail": 30,
+			"reenteryouremail": 30,
+			"reenteryouremailaddress": 50,
+			"reinseriscilemail": 80,
+			"repeatemail": 30,
+			"repeatemailaddress": 50,
+			"retypeemail": 30,
+			"retypeemailaddress": 50,
+			"verifyemail": 30,
+			"verifyemailadress": 50,
+			"verifyyouremail": 80,
+			"адресэлектроннойпочтыещераз": 80
+		},
+		"minTextLength": 10,
+		"placeholders": {
+			"confirmemail": 100
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"org": 100
+		},
+		"designation": "company",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"address": -1000,
+			"city": -1000,
+			"company": 100,
+			"country": -1000,
+			"email": -1000,
+			"phone": -1000,
+			"state": -1000,
+			"zip": -1000,
+			"~business[^a-zA-Z]?name": 100
+		},
+		"id": "company",
+		"labels": {
+			"": 0,
+			"businessname": 50,
+			"company": 50,
+			"firma": 30,
+			"organisation": 50,
+			"organization": 50,
+			"orgname": 30,
+			"virksomhedsnavn": 50
+		},
+		"minTextLength": 10,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"tel-local-prefix": 100
+		},
+		"designation": "phone",
+		"elementTypes": {
+			"tel": 25,
+			"text": 20
+		},
+		"htmlName": {
+			"": 0,
+			"=phone": -10,
+			"phone2": 20,
+			"phone3": -10,
+			"~biller[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?domestic[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?local[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?domestic[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?local[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?number[^a-zA-Z]?prefix": 50,
+			"~phone[^a-zA-Z]?prefix": 50
+		},
+		"id": "phone_prefix",
+		"labels": {
+			"": 0,
+			"daytime": -100,
+			"evening": -100,
+			"mobile": -100,
+			"phonedomesticprefix": 40,
+			"phonelocalprefix": 40,
+			"phonenumberdomesticprefix": 40,
+			"phonenumberlocalprefix": 40,
+			"phonenumberprefix": 40,
+			"phoneprefix": 40
+		},
+		"maxTextLength": 3,
+		"resolves": {
+			"default": "phone_prefix"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"tel-area-code": 100
+		},
+		"designation": "phone",
+		"elementTypes": {
+			"tel": 25,
+			"text": 20
+		},
+		"htmlName": {
+			"": 0,
+			"=phone": 20,
+			"phone2": -20,
+			"phone3": -20,
+			"~area[^a-zA-Z]?code": 50
+		},
+		"id": "phone_areacode",
+		"labels": {
+			"": 0,
+			"areacode": 40,
+			"daytime": -100,
+			"evening": -100,
+			"mobile": -100
+		},
+		"maxTextLength": 3,
+		"resolves": {
+			"default": "phone_areacode"
+		},
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"tel": 100
+		},
+		"designation": "phone",
+		"elementTypes": {
+			"tel": 100,
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"dayphone": 50,
+			"email": -1000,
+			"evening_phone": 50,
+			"getaddressbyphone": -1000,
+			"phone": 50,
+			"telefono": 50
+		},
+		"id": "phone",
+		"labels": {
+			"": 0,
+			"contacttel": 40,
+			"phone": 40,
+			"phonenumber": 40,
+			"telefon": 40,
+			"teléfono": 40,
+			"телефон": 40
+		},
+		"minTextLength": 5,
+		"valueWeights": {}
+	},
+	{
+		"autoCompleteType": {
+			"family-name": 100
+		},
+		"designation": "lastname",
+		"elementTypes": {
+			"text": 25
+		},
+		"htmlName": {
+			"": 0,
+			"apellido1": 30,
+			"apellido2": -30,
+			"~family[^a-zA-Z]?name": 100,
+			"~l[^a-zA-Z]?name": 80,
+			"~last[^a-zA-Z]?name": 100
+		},
+		"id": "lastname",
+		"labels": {
+			"": 0,
+			"=last": 10,
+			"=name": 5,
+			"=nom": 30,
+			"achternaam": 80,
+			"apellidos": 80,
+			"cognome": 80,
+			"efternamn": 80,
+			"efternavn": 80,
+			"familyname": 70,
+			"firstlast": -1000,
+			"fullname": -1000,
+			"lastname": 80,
+			"nachname": 80,
+			"namelast": 80,
+			"nomdefamille": 80,
+			"nome": -30,
+			"surname": 70,
+			"~cardholder[s]?[^a-zA-Z]?name": -1000,
+			"фамилия": 80
+		},
+		"minTextLength": 10,
+		"placeholders": {
+			"lastname": 80
+		},
+		"valueWeights": {}
+	},
+	{
+		"active": 1,
+		"autoCompleteType": {
+			"=new-password": 100
+		},
+		"designation": "new-password",
+		"elementTypes": {
+			"password": 100
+		},
+		"formDesignation": {
+			"change-password": -1000,
+			"registration": 100
+		},
+		"htmlName": {
+			"contrasena": 100,
+			"currentpassword": -500,
+			"oldpassword": -500,
+			"password": 100,
+			"password1": 20
+		},
+		"id": "registration_new-password",
+		"labels": {
+			"contraseña": 80,
+			"currentpassword": -500,
+			"oldpassword": -500,
+			"password": 80,
+			"passwort": 80,
+			"pin": 50,
+			"wachtwoord": 80
+		},
+		"maxSplit": 2,
+		"minSplit": 1,
+		"placeholders": {
+			"contrasena": 100,
+			"password": 100
+		},
+		"prevFieldType": {
+			"email": 100,
+			"text": 50
+		}
+	}
+]

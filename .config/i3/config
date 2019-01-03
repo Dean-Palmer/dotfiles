@@ -113,7 +113,7 @@
 	#bindsym $mod+d focus child
 
 	#Custom floating window settings
-	floating_maximum_size 1280 x 720
+	#floating_Maximum_size 1280 x 720
 
 	#Workspaces
 	set $ws1 "1"
@@ -235,7 +235,7 @@ exec --no-startup-id xrandr --output DP-1 --mode 1920x1080 --pos 1920x0 --rotate
 	bindsym XF86AudioPrev exec playerctl previous
 
 # Wallpaper with feh
-exec_always feh --bg-fill ~/Projects/Pictures/Landscape/pyramid.png ~/Projects/Pictures/Portrait/moon-man.jpg
+exec_always feh --bg-fill ~/Projects/Pictures/Landscape/arch2.jpg ~/Projects/Pictures/Portrait/overkill.jpg
 
 # Border color
 # class		border		backgr.		text		indicator	child_border
@@ -249,7 +249,7 @@ client.focused	#4c7899		#ff3300		#ffffff		#ff3300		#ff4d00
 for_window [class="^.*"] border pixel 1
 gaps inner 0
 gaps outer 0 
-#smart_borders off 
+smart_borders on
 
 # Hide cursor
 exec_always --no-startup-id unclutter
@@ -301,5 +301,5 @@ bindsym $mod+Shift+u		gaps inner current set 0; gaps outer current set 0
 
 #Application shortcuts
 	bindsym $mod+q exec --no-startup-id qutebrowser
-	bindsym $mod+t exec bash ~/.scripts/misc/lock.sh 
+	bindsym $mod+t exec bash ~/.scripts/lock.sh 
 	bindsym $mod+o exec --no-startup-id remmina -c ~/.local/share/remmina/1541079335075.remmina

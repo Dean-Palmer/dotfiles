@@ -121,7 +121,7 @@ fi
 source ~/.scripts/misc/aliases.sh
 
 #Lock PC
-alias lock='bash ~/.scripts/misc/lock.sh'
+alias lock='bash ~/.scripts/lock.sh'
 
 #set keyboard to UK(gb)
 alias gb='setxkbmap gb'

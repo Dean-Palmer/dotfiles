@@ -7502,3 +7502,94 @@ Dec 21 09:09 : client: [0] opened from [::1]:35276
 Dec 21 09:09 : client: [0] closed
 Dec 21 09:19 : client: [1] opened from [::1]:35342
 Dec 21 09:20 : client: [1] closed
+Dec 21 12:47 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 21 12:47 : player: played "http://82.16.196.118:8000"
+Dec 21 12:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 12:48 : config: option 'device' on line 13 was not recognized
+Dec 21 12:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 12:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 12:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Dec 21 12:49 : player: played "http://82.16.196.118:8000"
+Dec 21 12:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 12:50 : config: option 'device' on line 13 was not recognized
+Dec 21 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 21 13:38 : player: played "http://82.16.196.118:8000"
+Dec 21 13:38 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 08:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 08:26 : config: option 'device' on line 13 was not recognized
+Jan 02 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 08:45 : client: [0] opened from [::1]:59918
+Jan 02 08:45 : client: [0] closed
+Jan 02 08:45 : client: [1] opened from [::1]:59920
+Jan 02 08:45 : client: [1] closed
+Jan 02 08:45 : client: [2] opened from [::1]:59922
+Jan 02 08:45 : player: played "http://82.16.196.118:8000"
+Jan 02 08:45 : client: [2] closed
+Jan 02 08:45 : client: [3] opened from [::1]:59924
+Jan 02 08:45 : client: [3] closed
+Jan 02 08:45 : client: [4] opened from [::1]:59926
+Jan 02 08:45 : client: [4] closed
+Jan 02 08:45 : client: [5] opened from [::1]:59930
+Jan 02 08:45 : client: [5] closed
+Jan 02 16:53 : client: [6] opened from [::1]:35416
+Jan 02 16:53 : client: [6] closed
+Jan 02 16:53 : client: [7] opened from [::1]:35418
+Jan 02 16:53 : client: [7] closed
+Jan 02 16:53 : client: [8] opened from [::1]:35420
+Jan 02 16:53 : client: [8] closed
+Jan 02 16:53 : client: [9] opened from [::1]:35422
+Jan 02 16:53 : client: [9] closed
+Jan 02 16:53 : client: [10] opened from [::1]:35424
+Jan 02 16:53 : client: [10] closed
+Jan 02 16:53 : client: [11] opened from [::1]:35426
+Jan 02 16:53 : client: [11] closed
+Jan 02 16:53 : client: [12] opened from [::1]:35428
+Jan 02 16:53 : client: [12] closed
+Jan 02 16:53 : client: [13] opened from [::1]:35430
+Jan 02 16:53 : client: [13] closed
+Jan 02 16:53 : client: [14] opened from [::1]:35432
+Jan 02 16:53 : client: [14] closed
+Jan 02 16:53 : client: [15] opened from [::1]:35434
+Jan 02 16:53 : client: [15] closed
+Jan 02 16:53 : client: [16] opened from [::1]:35436
+Jan 02 16:53 : client: [16] closed
+Jan 02 16:53 : client: [17] opened from [::1]:35438
+Jan 02 16:53 : client: [17] closed
+Jan 02 16:53 : client: [18] opened from [::1]:35440
+Jan 02 16:53 : client: [18] closed
+Jan 02 16:53 : client: [19] opened from [::1]:35442
+Jan 02 16:53 : client: [19] closed
+Jan 02 16:53 : client: [20] opened from [::1]:35444
+Jan 02 16:53 : client: [20] closed
+Jan 03 08:23 : player: played "http://82.16.196.118:8000"
+Jan 03 08:23 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 03 08:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 08:26 : config: option 'device' on line 13 was not recognized
+Jan 03 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 09:33 : client: [0] opened from [::1]:35582
+Jan 03 09:33 : client: [0] closed
+Jan 03 09:33 : client: [1] opened from [::1]:35584
+Jan 03 09:33 : client: [1] closed
+Jan 03 09:33 : client: [2] opened from [::1]:35586
+Jan 03 09:33 : client: [2] closed
+Jan 03 09:33 : client: [3] opened from [::1]:35588
+Jan 03 09:33 : client: [3] closed
+Jan 03 09:33 : client: [4] opened from [::1]:35590
+Jan 03 09:33 : client: [4] closed
+Jan 03 09:33 : client: [5] opened from [::1]:35592
+Jan 03 09:33 : client: [5] closed
+Jan 03 11:28 : player: played "http://82.16.196.118:8000"
+Jan 03 11:28 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 03 11:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:29 : config: option 'device' on line 13 was not recognized
+Jan 03 11:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:40 : player: played "http://82.16.196.118:8000"
+Jan 03 11:40 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 03 11:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:40 : config: option 'device' on line 13 was not recognized
+Jan 03 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

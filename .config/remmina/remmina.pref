@@ -18,8 +18,8 @@ small_toolbutton=false
 view_file_mode=0
 resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050
 keystrokes=Send hello world§hello world\\n
-main_width=948
-main_height=987
+main_width=1920
+main_height=1006
 main_maximize=false
 main_sort_column_id=1
 main_sort_order=0
@@ -83,7 +83,7 @@ color14=#989a9c
 color15=#d5ccba
 
 [usage_stats]
-periodic_usage_stats_permission_asked=false
+periodic_usage_stats_permission_asked=true
 periodic_usage_stats_permitted=false
 periodic_usage_stats_last_sent=0
 periodic_usage_stats_uuid_prefix=

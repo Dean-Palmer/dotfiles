@@ -8,24 +8,28 @@
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.12-linux">
   <Global>
     <ExtraData>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=c1b10c53-6112-4640-99cf-ec87d79ff3fb"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=server 2012"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="0,288,1920,1045"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/deanpalmer/Projects/Work"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/deanpalmer/Projects/Work/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO,/home/dean/Downloads/ubuntu-18.04.1-desktop-amd64.iso"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=c1b10c53-6112-4640-99cf-ec87d79ff3fb,m=5269c056-43f1-4380-bd8d-64ed9c58addc"/>
+      <ExtraDataItem name="GUI/HostNetworkManager/Details/Expanded" value="true"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="m=Windows 10"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,480,1920,1045"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/deanpalmer/Projects/Share/IT/Software/OS Disks/Windows 10 Pro (64bit) OEM"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/deanpalmer/Projects/Share/IT/Software/OS Disks/Windows 10 Pro (64bit) OEM/Windows10.iso,/home/deanpalmer/Projects/Work/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO,/home/dean/Downloads/ubuntu-18.04.1-desktop-amd64.iso"/>
       <ExtraDataItem name="GUI/SplitterSizes" value="639,1277"/>
       <ExtraDataItem name="GUI/Statusbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="None"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="5"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2018-12-14, stable, 5.2.22"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="7"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-01-04, stable, 5.2.22"/>
+      <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.3.99"/>
+      <ExtraDataItem name="HostOnly/vboxnet0/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{c1b10c53-6112-4640-99cf-ec87d79ff3fb}" src="/home/dean/VirtualBox VMs/server 2012/server 2012.vbox"/>
+      <MachineEntry uuid="{5269c056-43f1-4380-bd8d-64ed9c58addc}" src="/home/dean/VirtualBox VMs/Windows 10/Windows 10.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>
-        <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>
+        <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="0"/>
       </DHCPServers>
     </NetserviceRegistry>
     <SystemProperties defaultMachineFolder="/home/dean/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" exclusiveHwVirt="true"/>

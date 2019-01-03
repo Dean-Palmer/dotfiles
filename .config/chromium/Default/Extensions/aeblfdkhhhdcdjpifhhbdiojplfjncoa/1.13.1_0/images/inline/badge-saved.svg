@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <rect id="badge-saved-a" width="16" height="16" rx="8"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#CBF2AA" xlink:href="#badge-saved-a"/>
+    <rect width="15" height="15" x=".5" y=".5" stroke="#50B347" rx="7.5"/>
+    <polygon fill="#398033" points="13 4 10.642 4 7.789 8.566 6.521 7 3.948 7 8.003 12.007"/>
+  </g>
+</svg>
