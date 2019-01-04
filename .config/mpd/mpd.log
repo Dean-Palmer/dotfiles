@@ -7593,3 +7593,80 @@ Jan 03 11:40 : exception: RTIOThread could not get realtime scheduling, continui
 Jan 03 11:40 : config: option 'device' on line 13 was not recognized
 Jan 03 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jan 03 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:41 : player: played "http://82.16.196.118:8000"
+Jan 03 14:41 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 03 14:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:42 : config: option 'device' on line 13 was not recognized
+Jan 03 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:43 : player: played "http://82.16.196.118:8000"
+Jan 03 14:43 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 03 14:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:44 : config: option 'device' on line 13 was not recognized
+Jan 03 14:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 14:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 16:48 : client: [0] opened from [::1]:57068
+Jan 03 16:48 : player: played "http://82.16.196.118:8000"
+Jan 03 16:48 : client: [1] opened from [::1]:57072
+Jan 03 16:48 : client: [1] closed
+Jan 03 16:48 : client: [2] opened from [::1]:57074
+Jan 03 16:48 : client: [2] closed
+Jan 03 16:48 : client: [3] opened from [::1]:57076
+Jan 03 16:48 : client: [3] closed
+Jan 03 16:48 : client: [4] opened from [::1]:57078
+Jan 03 16:48 : client: [4] closed
+Jan 03 16:48 : client: [5] opened from [::1]:57080
+Jan 03 16:48 : client: [5] closed
+Jan 03 16:48 : client: [6] opened from [::1]:57082
+Jan 03 16:48 : client: [6] closed
+Jan 03 16:48 : client: [7] opened from [::1]:57084
+Jan 03 16:48 : client: [7] closed
+Jan 03 16:48 : client: [0] closed
+Jan 03 16:51 : player: played "Jpegmafia/Veteran/JPEGMAFIA - Veteran - 01 1539 N. Calvert.mp3"
+Jan 03 16:53 : player: played "Jpegmafia/Veteran/JPEGMAFIA - Veteran - 02 Real Nega.mp3"
+Jan 03 16:53 : client: [8] opened from [::1]:57138
+Jan 03 16:53 : client: [8] closed
+Jan 03 16:53 : client: [9] opened from [::1]:57140
+Jan 03 16:53 : client: [9] closed
+Jan 03 16:56 : player: played "Jpegmafia/Veteran/JPEGMAFIA - Veteran - 05 Baby I'm Bleeding.mp3"
+Jan 03 16:56 : client: [10] opened from [::1]:57150
+Jan 03 16:56 : client: [10] closed
+Jan 03 16:59 : player: played "Jpegmafia/Veteran/JPEGMAFIA - Veteran - 07 Rock N Roll Is Dead.mp3"
+Jan 03 17:00 : client: [11] opened from [::1]:57266
+Jan 03 17:00 : player: played "Jpegmafia/Veteran/JPEGMAFIA - Veteran - 19 Curb Stomp.mp3"
+Jan 03 17:00 : client: [12] opened from [::1]:57268
+Jan 03 17:00 : client: [12] closed
+Jan 03 17:00 : client: [13] opened from [::1]:57270
+Jan 03 17:00 : client: [13] closed
+Jan 03 17:00 : client: [11] closed
+Jan 03 17:00 : player: played "http://82.16.196.118:8000"
+Jan 03 17:00 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 04 08:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 08:25 : config: option 'device' on line 13 was not recognized
+Jan 04 08:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 08:25 : exception: Failed to decode http://82.16.196.118:8000
+Jan 04 08:25 : exception: nested: CURL failed: Empty reply from server
+Jan 04 08:25 : player: played "http://82.16.196.118:8000"
+Jan 04 08:57 : client: [0] opened from [::1]:38518
+Jan 04 08:57 : client: [0] closed
+Jan 04 08:58 : client: [1] opened from [::1]:38522
+Jan 04 08:58 : client: [1] closed
+Jan 04 08:58 : client: [2] opened from [::1]:38524
+Jan 04 08:58 : client: [2] closed
+Jan 04 08:58 : exception: Failed to decode http://82.16.196.118:8000
+Jan 04 08:58 : exception: nested: CURL failed: Recv failure: Connection reset by peer
+Jan 04 08:58 : player: played "http://82.16.196.118:8000"
+Jan 04 08:58 : exception: Failed to decode http://82.16.196.118:8000
+Jan 04 08:58 : exception: nested: CURL failed: Recv failure: Connection reset by peer
+Jan 04 08:58 : player: played "http://82.16.196.118:8000"
+Jan 04 08:58 : client: [3] opened from [::1]:38530
+Jan 04 08:58 : client: [3] closed
+Jan 04 08:58 : client: [4] opened from [::1]:38532
+Jan 04 08:58 : client: [4] closed
+Jan 04 08:58 : client: [5] opened from [::1]:38538
+Jan 04 08:58 : client: [5] closed
+Jan 04 08:58 : client: [6] opened from [::1]:38540
+Jan 04 08:58 : client: [6] closed
+Jan 04 08:58 : client: [7] opened from [::1]:38542
+Jan 04 08:58 : client: [7] closed
+Jan 04 08:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

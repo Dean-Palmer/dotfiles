@@ -1,6 +1,14 @@
+#
+set mbox_type=Maildir
+set folder=~/.mail/
+set record=+Sent
+set postponed=+Drafts
+set trash=+Trash
+set mail_check=2
+
+set my_username="dean.palmer@protonmail.com"
+set my_password="ReyMQpzDI6xYiUmVYK4brw"
 # User config
 set my_realname="Dean Palner"
-set my_username="dean"
 set my_domain="spapartsvortex.eu"
-set my_password="crTW7Z7tv8TaoUNiShYS"
 set my_lang="en_US"

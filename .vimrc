@@ -33,7 +33,6 @@ Plug 'jceb/vim-orgmode'
 Plug 'tpope/vim-speeddating'
 "Provieds tags for the current file. orgmode extra
 Plug 'majutsushi/tagbar'
-
 Plug 'chrisbra/NrrwRgn'
 Plug 'tpope/vim-pathogen'
 Plug 'mattn/calendar-vim'

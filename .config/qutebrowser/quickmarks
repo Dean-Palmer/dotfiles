@@ -9,3 +9,4 @@ cert https://wiki.archlinux.org/index.php/User:Grawity/Adding_a_trusted_CA_certi
 sans https://www.sans.org/score/checklists
 vlan https://networkengineering.stackexchange.com/questions/41835/default-static-route-per-vlan
 office https://www.office.com/?auth=2&home=1
+m https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA/videos

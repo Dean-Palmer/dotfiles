@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 75
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
 current: 0
-time: 2442.497000
+time: 4.249000
 random: 0
 repeat: 1
 single: 0
@@ -13,7 +13,7 @@ mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
 song_begin: http://82.16.196.118:8000
-Title: Harry Potter and the Half Blood Prince - J.K. Rowling - Chapter 22 - After the Burial
+Title: Harry Potter and the Half Blood Prince - J. K. Rowling - Chapter 30 - The White Tomb
 Name: Raspberr pi MPD
 song_end
 playlist_end
