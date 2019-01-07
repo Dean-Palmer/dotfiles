@@ -1,5 +1,5 @@
 [PlasmaRunnerManager]
-LaunchCounts=1 services_vim.desktop,2 services_qutebrowser.desktop,1 services_org.remmina.Remmina.desktop,9 services_com.teamviewer.TeamViewer.desktop,8 services_urxvt.desktop,4 services_chromium.desktop
+LaunchCounts=3 services_qutebrowser.desktop,10 services_com.teamviewer.TeamViewer.desktop,8 services_urxvt.desktop,4 services_chromium.desktop,1 desktopsessions_1,1 services_org.remmina.Remmina.desktop,1 services_vim.desktop
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 3][Horizontal1920]

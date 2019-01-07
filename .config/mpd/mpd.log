@@ -7670,3 +7670,139 @@ Jan 04 08:58 : client: [6] closed
 Jan 04 08:58 : client: [7] opened from [::1]:38542
 Jan 04 08:58 : client: [7] closed
 Jan 04 08:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 11:42 : client: [8] opened from [::1]:41852
+Jan 04 11:42 : client: [8] closed
+Jan 04 11:42 : client: [9] opened from [::1]:41854
+Jan 04 11:42 : client: [9] closed
+Jan 04 12:12 : client: [10] opened from [::1]:41998
+Jan 04 12:12 : client: [10] closed
+Jan 04 12:12 : client: [11] opened from [::1]:42000
+Jan 04 12:12 : client: [11] closed
+Jan 04 12:18 : player: played "http://82.16.196.118:8000"
+Jan 04 12:19 : client: [12] opened from [::1]:42052
+Jan 04 12:19 : client: [12] closed
+Jan 04 12:19 : client: [13] opened from [::1]:42054
+Jan 04 12:19 : client: [13] closed
+Jan 04 12:19 : client: [14] opened from [::1]:42058
+Jan 04 12:19 : client: [14] closed
+Jan 04 14:05 : player: played "http://82.16.196.118:8000"
+Jan 04 14:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:06 : config: option 'device' on line 13 was not recognized
+Jan 04 14:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:06 : exception: Failed to decode http://82.16.196.118:8000
+Jan 04 14:06 : exception: nested: CURL failed: Failed to connect to 82.16.196.118 port 8000: No route to host
+Jan 04 14:06 : player: played "http://82.16.196.118:8000"
+Jan 04 14:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:08 : config: option 'device' on line 13 was not recognized
+Jan 04 14:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:12 : config: option 'device' on line 13 was not recognized
+Jan 04 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:36 : config: option 'device' on line 13 was not recognized
+Jan 04 14:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:49 : config: option 'device' on line 13 was not recognized
+Jan 04 15:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 15:27 : config: option 'device' on line 13 was not recognized
+Jan 04 15:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 15:33 : config: option 'device' on line 13 was not recognized
+Jan 04 15:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 15:37 : config: option 'device' on line 13 was not recognized
+Jan 04 15:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 15:40 : config: option 'device' on line 13 was not recognized
+Jan 04 15:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 15:46 : config: option 'device' on line 13 was not recognized
+Jan 07 08:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:32 : config: option 'device' on line 13 was not recognized
+Jan 07 08:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:34 : config: option 'device' on line 13 was not recognized
+Jan 07 08:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:44 : config: option 'device' on line 13 was not recognized
+Jan 07 08:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:46 : config: option 'device' on line 13 was not recognized
+Jan 07 08:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 08:58 : config: option 'device' on line 13 was not recognized
+Jan 07 09:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:00 : config: option 'device' on line 13 was not recognized
+Jan 07 09:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:05 : config: option 'device' on line 13 was not recognized
+Jan 07 09:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:10 : config: option 'device' on line 13 was not recognized
+Jan 07 09:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:12 : config: option 'device' on line 13 was not recognized
+Jan 07 09:20 : client: [0] opened from [::1]:53924
+Jan 07 09:20 : client: [0] closed
+Jan 07 09:25 : client: [1] opened from [::1]:54308
+Jan 07 09:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:25 : client: [2] opened from [::1]:54316
+Jan 07 09:25 : client: [2] closed
+Jan 07 09:25 : client: [3] opened from [::1]:54318
+Jan 07 09:25 : client: [3] closed
+Jan 07 09:25 : client: [4] opened from [::1]:54320
+Jan 07 09:25 : client: [4] closed
+Jan 07 09:25 : client: [5] opened from [::1]:54322
+Jan 07 09:25 : client: [5] closed
+Jan 07 09:25 : client: [1] closed
+Jan 07 09:28 : client: [6] opened from [::1]:54734
+Jan 07 09:28 : client: [6] closed
+Jan 07 09:28 : client: [7] opened from [::1]:54736
+Jan 07 09:28 : client: [7] closed
+Jan 07 09:28 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/1. The Chase (feat. Kadhja Bonet).mp3"
+Jan 07 09:30 : client: [8] opened from [::1]:55104
+Jan 07 09:30 : client: [8] closed
+Jan 07 09:30 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/2. Headlow (feat. Norelle).mp3"
+Jan 07 09:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:30 : config: option 'device' on line 13 was not recognized
+Jan 07 09:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:38 : client: [0] opened from [::1]:39888
+Jan 07 09:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:38 : client: [0] closed
+Jan 07 09:40 : client: [1] opened from [::1]:40014
+Jan 07 09:40 : client: [1] closed
+Jan 07 09:42 : client: [2] opened from [::1]:40382
+Jan 07 09:42 : client: [2] closed
+Jan 07 09:43 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/3. Tints (feat. Kendrick Lamar).mp3"
+Jan 07 09:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 09:52 : config: option 'device' on line 13 was not recognized
+Jan 07 09:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:17 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/3. Tints (feat. Kendrick Lamar).mp3"
+Jan 07 10:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:18 : config: option 'device' on line 13 was not recognized
+Jan 07 10:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:18 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/3. Tints (feat. Kendrick Lamar).mp3"
+Jan 07 10:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:23 : config: option 'device' on line 13 was not recognized
+Jan 07 10:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:48 : client: [0] opened from [::1]:55718
+Jan 07 10:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 10:48 : client: [0] closed
+Jan 07 10:49 : client: [1] opened from [::1]:55762
+Jan 07 10:49 : client: [1] closed
+Jan 07 10:51 : client: [2] opened from [::1]:55860
+Jan 07 10:51 : player: played "Anderson .Paak - Oxnard (2018) Mp3 (320kbps) [Hunter]/Anderson .Paak - Oxnard (320)/3. Tints (feat. Kendrick Lamar).mp3"
+Jan 07 10:51 : client: [2] closed
+Jan 07 10:51 : client: [3] opened from [::1]:55868
+Jan 07 10:51 : client: [3] closed
+Jan 07 10:51 : client: [4] opened from [::1]:55870
+Jan 07 10:51 : client: [4] closed
+Jan 07 10:52 : client: [5] opened from [::1]:55882
+Jan 07 10:52 : client: [5] closed
+Jan 07 10:52 : client: [6] opened from [::1]:55908
+Jan 07 10:52 : client: [6] closed
+Jan 07 10:52 : client: [7] opened from [::1]:55912
+Jan 07 10:52 : client: [7] closed
+Jan 07 10:52 : player: played "http://82.16.196.118:8000"
+Jan 07 10:53 : client: [8] opened from [::1]:55934
+Jan 07 10:53 : player: played "http://82.16.196.118:8000"
+Jan 07 10:53 : client: [8] closed
+Jan 07 10:53 : client: [9] opened from [::1]:55936
+Jan 07 10:53 : client: [9] closed
+Jan 07 10:53 : client: [10] opened from [::1]:55938
+Jan 07 10:53 : client: [10] closed
+Jan 07 11:01 : player: played "http://82.16.196.118:8000"
+Jan 07 11:01 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 07 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 11:02 : config: option 'device' on line 13 was not recognized
+Jan 07 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 11:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 07 11:09 : client: [0] opened from [::1]:45996
+Jan 07 11:09 : client: [0] closed

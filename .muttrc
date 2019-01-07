@@ -1,7 +1,6 @@
 ## Basic configuration
 
 source "~/.mutt/vortex"
-source "~/.mutt/proton"
 
 set beep_new
 
@@ -43,7 +42,7 @@ set smtp_url = "smtp://$my_username@$my_domain@outlook.office365.com:587/"
 set ssl_force_tls = yes
 set smtp_authenticators = "login"
 
-## More settings
+# More settings
 
 # File storage settings
 
