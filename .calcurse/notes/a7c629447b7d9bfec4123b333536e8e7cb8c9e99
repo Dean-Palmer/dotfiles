@@ -1,4 +1,0 @@
-* Their handsets are set to use their number, but defaults back to our UK
-    one. According to Kris at Lily we need an international SIP portal to be
-    able to support this. Check when we get Lily Cloud if this is still the
-    case
