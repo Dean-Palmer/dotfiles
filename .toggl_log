@@ -119653,3 +119653,127 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.toggl.com', p
           'name': 'General',
           'template': False,
           'wid': 931431}}
+2019-04-05 11:01:07,495 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/projects/14139066' data: null
+2019-04-05 11:01:07,677 - toggl.utils - DEBUG - Response 200:
+{'data': {'active': True,
+          'actual_hours': 3798,
+          'at': '2016-07-19T11:47:16+00:00',
+          'auto_estimates': False,
+          'billable': False,
+          'cid': 18329585,
+          'color': '7',
+          'created_at': '2016-02-26T13:45:37+00:00',
+          'hex_color': '#268bb5',
+          'id': 14139066,
+          'is_private': False,
+          'name': 'General',
+          'template': False,
+          'wid': 931431}}
+2019-04-05 11:01:07,682 - toggl.api.fields - WARNING - Assigning as ID to mapped field value which is not integer!
+2019-04-05 11:01:07,682 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/workspaces/931431' data: null
+2019-04-05 11:01:07,905 - toggl.utils - DEBUG - Response 200:
+{'data': {'admin': False,
+          'at': '2018-03-28T09:46:45+00:00',
+          'default_currency': 'USD',
+          'default_hourly_rate': 0,
+          'ical_enabled': True,
+          'id': 931431,
+          'name': "Alex's workspace",
+          'only_admins_may_create_projects': False,
+          'only_admins_see_billable_rates': False,
+          'only_admins_see_team_dashboard': False,
+          'premium': False,
+          'profile': 0,
+          'projects_billable_by_default': True,
+          'rounding': 1,
+          'rounding_minutes': 0}}
+2019-04-05 11:01:07,906 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/projects/14139066' data: null
+2019-04-05 11:01:08,370 - toggl.utils - DEBUG - Response 200:
+{'data': {'active': True,
+          'actual_hours': 3798,
+          'at': '2016-07-19T11:47:16+00:00',
+          'auto_estimates': False,
+          'billable': False,
+          'cid': 18329585,
+          'color': '7',
+          'created_at': '2016-02-26T13:45:37+00:00',
+          'hex_color': '#268bb5',
+          'id': 14139066,
+          'is_private': False,
+          'name': 'General',
+          'template': False,
+          'wid': 931431}}
+2019-04-05 11:01:08,371 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/projects/14139066' data: null
+2019-04-05 11:01:08,558 - toggl.utils - DEBUG - Response 200:
+{'data': {'active': True,
+          'actual_hours': 3798,
+          'at': '2016-07-19T11:47:16+00:00',
+          'auto_estimates': False,
+          'billable': False,
+          'cid': 18329585,
+          'color': '7',
+          'created_at': '2016-02-26T13:45:37+00:00',
+          'hex_color': '#268bb5',
+          'id': 14139066,
+          'is_private': False,
+          'name': 'General',
+          'template': False,
+          'wid': 931431}}
+2019-04-05 11:01:08,560 - toggl.utils - INFO - Sending POST to 'https://www.toggl.com/api/v8/time_entries' data: "{\"time_entry\": {\"id\": null, \"wid\": 931431, \"description\": \"Learning more about NAT\", \"pid\": 14139066, \"tid\": null, \"billable\": false, \"start\": \"2019-04-05T10:01:07.682103Z\", \"stop\": null, \"duration\": -1554458467, \"created_with\": \"TogglCLI\", \"tags\": null}}"
+2019-04-05 11:01:08,928 - toggl.utils - DEBUG - Response 200:
+{'data': {'at': '2019-04-05T10:00:25+00:00',
+          'billable': False,
+          'description': 'Learning more about NAT',
+          'duration': -1554458467,
+          'duronly': False,
+          'id': 1153355943,
+          'pid': 14139066,
+          'start': '2019-04-05T10:01:07.682103Z',
+          'uid': 4014295,
+          'wid': 931431}}
+2019-04-05 11:01:09,248 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/time_entries/current' data: null
+2019-04-05 11:01:09,456 - toggl.utils - DEBUG - Response 200:
+{'data': {'at': '2019-04-05T10:00:25+00:00',
+          'billable': False,
+          'description': 'Learning more about NAT',
+          'duration': -1554458467,
+          'duronly': False,
+          'guid': 'ce4da506bdfc25be1443e576211dfb6d',
+          'id': 1153355943,
+          'pid': 14139066,
+          'start': '2019-04-05T10:01:07+00:00',
+          'uid': 4014295,
+          'wid': 931431}}
+2019-04-05 11:01:09,457 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/workspaces/931431' data: null
+2019-04-05 11:01:09,624 - toggl.utils - DEBUG - Response 200:
+{'data': {'admin': False,
+          'at': '2018-03-28T09:46:45+00:00',
+          'default_currency': 'USD',
+          'default_hourly_rate': 0,
+          'ical_enabled': True,
+          'id': 931431,
+          'name': "Alex's workspace",
+          'only_admins_may_create_projects': False,
+          'only_admins_see_billable_rates': False,
+          'only_admins_see_team_dashboard': False,
+          'premium': False,
+          'profile': 0,
+          'projects_billable_by_default': True,
+          'rounding': 1,
+          'rounding_minutes': 0}}
+2019-04-05 11:01:09,625 - toggl.utils - INFO - Sending GET to 'https://www.toggl.com/api/v8/projects/14139066' data: null
+2019-04-05 11:01:09,794 - toggl.utils - DEBUG - Response 200:
+{'data': {'active': True,
+          'actual_hours': 3800,
+          'at': '2016-07-19T11:47:16+00:00',
+          'auto_estimates': False,
+          'billable': False,
+          'cid': 18329585,
+          'color': '7',
+          'created_at': '2016-02-26T13:45:37+00:00',
+          'hex_color': '#268bb5',
+          'id': 14139066,
+          'is_private': False,
+          'name': 'General',
+          'template': False,
+          'wid': 931431}}
