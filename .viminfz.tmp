@@ -11,2334 +11,526 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/mod+e
-
-# Last Substitute Search Pattern:
-~MSle0&RED
+~MSle0~/rtr
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:w
-|2,0,1546856058,,"w"
 :q
-|2,0,1546855344,,"q"
+|2,0,1554380437,,"q"
 :wq
-|2,0,1546851309,,"wq"
-:set spell
-|2,0,1546605132,,"set spell"
-:set tw=10000
-|2,0,1546604832,,"set tw=10000"
-:tw
-|2,0,1546604795,,"tw"
-:setspell
-|2,0,1546604570,,"setspell"
-:Wq
-|2,0,1546603753,,"Wq"
-:wq look\ into.txt
-|2,0,1546603032,,"wq look\\ into.txt"
-:wq look into.txt
-|2,0,1546603026,,"wq look into.txt"
+|2,0,1554379286,,"wq"
+:w
+|2,0,1554372806,,"w"
 :q!
-|2,0,1546601679,,"q!"
-:W
-|2,0,1546601384,,"W"
-:p
-|2,0,1546594472,,"p"
-:e
-|2,0,1546442087,,"e"
-:Q
-|2,0,1546433443,,"Q"
-:wq!
-|2,0,1546426768,,"wq!"
+|2,0,1554298886,,"q!"
 :Lq
-|2,0,1545395282,,"Lq"
-:L
-|2,0,1545389113,,"L"
-:% s/poseidon/leda/g
-|2,0,1545385285,,"% s/poseidon/leda/g"
-:% s/Poseidon/leda/g
-|2,0,1545385273,,"% s/Poseidon/leda/g"
+|2,0,1554298883,,"Lq"
 :Lw
-|2,0,1545321217,,"Lw"
-:w! pdf.s
-|2,0,1545318347,,"w! pdf.s"
-:wq pdf.sh
-|2,0,1545318337,,"wq pdf.sh"
-:lw
-|2,0,1545318211,,"lw"
-:w kinda-working.sh
-|2,0,1545315317,,"w kinda-working.sh"
-:M
-|2,0,1545315158,,"M"
-:% s/RED/red/g
-|2,0,1545312958,,"% s/RED/red/g"
-:kkj
-|2,0,1545308512,,"kkj"
-:% s/alex/Alex/g
-|2,0,1545297374,,"% s/alex/Alex/g"
-:set hlsearch
-|2,0,1545297360,,"set hlsearch"
-:set h
-|2,0,1545297332,,"set h"
-:@wq
-|2,0,1545130985,,"@wq"
-:set tf=
-|2,0,1545130960,,"set tf="
-:set tw=
-|2,0,1545129116,,"set tw="
-:set tw=*
-|2,0,1545129111,,"set tw=*"
-:set tw
-|2,0,1545129066,,"set tw"
-:wq todo
-|2,0,1544717425,,"wq todo"
-:PlugInstall
-|2,0,1544717106,,"PlugInstall"
-:PlugUpdate
-|2,0,1544631377,,"PlugUpdate"
-:@q
-|2,0,1544611331,,"@q"
-:wq avast\ ref
-|2,0,1544543775,,"wq avast\\ ref"
-:Q!
-|2,0,1544536167,,"Q!"
-:wq working
-|2,0,1544455241,,"wq working"
-:ew
-|2,0,1544451673,,"ew"
-:wq ips
-|2,0,1544441108,,"wq ips"
-:'<,'>NR
-|2,0,1544115503,,"'<,'>NR"
-:'<,'>
-|2,0,1544115432,,"'<,'>"
-:source %
-|2,0,1544114976,,"source %"
-:qw
-|2,0,1544113633,,"qw"
-:setpell
-|2,0,1544106116,,"setpell"
+|2,0,1554220488,,"Lw"
 
 # Search String History (newest to oldest):
-?/mod+e
-|2,1,1546612279,47,"mod+e"
-?/tw
-|2,1,1546604771,47,"tw"
-?/set
-|2,1,1546604767,47,"set"
-?/mipdf
-|2,1,1546604453,47,"mipdf"
-?/:q
-|2,1,1546604438,47,":q"
-?/mi
-|2,1,1546604422,47,"mi"
-?/source
-|2,1,1546603068,47,"source"
-?/spool
-|2,1,1546601155,47,"spool"
-?/var
-|2,1,1546601104,47,"var"
-?/var/
-|2,1,1546601103,47,"var/"
-?/lang
-|2,1,1546600499,47,"lang"
-?/lanh
-|2,1,1546600496,47,"lanh"
-? @$
-|2,1,1546599772,,"@$"
-? ^$
-|2,1,1546599772,,"^$"
-?/home
-|2,1,1546595051,47,"home"
-?/xorg
-|2,1,1546594815,47,"xorg"
-?/S
-|2,1,1546594691,47,"S"
-?/-S
-|2,1,1546594613,47,"-S"
-?/ 
-|2,1,1546594605,47," "
-?/mod+Ctrl
-|2,1,1546591986,47,"mod+Ctrl"
-?/alsa
-|2,1,1546591978,47,"alsa"
-?/feh
-|2,1,1546534419,47,"feh"
+?/rtr
+|2,1,1554379282,47,"rtr"
 ?/jpg
-|2,1,1546533928,47,"jpg"
-?/max
-|2,1,1546516979,47,"max"
-?/gaps
-|2,1,1546516958,47,"gaps"
-?/dircolors
-|2,1,1546511222,47,"dircolors"
-?/dir
-|2,1,1546511217,47,"dir"
-?/jupiter
-|2,1,1546445968,47,"jupiter"
-?/border
-|2,1,1546444638,47,"border"
-? \<for_window\>
-|2,1,1546435873,,"\\<for_window\\>"
-?/remm
-|2,1,1546418799,47,"remm"
-?/moon
-|2,1,1545394268,47,"moon"
-?/lock
-|2,1,1545389428,47,"lock"
-?/mutt
-|2,1,1545388707,47,"mutt"
-?/misc
-|2,1,1545388322,47,"misc"
-?/Pose
-|2,1,1545385692,47,"Pose"
-?/$user
-|2,1,1545385600,47,"$user"
-?/$username
-|2,1,1545385597,47,"$username"
-?/192.168.
-|2,1,1545385396,47,"192.168."
-? poseidon
-|2,1,1545385285,,"poseidon"
-? Poseidon
-|2,1,1545385273,,"Poseidon"
-?/SCP
-|2,1,1545385228,47,"SCP"
-?/pose
-|2,1,1545385200,47,"pose"
-?/leda
-|2,1,1545385197,47,"leda"
-?/poes
-|2,1,1545384069,47,"poes"
-?/bash
-|2,1,1545320741,47,"bash"
-?/quick dir
-|2,1,1545320062,47,"quick dir"
-?/cd
-|2,1,1545320062,47,"cd"
-?? ;
-|2,1,1545317196,63," ;"
-? \<If\>
-|2,1,1545315428,,"\\<If\\>"
+|2,1,1554372787,47,"jpg"
+? @$
+|2,1,1554281047,,"@$"
+?/7 
+|2,1,1554278713,47,"7 "
+?/7
+|2,1,1554278709,47,"7"
+?/trace
+|2,1,1554278704,47,"trace"
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
-@asdf
-|2,3,1544107551,,"asdf"
-@test
-|2,3,1544107542,,"test"
-@youtube
-|2,3,1544106638,,"youtube"
-@youtube.com
-|2,3,1544106636,,"youtube.com"
 
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	 
-|3,0,0,0,1,0,1546610400," "
+"0	LINE	0
+	hi
+|3,0,0,1,1,0,1554281047,"hi"
 "1	LINE	0
-	en
-|3,0,1,1,1,0,1546611249,"en"
+	hi
+|3,0,1,1,1,0,1554280857,"hi"
 "2	LINE	0
-	  - [ ] 
-|3,0,2,1,1,0,1546606993,"  - [ ] "
+	
+|3,0,2,1,1,0,1554220505,""
 "3	LINE	0
 	
-|3,0,3,1,1,0,1546606359,""
+|3,0,3,1,1,0,1554220501,""
 "4	LINE	0
-	  - [ ] 
-|3,0,4,1,1,0,1546606337,"  - [ ] "
+	
+|3,0,4,1,1,0,1554220497,""
 "5	LINE	0
 	
-|3,0,5,1,1,0,1546605278,""
+|3,0,5,1,1,0,1554220495,""
 "6	LINE	0
-	set smtp_pass = $my_bridge
-|3,0,6,1,1,0,1546603334,"set smtp_pass = $my_bridge"
+	
+|3,0,6,1,1,0,1554220495,""
 "7	LINE	0
 	
-|3,0,7,1,1,0,1546602320,""
+|3,0,7,1,1,0,1554220492,""
 "8	LINE	0
 	
-|3,0,8,1,1,0,1546602230,""
+|3,0,8,1,1,0,1554220487,""
 "9	LINE	0
-	set smtp_url=k
-|3,0,9,1,1,0,1546602223,"set smtp_url=k"
-"a	CHAR	0
-	a"0llllllllla"jla"$a"
-|3,0,10,0,1,0,1544115504,"a\"0llllllllla\"jla\"$a\""
-"b	CHAR	0
-	dt;abs€kb€kb€kbabsolute;
-|3,0,11,0,1,0,1542107702,"dt;abs€kb€kb€kbabsolute;"
-"c	CHAR	0
-	o/**/hha
-|3,0,12,0,1,0,1539341959,"o/**/hha"
-"g	CHAR	0
-	0ipacman -S j0
-|3,0,16,0,1,0,1546594315,"0ipacman -S j0"
-"h	CHAR	0
-	dt~
-|3,0,17,0,1,0,1542374798,"dt~"
-"j	CHAR	0
-	/cddd/quic di€kb€kb€kb€kbck dirjp
-|3,0,19,0,1,0,1545320052,"/cddd/quic di€kb€kb€kb€kbck dirjp"
-"k	CHAR	0
-	k
-|3,0,20,0,1,0,1543417197,"k"
-"l	CHAR	0
-	/Mondi"iTueujujjjjlhxxxit€kbTuejllllllxxxiTuejjjhhhhhhhhhhxxxiWedjlllllllhxxxiwedjjjjhhhxulxxxiThurxhhhhhhkhhhdi"ithr€kb€kb€kbTH€kb€kbThurxlljjjjhhhdi"iFrilljllllxdt.iFrilw:wkkkkkkkkkhhjh~::
-|3,0,21,0,1,0,1542618477,"/Mondi\"iTueujujjjjlhxxxit€kbTuejllllllxxxiTuejjjhhhhhhhhhhxxxiWedjlllllllhxxxiwedjjjjhhhxulxxxiThurxhhhhhhkhhhdi\"ithr€kb€kb€kbTH€kb€kbThurxlljjjjhhhdi\"iFrilljllllxdt.iFrilw:wkkkkkkkkkhhjh~::"
-"m	CHAR	0
-	0i#j
-|3,0,22,0,1,0,1541762019,"0i#j"
-"n	CHAR	0
-	i###### 
-|3,0,23,0,1,0,1542297711,"i###### "
-"o	CHAR	0
-	0gg
-|3,0,24,0,1,0,1546594236,"0gg"
-"p	CHAR	0
-	0/D€kbSwwd$j0
-|3,0,25,0,1,0,1546594658,"0/D€kbSwwd$j0"
-"q	CHAR	0
-	pu
-|3,0,26,0,1,0,1546594625,"pu"
-"r	CHAR	0
-	R
-|3,0,27,0,1,0,1544103769,"R"
-"u	CHAR	0
-	dt*i	j0
-|3,0,30,0,1,0,1542979602,"dt*i	j0"
-"w@	CHAR	0
-	pa jhhhhhhhhh
-|3,2,32,0,1,0,1542375268,"pa jhhhhhhhhh"
-"x	CHAR	0
-	0isudo pacman -S jhhhhhh
-|3,0,33,0,1,0,1539272005,"0isudo pacman -S jhhhhhh"
+	
+|3,0,9,1,1,0,1554220485,""
 ""-	CHAR	0
-	:
-|3,1,36,0,1,0,1546856058,":"
+	overkill
+|3,1,36,0,1,0,1554372797,"overkill"
 
 # File marks:
-'0  2  21  ~/.mutt/signature
-|4,48,2,21,1546856250,"~/.mutt/signature"
-'1  1  0  ~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709
-|4,49,1,0,1546855344,"~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709"
-'2  1  0  ~/look into.txt
-|4,50,1,0,1546854104,"~/look into.txt"
-'3  1  0  ~/.Xresources
-|4,51,1,0,1546852578,"~/.Xresources"
-'4  11  11  ~/Projects/working
-|4,52,11,11,1546851309,"~/Projects/working"
-'5  1  0  ~/Projects/working
-|4,53,1,0,1546850248,"~/Projects/working"
-'6  1  0  ~/Projects/working
-|4,54,1,0,1546850248,"~/Projects/working"
-'7  1  0  ~/look into.txt
-|4,55,1,0,1546850210,"~/look into.txt"
-'8  1  0  ~/look into.txt
-|4,56,1,0,1546850197,"~/look into.txt"
-'9  1  0  ~/look into.txt
-|4,57,1,0,1546850197,"~/look into.txt"
+'0  1  0  ~/.ssh/id_rsa.pub
+|4,48,1,0,1554382112,"~/.ssh/id_rsa.pub"
+'1  126  0  ~/.bash_history
+|4,49,126,0,1554380437,"~/.bash_history"
+'2  51  0  ~/Projects/.scripts/misc/aliases.sh
+|4,50,51,0,1554379286,"~/Projects/.scripts/misc/aliases.sh"
+'3  238  103  ~/.config/i3/config
+|4,51,238,103,1554372841,"~/.config/i3/config"
+'4  238  63  ~/.config/i3/config
+|4,52,238,63,1554372613,"~/.config/i3/config"
+'5  1  0  ~/Projects/.scripts/share/.cred
+|4,53,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+'6  238  61  ~/.config/i3/config
+|4,54,238,61,1554372186,"~/.config/i3/config"
+'7  238  61  ~/.config/i3/config
+|4,55,238,61,1554372186,"~/.config/i3/config"
+'8  1  0  ~/.Xresources
+|4,56,1,0,1554371967,"~/.Xresources"
+'9  1  63  /tmp/calcurse-note.xSRIFV
+|4,57,1,63,1554369212,"/tmp/calcurse-note.xSRIFV"
 
 # Jumplist (newest first):
--'  2  21  ~/.mutt/signature
-|4,39,2,21,1546856250,"~/.mutt/signature"
--'  1  0  ~/.mutt/signature
-|4,39,1,0,1546856050,"~/.mutt/signature"
--'  1  0  ~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709
-|4,39,1,0,1546855344,"~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709"
--'  1  0  ~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709
-|4,39,1,0,1546855344,"~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
--'  1  0  ~/look into.txt
-|4,39,1,0,1546854104,"~/look into.txt"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1554382112,"~/.ssh/id_rsa.pub"
+-'  126  0  ~/.bash_history
+|4,39,126,0,1554380437,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1554380436,"~/.bash_history"
+-'  51  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,51,0,1554379286,"~/Projects/.scripts/misc/aliases.sh"
+-'  51  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,51,0,1554379286,"~/Projects/.scripts/misc/aliases.sh"
+-'  51  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,51,0,1554379286,"~/Projects/.scripts/misc/aliases.sh"
+-'  1  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,1,0,1554379282,"~/Projects/.scripts/misc/aliases.sh"
+-'  1  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,1,0,1554379282,"~/Projects/.scripts/misc/aliases.sh"
+-'  1  0  ~/Projects/.scripts/misc/aliases.sh
+|4,39,1,0,1554379282,"~/Projects/.scripts/misc/aliases.sh"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  238  103  ~/.config/i3/config
+|4,39,238,103,1554372841,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  239  0  ~/.config/i3/config
+|4,39,239,0,1554372802,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372787,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  238  63  ~/.config/i3/config
+|4,39,238,63,1554372613,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372581,"~/.config/i3/config"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  1  0  ~/Projects/.scripts/share/.cred
+|4,39,1,0,1554372272,"~/Projects/.scripts/share/.cred"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  238  61  ~/.config/i3/config
+|4,39,238,61,1554372186,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1554372175,"~/.config/i3/config"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
+|4,39,1,0,1554371967,"~/.Xresources"
 -'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1546852578,"~/.Xresources"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
--'  11  11  ~/Projects/working
-|4,39,11,11,1546851309,"~/Projects/working"
+|4,39,1,0,1554371967,"~/.Xresources"
 
 # History of marks within files (newest to oldest):
 
-> ~/.mutt/signature
-	*	1546856073	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	9	768
-	+	2	21
+> ~/.bash_history
+	*	1554380436	0
+	"	126	0
 
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1023-526941000520836709
-	*	1546855342	0
+> ~/.ssh/id_rsa.pub
+	*	1554379785	0
 	"	1	0
 
-> ~/look into.txt
-	*	1546854104	0
+> ~/Projects/.scripts/misc/aliases.sh
+	*	1554379286	0
+	"	51	0
+	.	50	37
+	+	50	37
+
+> ~/.config/i3/config
+	*	1554372840	0
+	"	238	103
+	^	238	104
+	.	238	103
+	+	238	103
+
+> ~/Projects/.scripts/share/.cred
+	*	1554372271	0
 	"	1	0
 
 > ~/.Xresources
-	*	1546852578	0
+	*	1554371966	0
 	"	1	0
-	.	9	0
-	+	8	31
-	+	2	20
-	+	4	23
-	+	8	34
-	+	9	0
+	.	1	0
+	+	1	0
 
-> ~/Projects/working
-	*	1546851309	0
-	"	11	11
-	^	11	12
-	.	11	11
-	+	8	0
-	+	6	12
-	+	10	44
-	+	11	11
+> /tmp/calcurse-note.xSRIFV
+	*	1554369211	0
+	"	1	63
+	^	1	64
+	.	1	63
+	+	1	63
 
-> ~/Desktop/.directory
-	*	1546617070	0
+> ~/Projects/.scripts/workflow/invoice/invoice.sh
+	*	1554368198	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	10	0
+	+	11	0
+	+	13	0
+	+	14	0
+
+> ~/Projects/aur/st/README.md
+	*	1554297956	0
+	"	1	0
+
+> ~/Projects/aur/st/Makefile
+	*	1554297950	0
+	"	1	0
+
+> ~/.togglrc.bak
+	*	1554290493	0
+	"	1	0
+
+> ~/.togglrc
+	*	1554290491	0
+	"	1	0
+
+> ~/.zcompdump-GLaDOS-5.6.2
+	*	1554290484	0
+	"	1	0
+
+> ~/.vimrc.bak
+	*	1554290419	0
+	"	47	0
+
+> ~/.urlview
+	*	1554281182	0
 	"	1	0
 
 > ~/.xinitrc
-	*	1546616798	0
-	"	1	6
-	^	1	8
-	.	1	6
-	+	1	4
-	+	1	9
-	+	1	6
-
-> ~/.i3.config
-	*	1546612369	0
-	"	91	0
-	^	238	60
-	.	238	59
-	+	115	0
-	+	114	0
-	+	238	0
-	+	287	72
-	+	253	0
-	+	238	63
-	+	305	37
-	+	238	104
-	+	249	0
-	+	251	0
-	+	253	0
-	+	252	15
-	+	116	1
-	+	238	59
-	a	238	56
-	i	238	58
-	m	1	1
-
-> ~/Projects/Commands/commands.org
-	*	1546610666	0
+	*	1554281177	0
 	"	1	0
-	.	25	0
-	+	6	0
-	+	1	4
-	+	1	0
-	+	3	61
-	+	6	0
-	+	1	0
-	+	4	5
-	+	6	0
-	+	3	0
-	+	5	12
-	+	4	15
-	+	6	34
-	+	3	0
-	+	7	73
-	+	3	44
-	+	4	44
-	+	8	65
-	+	8	32
-	+	3	0
-	+	8	96
-	+	3	0
-	+	12	5
-	+	8	0
-	+	8	63
-	+	8	32
-	+	3	0
-	+	12	5
-	+	3	0
-	+	12	5
-	+	8	32
-	+	12	5
-	+	8	32
-	+	8	0
-	+	12	5
-	+	12	0
-	+	13	45
-	+	12	0
-	+	13	76
-	+	15	0
-	+	13	0
-	+	15	0
-	+	19	0
-	+	13	0
-	+	16	40
-	+	13	0
-	+	17	53
-	+	19	0
-	+	17	0
-	+	19	0
-	+	13	0
-	+	17	0
-	+	13	0
-	+	18	32
-	+	13	0
-	+	19	5
-	+	17	5
-	+	16	5
-	+	15	6
-	+	13	46
-	+	14	7
-	+	19	0
-	+	23	0
-	+	18	0
-	+	20	15
-	+	18	0
-	+	21	41
-	+	18	0
-	+	22	0
-	+	18	0
-	+	23	0
-	+	25	0
-	+	23	0
-	+	24	42
-	+	25	0
-	+	23	0
-	+	25	6
-	+	25	0
-	+	23	0
-	+	25	0
-	+	12	0
-	+	25	0
 
-> ~/Projects/it-web-processes/IT/Network/Processes/todo.org
-	*	1546608614	0
-	"	81	0
-	.	152	0
-	+	114	149
-	+	82	2
-	+	114	313
-	+	108	0
-	+	115	0
-	+	108	0
-	+	116	44
-	+	55	0
-	+	56	41
-	+	57	86
-	+	58	30
-	+	59	17
-	+	60	0
-	+	62	50
-	+	54	0
-	+	63	35
-	+	65	34
-	+	67	23
-	+	73	0
-	+	67	0
-	+	73	23
-	+	112	0
-	+	82	2
-	+	41	9
-	+	42	0
-	+	41	0
+> ~/Projects/network.zip
+	*	1554280859	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> zipfile:/home/deanpalmer/Projects/network.zip::network/yesterday/ping.txt
+	*	1554280857	0
+	"	2	0
+	.	2	0
+	+	2	0
+
+> zipfile:/home/deanpalmer/Projects/network.zip::network/yesterday/speedtest.txt
+	*	1554280838	0
+	"	1	0
+
+> zipfile:/home/deanpalmer/Projects/network.zip::network/yesterday/traceroute.txt
+	*	1554280836	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-10463-15414567940823709515
+	*	1554280461	0
+	"	6	7
+	^	6	8
+	.	6	7
+	+	6	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-10463-11770344213545628129
+	*	1554280307	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-10463-2028241867143501139
+	*	1554279178	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/network/today/ping.txt
+	*	1554279156	0
+	"	1	0
+
+> ~/network/today/speedtest.txt
+	*	1554279138	0
+	"	1	1
+	.	1	0
+	+	1	0
+
+> ~/Projects/network/yesterday/traceroute.txt
+	*	1554279018	0
+	"	1	0
+
+> ~/today/traceroute.txt
+	*	1554278773	0
+	"	12	0
+	^	108	0
+	.	108	0
+	+	9	0
+	+	18	0
+	+	27	0
 	+	36	0
-	+	64	21
-	+	61	10
+	+	45	0
 	+	54	0
-	+	61	17
-	+	67	0
-	+	54	0
-	+	74	0
-	+	108	0
-	+	112	11
-	+	116	67
-	+	108	0
+	+	63	0
+	+	73	0
+	+	72	0
+	+	81	0
+	+	90	0
+	+	99	0
 	+	117	0
 	+	108	0
-	+	117	84
-	+	118	0
-	+	108	0
-	+	118	33
-	+	119	9
-	+	118	32
-	+	119	0
-	+	108	0
-	+	120	0
-	+	108	0
-	+	122	0
-	+	139	42
-	+	139	0
-	+	108	0
-	+	139	76
-	+	108	0
-	+	140	68
-	+	140	83
-	+	108	0
-	+	141	8
-	+	140	0
-	+	141	96
-	+	108	0
-	+	142	7
-	+	139	83
-	+	140	132
-	+	141	102
-	+	142	8
-	+	141	120
-	+	142	49
-	+	151	0
-	+	108	0
-	+	142	110
-	+	143	63
-	+	151	0
-	+	108	0
-	+	144	94
-	+	108	0
-	+	145	169
-	+	108	0
-	+	145	203
-	+	146	85
-	+	108	0
-	+	147	359
-	+	108	0
-	+	148	55
-	+	147	368
-	+	148	169
-	+	108	0
-	+	149	108
-	+	108	0
-	+	151	0
-	+	150	4
-	+	150	0
-	+	151	74
-	+	150	0
-	+	152	8
-	+	151	82
-	+	152	0
 
-> ~/.vimrc
-	*	1546604856	0
-	"	11	13
-	.	35	0
-	+	9	120
-	+	6	0
-	+	9	0
-	+	6	55
-	+	7	0
-	+	11	0
-	+	8	30
-	+	11	5
+> ~/today/ping.txt
+	*	1554278200	0
+	"	602	0
+	^	9	0
+	.	8	0
+	+	4	50
 	+	8	0
-	+	12	27
-	+	14	26
-	+	12	0
-	+	13	0
-	+	14	0
-	+	5	0
-	+	14	26
-	+	15	14
-	+	23	0
-	+	15	0
-	+	23	0
-	+	43	14
-	+	25	16
-	+	31	22
-	+	31	0
-	+	33	27
-	+	31	0
-	+	33	0
-	+	43	0
-	+	33	21
-	+	36	23
-	+	36	22
-	+	37	0
-	+	43	0
-	+	37	0
-	+	43	0
-	+	37	5
-	+	38	24
-	+	39	31
-	+	43	0
-	+	33	0
-	+	33	27
-	+	16	24
-	+	33	21
-	+	29	28
-	+	33	0
-	+	16	15
-	+	9	0
-	+	16	0
-	+	17	13
-	+	23	3
-	+	20	0
-	+	21	28
-	+	20	0
-	+	19	22
-	+	24	68
-	+	27	26
-	+	43	0
-	+	38	0
-	+	43	0
-	+	26	74
-	+	28	29
-	+	30	0
-	+	28	1
-	+	30	72
-	+	32	32
-	+	36	0
-	+	33	0
-	+	36	0
-	+	34	49
-	+	36	0
-	+	13	0
-	+	42	28
-	+	41	35
-	+	27	0
-	+	29	0
-	+	31	0
-	+	33	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	42	0
-	+	27	0
-	+	29	0
-	+	31	0
-	+	33	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	42	0
-	+	19	5
-	+	19	0
-	+	10	32
-	+	18	11
-	+	35	0
-	+	36	0
-	+	35	0
 
-> ~/.scripts/misc/aliases.sh
-	*	1546604458	0
-	"	8	29
-	^	8	38
-	.	8	29
-	+	24	0
-	+	11	0
-	+	24	0
-	+	13	0
-	+	24	0
-	+	18	0
-	+	24	0
-	+	16	0
-	+	19	65
-	+	38	0
-	+	35	24
-	+	21	0
-	+	19	0
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	18	0
-	+	22	0
-	+	24	0
-	+	22	0
-	+	21	0
-	+	19	0
-	+	18	0
-	+	16	0
-	+	15	0
-	+	14	0
-	+	13	0
-	+	12	0
-	+	11	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	3	0
-	+	2	0
-	+	6	0
-	+	13	0
-	+	24	0
-	+	33	18
-	+	34	27
-	+	28	33
-	+	28	11
-	+	23	38
-	+	36	12
-	+	35	44
-	+	36	63
-	+	27	10
-	+	28	39
-	+	28	28
-	+	28	0
-	+	27	0
-	+	28	0
-	+	27	0
-	+	32	0
-	+	28	33
-	+	32	40
-	+	23	39
-	+	32	0
-	+	23	0
-	+	17	0
-	+	21	0
-	+	29	18
-	+	33	28
-	+	34	28
-	+	35	0
-	+	34	27
-	+	35	0
-	+	17	37
-	+	30	35
-	+	17	37
-	+	32	0
-	+	38	33
-	+	32	0
-	+	31	7
-	+	39	20
-	+	40	0
-	+	39	29
-	+	31	38
-	+	27	0
-	+	26	40
-	+	32	3
-	+	31	39
-	+	32	29
-	+	2	0
-	+	20	21
-	+	2	0
-	+	9	106
-	+	10	13
-	+	8	29
-
-> ~/.bashrc
-	*	1546604438	0
-	"	88	77
-	^	78	28
-	.	124	28
-	+	134	0
-	+	135	9
-	+	2	0
-	+	124	0
-	+	123	7
-	+	127	15
-	+	124	0
-	+	120	63
-	+	133	0
-	+	131	0
-	+	132	58
-	+	120	119
-	+	122	27
-	+	124	32
-	+	122	22
-	+	119	7
-	+	120	0
-	+	122	0
-	+	123	29
-	+	123	20
-	+	123	33
-	+	123	18
-	+	123	10
-	+	123	0
-	+	120	327
-	+	120	192
-	+	120	0
-	+	120	94
-	+	120	30
-	+	124	0
-	+	122	0
-	+	124	0
-	+	125	0
-	+	120	0
-	+	120	29
-	+	120	33
-	+	120	0
-	+	120	202
-	+	120	0
-	+	121	0
-	+	136	0
-	+	136	172
-	+	78	4
-	+	76	0
-	+	77	0
-	+	82	0
-	+	83	0
-	+	84	0
-	+	78	0
-	+	82	0
-	+	83	0
-	+	84	0
-	+	85	0
-	+	76	0
-	+	77	0
-	+	78	1
-	+	79	1
-	+	80	1
-	+	78	0
-	+	75	0
-	+	76	0
-	+	77	0
-	+	85	0
-	+	136	170
-	+	76	0
-	+	77	0
-	+	78	0
-	+	85	0
-	+	78	0
-	+	136	167
-	+	136	0
-	+	76	0
-	+	77	0
-	+	79	0
-	+	80	0
-	+	76	0
-	+	77	0
-	+	79	0
-	+	80	0
-	+	82	0
-	+	83	0
-	+	84	0
-	+	85	0
-	+	78	0
-	+	80	0
-	+	82	0
-	+	83	0
-	+	84	0
-	+	76	0
-	+	84	0
-	+	78	0
-	+	84	0
-	+	136	0
-	+	124	28
-	n	38	26
-
-> ~/.muttrc
-	*	1546603816	0
-	"	2	0
-	^	3	22
-	.	3	21
-	+	31	0
-	+	31	40
-	+	31	12
-	+	31	0
-	+	31	15
-	+	31	0
-	+	31	38
-	+	31	12
-	+	31	40
-	+	31	13
-	+	31	0
-	+	31	16
-	+	118	26
-	+	23	7
-	+	23	0
-	+	21	0
-	+	23	0
-	+	23	13
-	+	1	11
-	+	21	11
-	+	21	0
-	+	2	0
-	+	20	0
-	+	2	39
-	+	19	21
-	+	23	27
-	+	29	33
-	+	30	0
-	+	25	25
-	+	20	0
-	+	24	11
-	+	22	21
+> ~/today/speedtest.txt
+	*	1554277556	0
+	"	3	21
+	^	3	25
+	.	3	24
+	+	1	34
 	+	3	24
-	+	27	44
-	+	25	0
-	+	27	49
-	+	26	25
-	+	27	33
-	+	24	22
-	+	27	34
-	+	3	21
 
-> ~/.mutt/tmp/neomutt-protonmail-1001-15826-12712253386216086158
-	*	1546603753	0
-	"	1	0
-
-> ~/.muttrc.bak
-	*	1546603738	0
-	"	42	1
-	.	45	0
-	+	2	0
-	+	45	0
-
-> ~/.mutt/proton
-	*	1546603677	0
-	"	3	42
-	^	3	29
-	.	3	29
-	+	1	18
-	+	1	0
-	+	1	42
-	+	1	38
-	+	1	12
-	+	1	11
-	+	1	33
-	+	1	12
-	+	1	0
-	+	1	30
-	+	1	15
-	+	1	0
+> ~/speedtest.txt
+	*	1554221038	0
+	"	4	33
+	^	4	34
+	.	4	33
+	+	2	15
 	+	1	48
-	+	1	36
-	+	1	12
-	+	1	0
-	+	1	18
-	+	1	0
-	+	1	36
-	+	1	12
-	+	1	33
-	+	1	0
-	+	2	0
-	+	3	29
-	+	6	0
-	+	6	15
-	+	7	0
-	+	6	36
-	+	7	18
-	+	5	41
-	+	3	0
-	+	4	0
-	+	3	29
-
-> ~/.mutt/tmp/neomutt-protonmail-1001-15604-12413111891832021545
-	*	1546603171	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-protonmail-1001-15571-17271089203401515237
-	*	1546603096	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-$my_domain-1001-15549-6451720907496935706
-	*	1546603047	0
-	"	2	0
-
-> ~/.mutt/tmp/neomutt-$my_domain-1001-15264-17299453490483418758
-	*	1546602372	0
-	"	2	0
-
-> ~/.mutt/tmp/neomutt-GLaDOS-1001-15108-12325642403522644572
-	*	1546602005	0
-	"	1	0
-
-> ~/vortex
-	*	1546601839	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-GLaDOS-1001-15019-727905296637577240
-	*	1546601821	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-GLaDOS-1001-14674-10200988420596620013
-	*	1546601242	0
-	"	1	0
-
-> ~/.mutt/vortex
-	*	1546600332	0
-	"	1	0
-
-> ~/.mail/INBOX/new/1546599965_0.13945.GLaDOS,U=55,FMD5=7e33429f656f1e6e9d79b29c3f82c57e:2,
-	*	1546600299	0
-	"	97	9
-
-> ~/.mail/INBOX/cur/1546599966_2.13945.GLaDOS,U=61,FMD5=7e33429f656f1e6e9d79b29c3f82c57e:2,S
-	*	1546600227	0
-	"	9	0
-
-> ~/.mail/INBOX/new/1546599964_2.13945.GLaDOS,U=54,FMD5=7e33429f656f1e6e9d79b29c3f82c57e:2,
-	*	1546600184	0
-	"	26	0
-
-> ~/.gitignore
-	*	1546600013	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	3	9
-	+	4	8
-	+	6	10
-	+	27	0
-	+	26	0
-	+	25	0
-	+	24	0
-	+	23	0
-	+	22	0
-	+	21	0
-	+	20	0
-	+	19	0
-	+	18	0
-	+	17	0
-	+	16	0
-	+	15	0
-	+	14	0
-	+	6	1
-	+	27	5
-	+	13	12
-	+	27	0
-	+	13	0
-	+	6	5
-	+	14	0
-	+	12	18
-	+	17	0
-	+	6	10
-	+	11	13
-	+	12	0
-	+	3	0
-	+	5	10
-	+	12	0
-	+	11	0
-	+	12	15
-	+	8	15
-	+	6	10
-	+	7	14
-	+	8	13
-	+	6	0
-	+	8	11
-	+	28	29
-	+	27	0
-	+	28	0
-	+	27	27
-	+	2	5
-
-> ~/.offlineimaprc
-	*	1546599776	0
-	"	8	0
-	^	32	36
-	.	32	13
-	+	43	7
-	+	31	39
-	+	32	35
-	+	31	38
-	+	32	13
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12255-16159870933206529036
-	*	1546597919	0
-	"	1	0
-
-> ~/.mutt/aliases
-	*	1546597907	0
-	"	14	74
-	^	14	75
-	.	14	74
-	+	6	60
-	+	7	25
-	+	6	24
-	+	7	56
-	+	6	56
-	+	14	74
-
-> ~/install.sh
-	*	1546595108	0
-	"	1	0
-	.	1107	17
-	+	2	0
-	+	1	15
-	+	2	14
-	+	3	0
-	+	4	12
-	+	5	27
-	+	6	17
-	+	7	21
-	+	8	12
-	+	9	18
-	+	10	21
-	+	11	15
-	+	12	33
-	+	13	26
-	+	14	15
-	+	15	16
-	+	16	17
-	+	17	15
-	+	18	20
-	+	19	21
-	+	20	12
-	+	21	14
-	+	22	15
-	+	23	13
-	+	1	0
-	+	2	0
-	+	3	0
-	+	1	15
-	+	3	24
-	+	4	12
-	+	5	27
-	+	6	17
-	+	7	21
-	+	8	12
-	+	9	18
-	+	10	21
-	+	11	15
-	+	12	33
-	+	13	26
-	+	14	15
-	+	15	16
-	+	16	17
-	+	17	15
-	+	18	20
-	+	19	21
-	+	20	12
-	+	21	14
-	+	22	15
-	+	23	13
-	+	24	18
-	+	25	14
-	+	26	17
-	+	27	17
-	+	28	14
-	+	29	14
-	+	30	13
-	+	31	11
-	+	32	17
-	+	33	14
-	+	34	18
-	+	35	14
-	+	36	19
-	+	37	17
-	+	38	19
-	+	39	14
-	+	40	15
-	+	41	19
-	+	42	21
-	+	43	15
-	+	44	20
-	+	45	19
-	+	46	14
-	+	47	15
-	+	48	24
-	+	49	32
-	+	50	30
-	+	51	15
-	+	52	17
-	+	53	0
-	+	54	0
-	+	53	0
-	+	54	0
-	+	53	14
-	+	1	16
-	+	1107	17
-
-> ~/output.sh
-	*	1546595021	0
-	"	1	0
-
-> ~/install1.sh
-	*	1546594980	0
-	"	780	0
-	.	765	0
-	+	765	0
-
-> ~/packages.txt
-	*	1546594373	0
-	"	359	0
-	^	1107	10
-	.	1107	0
-	+	1	9
-	+	2	9
-	+	1	0
-	+	2	0
-	+	1	9
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	1107	0
-	+	1022	0
-	+	1107	0
-
-> ~/pack
-	*	1546594173	0
-	"	1	0
-
-> ~/Projects/it-web-processes/IT/Network/Processes/Processes.md
-	*	1546592396	0
-	"	2	0
-	.	19	0
-	+	19	0
-	+	18	141
-	+	18	0
-	+	19	0
-
-> ~/Projects/Todo/todo.org
-	*	1546532237	0
-	"	9	0
-	.	10	0
-	+	3	26
-	+	3	74
-	+	3	18
-	+	3	74
-	+	3	5
-	+	3	74
-	+	3	0
-	+	3	74
-	+	3	11
-	+	3	0
-	+	3	4
-	+	3	0
-	+	3	5
-	+	3	0
-	+	3	8
-	+	3	0
-	+	3	208
-	+	3	0
-	+	3	17
-	+	3	0
-	+	3	6
-	+	3	0
-	+	3	7
-	+	3	0
-	+	3	9
-	+	3	0
-	+	3	12
-	+	3	0
-	+	3	7
-	+	3	0
-	+	3	14
-	+	3	2
-	+	3	0
-	+	3	8
-	+	3	0
-	+	5	0
-	+	1	5
-	+	5	0
-	+	3	0
-	+	5	0
-	+	7	0
-	+	9	0
-	+	7	0
-	+	5	0
-	+	3	0
-	+	1	0
-	+	3	0
-	+	9	0
-	+	8	0
-	+	9	5
-	+	7	0
-	+	10	0
-	+	9	0
-	+	10	0
-	+	9	0
-	+	10	0
-	+	9	0
-	+	5	0
-	+	7	0
-	+	6	0
-	+	9	0
-	+	10	0
-	+	9	0
-	+	1	0
-	+	10	0
-	+	2	0
-	+	5	0
-	+	6	0
-	+	5	0
-	+	9	0
-	+	6	0
-	+	10	0
-	+	9	0
-	+	10	72
-	+	9	0
-	+	10	0
-
-> ~/Projects/Work/todo/Fri
-	*	1546532205	0
-	"	1	0
-
-> ~/.dircolors
-	*	1546522123	0
-	"	1	0
-
-> ~/print.pdf
-	*	1546521776	0
-	"	1	0
-
-> ~/.Xrt
-	*	1546520303	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1638-16843403690292224354
-	*	1546519503	0
-	"	3	464
-	^	3	465
-	.	3	464
-	+	3	464
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3612-17776679724963977808
-	*	1546511032	0
-	"	1	42
-	^	1	43
-	.	1	42
-	+	1	42
-
-> ~/Projects/Commands/C
-	*	1546446298	0
-	"	1	0
-
-> ~/.scripts/al
-	*	1546445957	0
-	"	1	0
-
-> ~/.config/i3/config
-	*	1546444631	0
-	"	1	1
-	^	238	60
-	.	238	59
-	+	240	41
-	+	241	21
-	+	248	38
-	+	241	57
-	+	240	0
-	+	240	4
-	+	240	0
-	+	243	0
-	+	245	0
-	+	242	0
-	+	244	0
-	+	243	0
-	+	240	0
-	+	278	2
-	+	275	2
-	+	272	1
-	+	269	2
-	+	266	1
-	+	283	1
-	+	282	1
-	+	283	2
-	+	262	1
-	+	259	1
-	+	256	1
-	+	252	0
-	+	240	0
-	+	213	0
-	+	214	19
-	+	195	1
-	+	161	0
-	+	163	0
-	+	165	0
-	+	166	0
-	+	167	0
-	+	168	0
-	+	169	0
-	+	170	0
-	+	171	0
-	+	172	0
-	+	175	0
-	+	176	0
-	+	177	0
-	+	178	0
-	+	179	0
-	+	169	9
-	+	170	9
-	+	171	9
-	+	172	9
-	+	237	67
-	+	240	13
-	+	241	0
-	+	241	54
-	+	155	0
-	+	155	14
-	+	155	0
-	+	155	20
-	+	155	0
-	+	156	0
-	+	158	0
-	+	155	0
-	+	155	13
-	+	156	0
-	+	290	0
-	+	288	0
-	+	290	0
-	+	306	1
-	+	287	0
-	+	289	0
-	+	301	0
-	+	286	46
-	+	238	64
-	+	297	59
-	+	291	60
-	+	297	62
-	+	291	0
-	+	297	48
-	+	305	91
-	+	306	0
-	+	305	14
-	+	306	0
-	+	300	62
-	+	297	0
-	+	297	41
-	+	297	0
-	+	293	0
-	+	294	51
-	+	293	50
-	+	292	66
-	+	291	0
-	+	300	0
-	+	299	0
-	+	295	0
-	+	296	51
-	+	295	19
-	+	238	60
-	+	297	19
-	+	298	19
-	+	238	106
-	+	286	72
-	+	238	59
-	o	2	1
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2698-9802533000507852799
-	*	1546429280	0
-	"	1	0
-
-> /etc/hosts
-	*	1546426769	0
-	"	14	30
-	^	14	31
-	.	14	30
-	+	14	30
-
-> /etc/host
-	*	1546426717	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2698-18159549705363022652
-	*	1546422935	0
-	"	1	0
-	^	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2698-4415812623868664312
-	*	1546422377	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	5	7
-
-> ~/out.txt
-	*	1545398934	0
-	"	1	0
-
-> ~/Projects/Share/IT/Support Numbers/ups-help-desk-num.txt
-	*	1545397957	0
-	"	2	0
-	^	2	0
-	.	2	0
-	+	2	0
-
-> ~/test.sh
-	*	1545394858	0
-	"	4	15
-	^	4	12
-	.	4	11
-	+	2	19
-	+	4	11
-
-> ~/test
-	*	1545394801	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	9
-	+	2	0
-	+	2	1
-	+	2	0
-	+	2	9
-	+	2	10
-	+	2	7
-	+	2	0
-	+	2	2
-	+	2	17
-
-> ~/.scripts/misc/pdf.sh
-	*	1545388368	0
-	"	1	0
-	^	37	3
-	.	40	0
-	+	44	9
-	+	44	0
-	+	53	0
-	+	49	0
-	+	53	1
-	+	44	0
-	+	53	1
-	+	49	0
-	+	53	0
-	+	44	0
-	+	45	0
-	+	49	0
-	+	46	0
-	+	50	0
-	+	53	3
-	+	53	0
-	+	53	1
-	+	14	0
-	+	44	0
-	+	44	1
-	+	44	0
-	+	47	0
-	+	39	13
-	+	45	5
-	+	48	0
-	+	52	0
-	+	25	4
-	+	38	0
-	+	25	0
-	+	39	0
-	+	40	0
-	+	41	0
-	+	42	0
-	+	43	0
-	+	44	0
-	+	45	0
-	+	46	0
-	+	47	0
-	+	48	0
-	+	49	0
-	+	50	0
-	+	51	0
-	+	52	0
-	+	53	0
-	+	18	0
-	+	14	0
-	+	24	28
-	+	23	18
-	+	25	25
-	+	29	35
-	+	30	17
-	+	32	17
-	+	31	0
-	+	32	19
-	+	33	0
-	+	38	0
-	+	38	3
-	+	25	11
-	+	31	0
-	+	30	6
-	+	25	11
-	+	18	0
-	+	17	10
-	+	29	1
-	+	29	0
-	+	27	1
-	+	27	0
-	+	38	0
-	+	32	47
-	+	27	0
-	+	33	0
-	+	34	0
-	+	33	0
-	+	34	0
-	+	38	0
-	+	22	0
-	+	15	0
-	+	19	0
-	+	26	5
-	+	30	0
-	+	28	0
-	+	39	0
-	+	5	212
-	+	15	13
-	+	36	5
-	+	35	6
-	+	38	0
-	+	41	0
-	+	38	0
-	+	38	36
-	+	38	0
-	+	38	20
-	+	38	0
-	+	37	0
-	+	40	0
-
-> ~/.gitit
-	*	1545388309	0
-	"	1	0
-
-> ~/Projects/it-web-processes/Web/Exports/Setup_dev_environment_for_accounts.md
-	*	1545386323	0
-	"	12	4
-	^	35	27
-	.	35	26
-	+	72	38
-	+	25	26
-	+	33	0
-	+	25	0
-	+	27	46
-	+	35	36
-	+	27	46
-	+	35	21
-	+	27	29
-	+	35	26
-
-> ~/Projects/it-web-processes/Web/Exports/Stock_value.md
-	*	1545385010	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-5198-9861245192134619624
-	*	1545321961	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-5149-6705114326405247045
-	*	1545321815	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4797-10434097490449155591
-	*	1545321578	0
-	"	1	0
-	^	1	0
-
-> ~/typescript
-	*	1545320652	0
-	"	1	0
-
-> ~/.scripts/.gitignore
-	*	1545320513	0
-	"	1	0
-	^	1	15
-	.	1	14
-	+	1	14
-
-> ~/.scripts/misc/aliases.sh.bak
-	*	1545320190	0
-	"	10	0
-	.	10	0
-	+	37	28
-	+	2	0
-	+	4	0
-	+	3	0
-	+	4	22
-	+	9	16
-	+	2	0
-	+	4	0
-	+	5	0
-	+	2	0
-	+	18	11
-	+	22	0
-	+	24	0
-	+	6	0
-	+	24	0
-	+	21	0
-	+	25	0
-	+	5	0
-	+	7	0
-	+	10	0
-	+	27	0
-	+	29	0
-	+	28	0
-	+	30	0
-	+	7	0
-	+	8	0
-	+	31	0
-	+	8	0
-	+	31	0
-	+	8	0
-	+	31	0
-	+	15	0
-	+	33	0
-	+	15	0
-	+	14	0
-	+	13	0
-	+	2	0
-	+	20	0
-	+	2	0
-	+	19	0
-	+	4	0
-	+	1	0
-	+	4	0
-	+	8	0
-	+	9	0
-	+	35	0
-	+	9	0
-	+	12	0
-	+	8	0
-	+	11	0
-	+	37	0
-	+	10	0
-	+	37	0
-	+	36	0
-	+	33	0
-	+	31	0
-	+	19	0
-	+	16	0
-	+	26	0
-	+	17	0
-	+	30	0
-	+	19	0
-	+	10	0
-
-> ~/.bash_history
-	*	1545319789	0
-	"	2000	0
-
-> ~/.scripts/misc/kinda-working.sh
-	*	1545318347	0
-	"	35	0
-	^	34	9
-	.	34	7
-	+	2	0
-	+	34	8
-	+	38	0
-	+	39	0
-	+	37	4
-	+	34	0
-	+	42	1
-	+	33	0
-	+	27	0
-	+	35	0
-	+	24	0
-	+	34	7
-
-> ~/pdf.sh
-	*	1545313724	0
-	"	1	0
-
-> ~/.scripts/misc/todo.sh
-	*	1545307844	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-754-3373723998487796663
-	*	1545304527	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	5	7
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-754-11510789060566877119
-	*	1545304320	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	3	44
-	+	5	7
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-754-17579852678168170853
-	*	1545303872	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	3	58
-	+	5	7
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2122-15646786759621663570
-	*	1545302595	0
-	"	5	55
-	^	3	58
-	.	3	57
-	+	3	136
-	+	5	69
-	+	3	57
-
-> ~/printer
-	*	1545302084	0
-	"	1	4
-	^	1	21
-	.	1	20
-	+	1	20
-
-> ~/playlist.m3u
-	*	1545296221	0
-	"	1	0
-	^	2	43
-	.	1	0
-	+	1	42
-	+	2	42
-	+	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2743-6973320094089916081
-	*	1545296174	0
-	"	3	190
-	^	3	191
-	.	3	190
-	+	3	190
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-8836-7478825468018222076
-	*	1545232321	0
-	"	3	599
-	^	3	554
-	.	3	553
-	+	5	7
-	+	3	321
-	+	3	392
-	+	3	0
-	+	3	552
-	+	3	0
-	+	3	353
-	+	3	553
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-8759-5994754424183615679
-	*	1545231831	0
-	"	4	0
-	^	5	561
-	.	5	560
-	+	7	143
-	+	7	92
-	+	7	0
-	+	7	337
-	+	7	159
-	+	7	367
-	+	7	237
-	+	7	413
-	+	7	533
-	+	5	74
-	+	7	0
-	+	5	109
-	+	5	0
-	+	5	201
-	+	5	176
-	+	5	281
-	+	5	40
-	+	5	185
-	+	5	492
-	+	5	0
-	+	5	723
-	+	5	0
-	+	5	474
-	+	5	156
-	+	5	560
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2289-12096405919544311871
-	*	1545214050	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2289-13573454749201603244
-	*	1545212612	0
-	"	3	55
-	^	3	56
-	.	3	55
-	+	3	55
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2289-17094861502872963908
-	*	1545212319	0
-	"	3	250
-	^	3	251
-	.	3	250
-	+	3	250
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2252-13827590970569445535
-	*	1545212090	0
-	"	1	44
-	^	1	45
-	.	1	44
-	+	1	44
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2248-2273803538314512346
-	*	1545211897	0
-	"	1	88
-	^	1	89
-	.	2	0
-	+	2	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1399-1814511394024695195
-	*	1545209672	0
-	"	5	7
-	^	5	8
-	.	5	8
-	+	3	381
-	+	5	8
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1046-9782925590004099884
-	*	1545209438	0
-	"	3	139
-	^	3	140
-	.	3	140
-	+	3	140
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-7916-17495251745368764210
-	*	1545141334	0
-	"	3	167
-	^	3	128
-	.	3	167
-	+	1	126
-	+	1	0
-	+	3	167
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-7916-9734081977682761490
-	*	1545137693	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	3	189
-	+	5	7
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6150-18167510247729319700
-	*	1545132617	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6150-7471415716018711825
-	*	1545132605	0
-	"	3	101
-	^	3	102
-	.	3	101
-	+	3	101
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6150-5117388224162098660
-	*	1545125558	0
-	"	5	0
-	^	5	0
-	.	5	0
-	+	3	87
-	+	4	178
-	+	3	43
-	+	5	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6121-13022891819506776016
-	*	1545124742	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6031-12247707248286657834
-	*	1545124662	0
-	"	3	78
-	^	3	79
-	.	3	78
-	+	3	78
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6031-3745203792215487284
-	*	1545124573	0
-	"	1	109
-	^	1	110
-	.	1	109
-	+	1	109
-
-> ~/Projects/it-web-processes/IT/Network/Schema/todo.org
-	*	1545123947	0
-	"	1	0
-	^	18	21
-	.	18	20
-	+	3	0
-	+	2	6
 	+	2	16
-	+	2	17
-	+	2	90
-	+	2	6
+	+	4	27
 	+	3	0
-	+	2	6
-	+	2	76
-	+	2	23
-	+	2	6
-	+	2	0
-	+	3	0
-	+	2	6
-	+	2	0
-	+	2	2
-	+	3	0
-	+	2	0
-	+	3	39
-	+	2	64
-	+	3	64
-	+	21	0
-	+	19	0
-	+	2	0
-	+	21	19
-	+	19	0
-	+	22	13
-	+	20	14
-	+	23	28
-	+	19	0
-	+	24	72
-	+	25	10
-	+	24	28
-	+	25	69
-	+	25	26
-	+	19	0
-	+	29	18
-	+	19	0
-	+	30	0
-	+	19	0
-	+	2	0
-	+	4	69
-	+	2	0
-	+	19	0
-	+	4	70
-	+	30	0
-	+	19	0
-	+	30	0
-	+	19	0
-	+	30	0
-	+	2	8
-	+	2	0
-	+	5	58
-	+	19	0
-	+	2	2
-	+	2	0
-	+	7	58
-	+	30	0
-	+	7	66
-	+	2	0
-	+	8	53
-	+	2	0
-	+	19	0
-	+	2	55
-	+	2	0
-	+	2	61
-	+	2	55
-	+	8	61
-	+	2	0
-	+	9	64
-	+	10	48
-	+	1	0
-	+	30	0
-	+	1	0
-	+	11	73
-	+	12	37
-	+	19	0
-	+	1	0
-	+	14	7
-	+	1	0
-	+	13	0
-	+	1	0
-	+	14	13
-	+	1	0
-	+	16	44
-	+	1	0
-	+	16	51
-	+	18	20
+	+	4	33
 
-> ~/Projects/it-web-processes/IT/Network/Processes/Change-Control-Example.md
-	*	1545123874	0
-	"	1	0
+> ~/ping.txt
+	*	1554220767	0
+	"	84	0
 
-> ~/.elinks/bookmarks
-	*	1545122480	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-5304-5974819604550275271
-	*	1545057906	0
-	"	2	0
-	^	3	105
-	.	3	104
-	+	3	104
+> ~/tracert.txt
+	*	1554220590	0
+	"	134	1
+	^	126	0
+	.	126	0
+	+	11	0
+	+	20	0
+	+	29	0
+	+	38	0
+	+	47	0
+	+	74	0
+	+	65	0
+	+	56	0
+	+	54	0
+	+	56	0
+	+	63	0
+	+	65	0
+	+	72	0
+	+	74	0
+	+	9	0
+	+	11	0
+	+	20	0
+	+	18	0
+	+	20	0
+	+	27	0
+	+	29	0
+	+	36	0
+	+	38	0
+	+	45	0
+	+	47	0
+	+	117	0
+	+	108	0
+	+	99	0
+	+	90	0
+	+	81	0
+	+	126	0

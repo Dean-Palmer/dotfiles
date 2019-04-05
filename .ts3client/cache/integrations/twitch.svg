@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="twitch" transform="matrix(1,0,0,1.03226,0,0)">
+        <rect x="0" y="0" width="64" height="62" style="fill:none;"/>
+        <g transform="matrix(0.436567,0,0,0.422924,-30.8657,-29.9011)">
+            <path d="M89,77L80,100L80,194L112,194L112,211L130,211L147,194L173,194L208,159L208,77L89,77ZM196,153L176,173L144,173L127,190L127,173L100,173L100,89L196,89L196,153ZM176,112L176,147L164,147L164,112L176,112ZM144,112L144,147L132,147L132,112L144,112Z" style="fill:rgb(100,65,164);"/>
+        </g>
+    </g>
+</svg>

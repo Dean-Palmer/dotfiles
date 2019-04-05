@@ -285,3 +285,44 @@
 2019-01-02T11:13:30.619Z - promoCode = none
 2019-01-02T11:13:30.622Z - https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux?daily=false&weekly=false&monthly=false&first=false&woi=2018-10-08&ref=none&accept_preview=false
 2019-01-02T11:13:30.764Z - Metadata: {"version":"0.25.304","name":"Brave 0.25.304","pub_date":"2018-12-20T16:17:33.749Z","notes":"Added information for migrating to the new Brave browser. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.304dev\n\nFixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.2dev\n\nFixed several about:blank tab issues, swipe navigation on macOS. Updated to Chromium 69.0.3497.100 and Tor 0.3.4 series. More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.0dev\n\nUpgraded to muon 8.0.10. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.107dev","preview":false,"url":"https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.304/linux64/Brave.tar.bz2"}
+2019-01-11T14:59:41.687Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-11T14:59:41.687Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-14T10:30:01.647Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-14T10:30:01.649Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-14T10:32:01.660Z - checkForUpdates
+2019-01-14T10:32:01.661Z - lastCheckWOY = -2
+2019-01-14T10:32:01.660Z - lastCheckYMD = 2019-01-02
+2019-01-14T10:32:01.661Z - lastCheckMonth = 1
+2019-01-14T10:32:01.661Z - firstCheckMade = true
+2019-01-14T10:32:01.661Z - weekOfInstallation= 2018-10-08
+2019-01-14T10:32:01.661Z - promoCode = none
+2019-01-14T10:32:01.664Z - https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux?daily=true&weekly=true&monthly=false&first=false&woi=2018-10-08&ref=none&accept_preview=false
+2019-01-14T10:32:01.791Z - Metadata: {"version":"0.25.304","name":"Brave 0.25.304","pub_date":"2018-12-20T16:17:33.749Z","notes":"Added information for migrating to the new Brave browser. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.304dev\n\nFixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.2dev\n\nFixed several about:blank tab issues, swipe navigation on macOS. Updated to Chromium 69.0.3497.100 and Tor 0.3.4 series. More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.0dev\n\nUpgraded to muon 8.0.10. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.107dev","preview":false,"url":"https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.304/linux64/Brave.tar.bz2"}
+2019-01-23T15:07:49.981Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-23T15:07:49.981Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-30T14:09:03.499Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-30T14:09:03.500Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-01-30T14:11:03.525Z - checkForUpdates
+2019-01-30T14:11:03.527Z - lastCheckYMD = 2019-01-14
+2019-01-30T14:11:03.527Z - lastCheckMonth = 1
+2019-01-30T14:11:03.527Z - lastCheckWOY = 12
+2019-01-30T14:11:03.527Z - firstCheckMade = true
+2019-01-30T14:11:03.527Z - weekOfInstallation= 2018-10-08
+2019-01-30T14:11:03.527Z - promoCode = none
+2019-01-30T14:11:03.528Z - https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux?daily=true&weekly=true&monthly=false&first=false&woi=2018-10-08&ref=none&accept_preview=false
+2019-01-30T14:11:03.659Z - Metadata: {"version":"0.25.304","name":"Brave 0.25.304","pub_date":"2018-12-20T16:17:33.749Z","notes":"Added information for migrating to the new Brave browser. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.304dev\n\nFixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.2dev\n\nFixed several about:blank tab issues, swipe navigation on macOS. Updated to Chromium 69.0.3497.100 and Tor 0.3.4 series. More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.0dev\n\nUpgraded to muon 8.0.10. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.107dev","preview":false,"url":"https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.304/linux64/Brave.tar.bz2"}
+2019-02-01T10:18:07.299Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-01T10:18:07.299Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-13T10:08:20.513Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-13T10:08:20.514Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-20T16:28:31.807Z - platformBaseUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-20T16:28:31.809Z - updateUrl = https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux
+2019-02-20T16:30:31.864Z - checkForUpdates
+2019-02-20T16:30:31.864Z - lastCheckYMD = 2019-01-30
+2019-02-20T16:30:31.864Z - lastCheckMonth = 1
+2019-02-20T16:30:31.864Z - lastCheckWOY = 26
+2019-02-20T16:30:31.864Z - firstCheckMade = true
+2019-02-20T16:30:31.864Z - weekOfInstallation= 2018-10-08
+2019-02-20T16:30:31.864Z - promoCode = none
+2019-02-20T16:30:31.866Z - https://laptop-updates.brave.com/1/releases/dev/0.23.105/linux?daily=true&weekly=true&monthly=true&first=false&woi=2018-10-08&ref=none&accept_preview=false
+2019-02-20T16:30:32.011Z - Metadata: {"version":"0.25.304","name":"Brave 0.25.304","pub_date":"2018-12-20T16:17:33.749Z","notes":"Added information for migrating to the new Brave browser. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.304dev\n\nFixed several security issues. More details: https://github.com/brave/browser-laptop/releases/tag/v0.25.2dev\n\nFixed several about:blank tab issues, swipe navigation on macOS. Updated to Chromium 69.0.3497.100 and Tor 0.3.4 series. More details: https://github.com/brave/browser-laptop/releases/tag/v0.24.0dev\n\nUpgraded to muon 8.0.10. More details: https://github.com/brave/browser-laptop/releases/tag/v0.23.107dev","preview":false,"url":"https://brave-download.global.ssl.fastly.net/multi-channel/releases/dev/0.25.304/linux64/Brave.tar.bz2"}

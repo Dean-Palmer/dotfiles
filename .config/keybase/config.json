@@ -1,0 +1,13 @@
+{
+    "current_user": "linuxpenguin",
+    "mountdir": "/run/user/1001/keybase/kbfs",
+    "mountdirdefault": "/run/user/1001/keybase/kbfs",
+    "users": {
+        "linuxpenguin": {
+            "device": "56dfbafbf56b718da695b0668eb2db18",
+            "id": "b662114cb24778a148d0197a5cfae719",
+            "name": "linuxpenguin",
+            "salt": "c4e161be9f9736c4f2b1a69ddefca219"
+        }
+    }
+}

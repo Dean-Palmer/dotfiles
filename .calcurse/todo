@@ -1,0 +1,25 @@
+[1]>11b8ecea84efc8befd6e428a2747d96b426ee87f Add warehouse printers to network so they don't need the other PC's to be on
+[1]>0a5f55db6ef8a7bb6be98cfd4c960bde4b7bd315 Check sage backups daily then weekly
+[1] Install 1TB SSD's in RAID 1
+[2]>75ca11ac5fa732c5555af6e197404efef7d2d8bc Fix auto on warehouse CCTV software
+[2] Fix nominet account detials so they match registered .co.uk domains so you can register all the .uk domains
+[3] Install KVM and adjust rack layout
+[3]>c8906d5363b620fe690bbfdfc6600b6b2d8097d2 Replace LV path /dev/backup/vm
+[3] Update all registrar details for domains (Ukfast)
+[4]>73c4d99f3a4dd0f15bce5c75a02e3e868e6b281a Buy new cisco switch
+[4] Order and setup new AP's 1 for office 1 for warehouse
+[4]>51d5b7761c18487d9985a7be0d759a6080ab4840 Port french number from Bea (Marc) to Lily
+[5] Pentest ourselves with free tools already available
+[5] Setup spafix's on hold advertising audio loops on Lily cloud
+[5] Setup warehouse top floor IP phone
+[5]>a7c629447b7d9bfec4123b333536e8e7cb8c9e99 Test French number making form Frech phones
+[5]>f4f0f8a395c68f9fad4fd0fe8898b1e93682d53a Transfer any domains Marc owns of ours to UKfast or 123reg
+[7]>1bc7c7df3c0f0e3a2e4be765e8d3a5d29a8ef1b6 Complete temp sensor project for server cupboard
+[7] Handle AC warrany replacement
+[7]>dfdb0ee976bfef8f2904081401448ecb9c5c1e1e Research pricres for NVR and camera upgrade
+[9]>4ca6d2e188bebab6efb6f1b665c58ecbbea7625b Create draft eBay listing for old laptop
+[9]>80cae6510694e896596242b9b094340938ee7435 Finish PCI-DSS
+[9]>fe3fd21ed66e506d1f8e8856ebc67cc89369310c Multi-room radio setup
+[9] Test shutdown procedure for UPS and shutdown scripts which trigger on server at X percentage
+[0] Configure IPSEC tunnel betweek UK and France
+[0]>c08e0fec04292eaab8cd018d1f1ec4f538218b8f Configure new cisco router for leased line and provding spafix with internet

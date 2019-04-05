@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"https://extensionupdater.brave.com":{"supports_spdy":true}},{"https://clients2.googleusercontent.com":{"alternative_service":[{"advertised_versions":[43],"expiration":"13201173443967307","port":443,"protocol_str":"quic"}],"supports_spdy":true}}],"version":5},"network_qualities":{"CAESABiAgICA+P////8B":"4G"}}}

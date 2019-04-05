@@ -30,7 +30,7 @@
 	floating_modifier $mod
 
 	# start a terminal
-	bindsym $mod+Return exec i3-sensible-terminal
+	bindsym $mod+Return exec st
 
 	# kill focused window
 	bindsym $mod+Shift+q kill
@@ -167,10 +167,10 @@
 	# Pressing right will grow the window’s width.
 	# Pressing up will shrink the window’s height.
 	# Pressing down will grow the window’s height.
-	bindsym h resize shrink width 10 px or 10 ppt
-	bindsym j resize grow height 10 px or 10 ppt
-	bindsym k resize shrink height 10 px or 10 ppt
-	bindsym l resize grow width 10 px or 10 ppt
+	bindsym l resize shrink width 10 px or 10 ppt
+	bindsym j resize shrink height 10 px or 10 ppt
+	bindsym k resize grow height 10 px or 10 ppt
+	bindsym h resize grow width 10 px or 10 ppt
 
 
 	# same bindings, but for the arrow keys
@@ -235,7 +235,8 @@ exec --no-startup-id xrandr --output DP-1 --mode 1920x1080 --pos 1920x0 --rotate
 	bindsym XF86AudioPrev exec playerctl previous
 
 # Wallpaper with feh
-exec_always feh --bg-fill ~/Projects/Pictures/Landscape/gnu.jpg ~/Projects/Pictures/Portrait/overkill.jpg
+exec_always feh --bg-fill ~/Projects/Pictures/Landscape/mountain.jpg ~/Projects/Pictures/Portrait/purple.jpg
+
 
 # Border color
 # class		border		backgr.		text		indicator	child_border
@@ -254,8 +255,17 @@ smart_borders on
 # Hide cursor
 exec_always --no-startup-id unclutter
 
-# Force workspaces to monitors (chrome portait to the portrait monitor.)
+# Force workspaces to monitors.
+workspace $ws1 output HDMI-1
 workspace $ws2 output DP-1 
+workspace $ws3 output HDMI-1 
+workspace $ws4 output DP-1
+workspace $ws5 output HDMI-1 
+workspace $ws6 output DP-1
+workspace $ws7 output HDMI-1 
+workspace $ws8 output DP-1
+workspace $ws9 output HDMI-1 
+workspace $ws10 output DP-1
 
 # Set keyboard to GB on startup
 exec_always --no-startup-id setxkbmap gb
@@ -270,36 +280,34 @@ exec --no-startup-id compton
 # Run the urxvt update so terminal looks pretty
 exec --no-startup-id xrdb ~/.Xresources
 
-# Run wal to set the color scheme
-exec_always --no-startup-id wal -i ~/Pictures/portrait/a-lot.jpg -n
-
 # Run arandr script to line monitors
 exec --no-startup-id ~/.screenlayout/screen.sh
 
 # Runs pulseaudio so I will have audio when i log in
 exec --no-startup-id pulseaudio
 
-
 # Custom keybinds
 # Bind ctrl to escape for use with vim
 exec --no-startup-id xcape -e 'Control_L=Escape' -t 175
-bindsym $mod+Shift+t		gaps inner current set 25; gaps outer current set 35
-bindsym $mod+Shift+y		gaps inner current set 10; gaps outer current set 10
+bindsym $mod+Shift+t		gaps inner current set 15; gaps outer current set 15
+bindsym $mod+Shift+y		gaps inner current set 5; gaps outer current set 5
 bindsym $mod+Shift+u		gaps inner current set 0; gaps outer current set 0
 
 #Music keybinds
-	bindsym $mod+p exec --no-startup-id mpc --host 82.16.196.118 play
-	bindsym $mod+i exec --no-startup-id mpc --host 82.16.196.118 pause
+	bindsym $mod+p exec --no-startup-id mpc --host 51.68.212.217 --port 6700 play
+	bindsym $mod+i exec --no-startup-id mpc --host 51.68.212.217 --port 6700 pause
+	bindsym $mod+z exec --no-startup-id mpv ~/Projects/Music/lofi.m3u --no-video
+	bindsym $mod+x --no-startup-id  xdotool search --class mpv | xargs -I % xdotool key --window % comma
 	bindsym $mod+Shift+p exec --no-startup-id mpc play
 	bindsym $mod+Shift+i exec --no-startup-id mpc pause
 	bindsym $mod+Shift+F3 exec --no-startup-id mpc prev
 	bindsym $mod+Shift+F4 exec --no-startup-id mpc next
 	bindsym $mod+Shift+F2 exec --no-startup-id mpc volume +5
 	bindsym $mod+Shift+F1 exec --no-startup-id mpc volume -5
-	bindsym $mod+F3 exec --no-startup-id mpc --host 82.16.196.118 prev
-	bindsym $mod+F4 exec --no-startup-id mpc --host 82.16.196.118 next
+	bindsym $mod+F3 exec --no-startup-id mpc --host 51.68.212.217 --port 6700 prev
+	bindsym $mod+F4 exec --no-startup-id mpc --host 51.68.212.217 --port 6700 next
 
 #Application shortcuts
 	bindsym $mod+q exec --no-startup-id qutebrowser
-	bindsym $mod+t exec bash ~/.scripts/lock.sh 
+	bindsym $mod+t exec bash ~/Projects/.scripts/lock/lock.sh 
 	bindsym $mod+o exec --no-startup-id remmina -c ~/.local/share/remmina/1541079335075.remmina

@@ -1,19 +1,19 @@
-sw_volume: 65
+sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
 current: 0
-time: 4.246000
+time: 0.740000
 random: 0
-repeat: 1
-single: 0
+repeat: 0
+single: 1
 consume: 1
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-song_begin: http://82.16.196.118:8000
-Title: Harry Potter and the Deathly Hallows - J.K. Rowling - Chapter 26 - Gringotts
+song_begin: http://51.68.212.217:8000
+Title: untitled unmastered. - Kendrick Lamar - untitled 05 | 09.21.2014.
 Name: Raspberr pi MPD
 song_end
 playlist_end

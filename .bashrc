@@ -57,7 +57,9 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+PS1='${debian_chroot:+($debian_chroot)}\[\033[01;35m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
+
+#PS1='\[\033[00;36m\]\w \033[36m\]'
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
@@ -118,18 +120,29 @@ fi
 
 #Custom
 #Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
-source ~/.scripts/misc/aliases.sh
+source ~/Projects/.scripts/misc/aliases.sh
 
 #Lock PC
-alias lock='bash ~/.scripts/lock.sh'
+alias lock='bash ~/.scripts/lock/lock.sh'
 
 #set keyboard to UK(gb)
 alias gb='setxkbmap gb'
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+#[ -f ~/.fzf.bash ] && source ~/.fzf.bash
 export FZF_DEFATUL_POS="--extended"
 
 #Commands Made Shorter
 #sets xsel to pbcopy so it's simmilar to the mac OS program
 alias pbcopy='xsel --clipboard --input'
+
 #Remove ctrl+s pausing temrinal
 stty -ixon
+
+# Env Vars
+export  CALCURSE_EDITOR=vim
+
+complete -cf sudo
+complete -D -o default
+complete -cf sudo
+
+export MAN_DISABLE_SECCOMP=1
+

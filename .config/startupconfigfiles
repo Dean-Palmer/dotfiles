@@ -26,6 +26,13 @@ ksplashrc KSplash Engine KSplashQML
 !/usr/local/share/config/ksplashrc
 !/usr/share/config/ksplashrc
 *
+kdeglobals KScreen ScaleFactor ''
+/home/deanpalmer/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/deanpalmer/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
 kdeglobals KScreen ScreenScaleFactors ''
 /home/deanpalmer/.config/kdeglobals
 !/etc/xdg/kdeglobals

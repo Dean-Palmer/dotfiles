@@ -1,0 +1,66 @@
+
+
+==================================================================================================================================
+
+2019-01-31 09:02:01.752528|INFO    |              |   |TeamSpeak 3 Client 3.2.3 (2018-10-02 07:57:10)
+2019-01-31 09:02:01.752621|INFO    |              |   |SystemInformation: Linux 4.20.5-arch1-1-ARCH #1 SMP PREEMPT Sat Jan 26 12:59:18 UTC 2019 x86_64 Binary: 64bit
+2019-01-31 09:02:01.752669|INFO    |              |   |Using hardware aes
+2019-01-31 09:02:01.773494|DEBUG   |PulseAudio    |   |connected to pulse audio server - 
+2019-01-31 09:02:01.787876|INFO    |ClientUI      |   |OpenGL Info: LibGL, Vendor: Intel Open Source Technology Center, Renderer: Mesa DRI Intel(R) HD Graphics 530 (Skylake GT2) , Version: 3.0 Mesa 18.3.2
+2019-01-31 09:02:01.788365|ERROR   |RevocationListCache|   |Failed to import revocation list from cache
+2019-01-31 09:02:01.817902|DEVELOP |Addons        |   |Installation request for Gamepad and Joystick Hotkey Support
+2019-01-31 09:02:01.818519|DEVELOP |Addons        |   |Installation request for ClientQuery
+2019-01-31 09:02:01.818558|INFO    |Addons        |   |Checking for addon updates...
+2019-01-31 09:02:01.866280|INFO    |              |   |successfully downloaded revocation list for myteamspeak id
+2019-01-31 09:02:01.874989|INFO    |              |   |successfully downloaded revocation list for accounting
+2019-01-31 09:02:01.907215|INFO    |SyncImpl      |   |Creating default config in local storage
+2019-01-31 09:02:01.910231|INFO    |Addon         |   |Not available for this platform.
+2019-01-31 09:02:02.245041|INFO    |              |   |*** Time [MAINWINDOW]: 309
+2019-01-31 09:02:02.245112|INFO    |              |   |*** Time [INIT]: 310
+2019-01-31 09:02:02.245256|DEVELOP |ClientUI      |   |Notifications init: Soundpack path: /opt/teamspeak3/sound/default
+2019-01-31 09:02:02.246993|INFO    |ClientUI      |   |Failed to init text to speech engine
+2019-01-31 09:02:02.247066|INFO    |ClientUI      |   |Qt version: 5.6.1
+2019-01-31 09:02:02.247096|INFO    |ClientUI      |   |Using configuration location: /home/deanpalmer/.ts3client/settings.db
+2019-01-31 09:02:02.480368|DEVELOP |Addons        |   |Got addon download info for ClientQuery
+2019-01-31 09:02:02.745001|INFO    |Bookmarks     |   |Collecting autoconnect bookmarks
+2019-01-31 09:02:02.745143|INFO    |ClientUI      |   |Last update check was: Never
+2019-01-31 09:02:02.745169|INFO    |ClientUI      |   |Checking for update
+2019-01-31 09:02:02.768006|INFO    |Update        |   |Checking for updates...
+2019-01-31 09:02:02.768266|DEVELOP |Addon_Download_Manager|   |Download completed: /tmp/clientquery_plugin_linux_amd64.ts3_plugin Addon_Uuid:943dd816-7ef2-48d7-82b8-d60c3b9b10b3 Version: 5
+2019-01-31 09:02:02.965085|INFO    |Update        |   |Check license: version=4, min_version=4, my_license_version=0, my_license_min_version=0
+2019-01-31 09:02:03.019296|INFO    |LicenseViewer |   |View license: version=4, language=C, require accept=1
+2019-01-31 09:02:03.019538|INFO    |LicenseViewer |   |Requesting remote license for version 4 and language C
+2019-01-31 09:02:03.021095|DEVELOP |Addon_Install_Manager|   |Addon installed: ClientQuery
+2019-01-31 09:02:03.047175|INFO    |Addons        |   |Installing addon ClientQuery
+2019-01-31 09:02:03.048785|DEVELOP |Addons        |   |Sync add_addon result: true for ClientQuery (943dd816-7ef2-48d7-82b8-d60c3b9b10b3)
+2019-01-31 09:02:03.171521|INFO    |Plugins       |   |Loading plugin: libclientquery_plugin_linux_amd64.so
+2019-01-31 09:02:03.187452|INFO    |Query         |   |listening on 127.0.0.1:25639
+2019-01-31 09:02:03.188166|INFO    |Integrations  |   |Requesting integration icon download from https://ts3services.teamspeak.com/integration_icons/twitch/twitch.svg
+2019-01-31 09:02:03.188823|INFO    |LicenseViewer |   |Failed to download license file for version 4 and language C, retrying english fallback
+2019-01-31 09:02:03.188990|INFO    |LicenseViewer |   |Requesting remote license for version 4 and language en
+2019-01-31 09:02:03.228539|INFO    |LicenseViewer |   |Downloaded license file for version 4 and language en
+2019-01-31 09:02:03.251775|INFO    |Newsticker    |   |Newsticker language change detected
+2019-01-31 09:02:03.252304|INFO    |Newsticker    |   |Newsticker next check: 
+2019-01-31 09:02:03.343871|INFO    |Newsticker    |   |Newsticker not found for language C
+2019-01-31 09:02:03.450299|INFO    |Newsticker    |   |Newsticker received for language C, expires on Fri Feb 1 09:02:03 2019, next check in 86400 seconds
+2019-01-31 09:02:07.720549|INFO    |ClientUI      |   |Trying to open html from: file:///opt/teamspeak3/html/myteamspeak_intro/index.html
+2019-01-31 09:02:29.785775|INFO    |              |   |********** LEGACY IMPORT ***************
+2019-01-31 09:02:29.785867|INFO    |              |   |Imported channel passwords
+2019-01-31 09:02:29.786126|INFO    |              |   |Imported legacy hotkeys
+2019-01-31 09:02:29.787478|INFO    |              |   |No legacy bookmarks found
+2019-01-31 09:02:29.787544|INFO    |              |   |Imported legacy bookmarks
+2019-01-31 09:02:29.788513|INFO    |              |   |Imported legacy subscriptions
+2019-01-31 09:02:29.788836|INFO    |              |   |Imported legacy whisperlists
+2019-01-31 09:02:32.624394|INFO    |ClientUI      |   |Created default identity
+2019-01-31 09:02:43.936562|INFO    |ClientUI      |1  |Connect to server: 51.68.212.217
+2019-01-31 09:02:43.937352|INFO    |ClientUI      |1  |Initiating connection: 51.68.212.217:9987
+2019-01-31 09:02:43.984859|INFO    |PreProSpeex   |1  |Speex version: 1.2rc1
+2019-01-31 09:02:43.996182|INFO    |ClientUI      |1  |Connect status: Connecting
+2019-01-31 09:02:49.004793|INFO    |ClientUI      |1  |Connect status: Disconnected
+2019-01-31 09:02:49.006722|INFO    |ClientUI      |1  |Failed to connect to server, want autoreconnect = 0
+2019-01-31 09:03:20.428005|INFO    |ClientUI      |1  |Connect to server: 51.68.212.217
+2019-01-31 09:03:20.428677|INFO    |ClientUI      |1  |Initiating connection: 51.68.212.217:9987
+2019-01-31 09:03:20.474831|INFO    |ClientUI      |1  |Connect status: Connecting
+2019-01-31 09:03:25.546301|INFO    |ClientUI      |1  |Connect status: Disconnected
+2019-01-31 09:03:25.548125|INFO    |ClientUI      |1  |Failed to connect to server, want autoreconnect = 0
+2019-01-31 09:07:58.731403|DEBUG   |PulseAudio    |   |Underflow occurred on device ts3.pa.dummy.playbackdefault - 

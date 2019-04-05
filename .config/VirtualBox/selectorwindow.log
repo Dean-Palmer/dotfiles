@@ -1,37 +1,37 @@
-VirtualBox GUI VM Selector Window 5.2.22 r126257 linux.amd64 (Nov  9 2018 11:16:45) release log
-00:00:00.532117 Log opened 2019-01-03T08:44:16.263827000Z
-00:00:00.532120 Build Type: release
-00:00:00.532125 OS Product: Linux
-00:00:00.532128 OS Release: 4.19.9-arch1-1-ARCH
-00:00:00.532131 OS Version: #1 SMP PREEMPT Fri Dec 14 00:58:26 UTC 2018
-00:00:00.532172 DMI Product Name: System Product Name
-00:00:00.532191 DMI Product Version: System Version
-00:00:00.532273 Host RAM: 7858MB (7.6GB) total, 7218MB (7.0GB) available
-00:00:00.532281 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.532282 Process ID: 1019
-00:00:00.532284 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.532333 Qt version: 5.12.0
-00:00:00.578307 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:00.701702 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x480 x 638x1043
-00:00:00.739844 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 640x480 x 638x1043
-00:00:00.762580 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
-00:00:00.762846 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:11:32.105044 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:11:32.211307 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:11:43.884408 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:13:46.681399 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:13:46.795341 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:13:55.439335 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:16:03.857511 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:16:03.948092 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:17:09.871012 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:17:14.938884 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:17:15.037484 2D support test succeeded
-00:17:15.066355 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:23:13.561229 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:23:13.681482 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:23:19.085472 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:23:27.738345 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
-00:32:39.259245 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:32:39.347162 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:32:45.437056 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.558185 VirtualBox GUI VM Selector Window 6.0.4 r128164 linux.amd64 (Mar  5 2019 19:56:31) release log
+00:00:00.558188 Log opened 2019-04-01T11:46:54.789045000Z
+00:00:00.558189 Build Type: release
+00:00:00.558191 OS Product: Linux
+00:00:00.558193 OS Release: 5.0.4-arch1-1-ARCH
+00:00:00.558194 OS Version: #1 SMP PREEMPT Sat Mar 23 21:00:33 UTC 2019
+00:00:00.558216 DMI Product Name: System Product Name
+00:00:00.558225 DMI Product Version: System Version
+00:00:00.558267 Host RAM: 7858MB (7.6GB) total, 7078MB (6.9GB) available
+00:00:00.558272 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.558272 Process ID: 9626
+00:00:00.558273 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.558300 Qt version: 5.12.2
+00:00:00.580823 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.580846 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.013622 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 29x527 x 1862x969
+00:00:01.022530 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 29x527 x 1862x969
+00:00:01.168179 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:11.294383 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:11.294612 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:39.082186 GUI: UIMediumEnumerator: Medium with key={{1b8eb47b-ef46-4a09-83dd-9ef374093a23}} created
+00:00:39.240337 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:40.838846 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:41.109831 2D support test succeeded
+00:00:41.151784 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:56.938840 GUI: UIMediumEnumerator: Medium with key={{2bd0ff7c-c6a5-4f0d-a806-2bb059a0f164}} created
+00:00:58.496418 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:13.432904 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:01:13.455888 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:14.976843 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:01:15.100834 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:20.230884 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:55.474101 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:00.664894 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:07:01.123903 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:07.795111 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:08.399713 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

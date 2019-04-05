@@ -1,2 +1,5 @@
+[General]
+history=st
+
 [PlasmaRunnerManager]
-LaunchCounts=
+LaunchCounts=1 shell_st

@@ -1,2 +1,11 @@
-https://www.archlinux.org/feeds/news/ "tech"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3tNpTOHsTnkmbwztCs30sA "Issac"
+# Youtube Channels
+#user prefix https://www.youtube.com/feeds/videos.xml?user=
+#id prefix https://www.youtube.com/feeds/videos.xml?channel_id=
+#Playlist prefix https://www.youtube.com/feeds/videos.xml?playlist_id=
+https://www.youtube.com/feeds/videos.xml?user=linustechtips
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLUBVPK8x-XMjKAxGCwhQ2WxTvfqX8qRku
+https://www.youtube.com/feeds/videos.xml?user=northernlion
+
+#Twitch.tv vods
+https://twitchrss.appspot.com/vod/northernlion

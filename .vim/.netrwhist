@@ -1,8 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/deanpalmer/Projects/Work/pi'
-let g:netrw_dirhist_2='/home/deanpalmer/.vim'
-let g:netrw_dirhist_3='/home/deanpalmer/.mutt'
-let g:netrw_dirhist_4='/home/deanpalmer/.scim'
-let g:netrw_dirhist_5='/home/deanpalmer/Projects/Work/todo'
-let g:netrw_dirhist_6='/home/deanpalmer/.offlineimap'
+let g:netrw_dirhist_cnt =0
