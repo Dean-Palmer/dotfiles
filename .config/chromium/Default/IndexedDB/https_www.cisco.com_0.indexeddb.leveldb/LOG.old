@@ -1,9 +1,0 @@
-2018/12/19-09:56:49.921 b5d Reusing MANIFEST /home/deanpalmer/.config/chromium/Default/IndexedDB/https_www.cisco.com_0.indexeddb.leveldb/MANIFEST-000001
-2018/12/19-09:56:51.910 b4f Current memtable full; waiting...
-2018/12/19-09:56:51.910 b94 Level-0 table #5: started
-2018/12/19-09:56:51.914 b94 Level-0 table #5: 402 bytes OK
-2018/12/19-09:56:51.918 b94 Delete type=0 #3
-2018/12/19-09:56:51.918 b94 Level-0 table #7: started
-2018/12/19-09:56:51.918 b94 Level-0 table #7: 0 bytes OK
-2018/12/19-09:56:51.921 b94 Delete type=0 #4
-2018/12/19-09:56:51.921 b94 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
