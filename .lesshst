@@ -1,45 +1,5 @@
 .less-history-file:
 .search
-"gggg
-"-r
-"--recipient
-"greet
-"gtk
-"log
-"--type
-"raid1
-"example
-"
-"--mirrors
-"--mirror
-"mirror
-"raid
-"device
-"open
-"delete
-"d
-"output
-"revoke
-"new
-"window
-"new
-"window
-"/
-"new
-"window
-"list
-"ssb
-"smart
-"smartcard
-"reboot
-"
-"
-"reboot
-"start
-"reset
-"reset code
-"code
-"Reset Code
 "Reset
 "reset
 "
@@ -100,3 +60,43 @@
 "not open
 "open
 "F
+"message
+"input
+"-i
+"spawn
+"new
+"l/
+"launch
+"new line
+"-x
+"-1
+"-q
+"-b
+"-1
+"-d
+"-e
+"prompt
+"-u
+"-s
+"passwd
+"password
+"notify
+"new linre
+"new linr
+"new line
+"line
+"-b
+"-1b
+"-1
+"-q
+"uuid
+"-L
+"-U
+"uuid
+"
+"example
+"height
+"width
+"example
+".gg
+"version

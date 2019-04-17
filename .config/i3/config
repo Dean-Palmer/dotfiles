@@ -272,7 +272,7 @@ exec_always --no-startup-id setxkbmap gb
 
 # Start pulseaudio
 
-exec --no-startup-id pulseaudio
+#exec --no-startup-id pulseaudio
 
 # Start compton
 exec --no-startup-id compton
@@ -286,6 +286,9 @@ exec --no-startup-id ~/.screenlayout/screen.sh
 # Runs pulseaudio so I will have audio when i log in
 exec --no-startup-id pulseaudio
 
+# Runst dunst
+exec --no-startup-id dunst
+
 # Custom keybinds
 # Bind ctrl to escape for use with vim
 exec --no-startup-id xcape -e 'Control_L=Escape' -t 175
@@ -294,8 +297,8 @@ bindsym $mod+Shift+y		gaps inner current set 5; gaps outer current set 5
 bindsym $mod+Shift+u		gaps inner current set 0; gaps outer current set 0
 
 #Music keybinds
-	bindsym $mod+p exec --no-startup-id mpc --host 51.68.212.217 --port 6700 play
-	bindsym $mod+i exec --no-startup-id mpc --host 51.68.212.217 --port 6700 pause
+	bindsym $mod+p exec --no-startup-id bash ~/Projects/.scripts/mpc/auto-toggle.sh
+	bindsym $mod+i exec --no-startup-id bash ~/Projects/.scripts/mpc/user-toggle.sh
 	bindsym $mod+z exec --no-startup-id mpv ~/Projects/Music/lofi.m3u --no-video
 	bindsym $mod+x --no-startup-id  xdotool search --class mpv | xargs -I % xdotool key --window % comma
 	bindsym $mod+Shift+p exec --no-startup-id mpc play
@@ -304,8 +307,7 @@ bindsym $mod+Shift+u		gaps inner current set 0; gaps outer current set 0
 	bindsym $mod+Shift+F4 exec --no-startup-id mpc next
 	bindsym $mod+Shift+F2 exec --no-startup-id mpc volume +5
 	bindsym $mod+Shift+F1 exec --no-startup-id mpc volume -5
-	bindsym $mod+F3 exec --no-startup-id mpc --host 51.68.212.217 --port 6700 prev
-	bindsym $mod+F4 exec --no-startup-id mpc --host 51.68.212.217 --port 6700 next
+	bindsym $mod+F4 exec --no-startup-id bash ~/Projects/.scripts/mpc/user-skip.sh
 
 #Application shortcuts
 	bindsym $mod+q exec --no-startup-id qutebrowser

@@ -145,4 +145,3 @@ complete -D -o default
 complete -cf sudo
 
 export MAN_DISABLE_SECCOMP=1
-

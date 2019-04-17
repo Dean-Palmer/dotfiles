@@ -13037,3 +13037,338 @@ Apr 05 09:09 : client: [10] opened from [::1]:42832
 Apr 05 09:09 : client: [10] closed
 Apr 05 09:09 : client: [11] opened from [::1]:42834
 Apr 05 09:09 : client: [11] closed
+Apr 05 11:26 : client: [12] opened from [::1]:43872
+Apr 05 11:26 : player: played "http://51.68.212.217:8000"
+Apr 05 11:26 : client: [12] closed
+Apr 05 11:26 : client: [13] opened from [::1]:43874
+Apr 05 11:26 : client: [13] closed
+Apr 05 11:26 : client: [14] opened from [::1]:43876
+Apr 05 11:26 : client: [14] closed
+Apr 05 11:52 : client: [15] opened from [::1]:44280
+Apr 05 11:52 : player: played "http://51.68.212.217:8000"
+Apr 05 11:52 : client: [15] closed
+Apr 05 11:52 : client: [16] opened from [::1]:44288
+Apr 05 11:52 : client: [16] closed
+Apr 05 11:52 : client: [17] opened from [::1]:44298
+Apr 05 11:52 : client: [17] closed
+Apr 05 12:10 : client: [18] opened from [::1]:44438
+Apr 05 12:10 : client: [18] closed
+Apr 05 12:10 : client: [19] opened from [::1]:44440
+Apr 05 12:10 : client: [19] closed
+Apr 05 12:10 : client: [20] opened from [::1]:44442
+Apr 05 12:10 : client: [20] closed
+Apr 05 12:14 : client: [21] opened from [::1]:44502
+Apr 05 12:14 : player: played "http://51.68.212.217:8000"
+Apr 05 12:14 : client: [21] closed
+Apr 05 12:14 : client: [22] opened from [::1]:44504
+Apr 05 12:14 : client: [22] closed
+Apr 05 12:14 : client: [23] opened from [::1]:44506
+Apr 05 12:14 : client: [23] closed
+Apr 05 12:22 : client: [24] opened from [::1]:44580
+Apr 05 12:22 : player: played "http://51.68.212.217:8000"
+Apr 05 12:22 : client: [24] closed
+Apr 05 12:22 : client: [25] opened from [::1]:44582
+Apr 05 12:22 : client: [25] closed
+Apr 05 12:22 : client: [26] opened from [::1]:44584
+Apr 05 12:22 : client: [26] closed
+Apr 05 12:25 : client: [27] opened from [::1]:44630
+Apr 05 12:25 : player: played "http://51.68.212.217:8000"
+Apr 05 12:25 : client: [27] closed
+Apr 05 12:25 : client: [28] opened from [::1]:44632
+Apr 05 12:25 : client: [28] closed
+Apr 05 12:25 : client: [29] opened from [::1]:44634
+Apr 05 12:25 : client: [29] closed
+Apr 05 12:27 : client: [30] opened from [::1]:44648
+Apr 05 12:27 : player: played "http://51.68.212.217:8000"
+Apr 05 12:27 : client: [30] closed
+Apr 05 12:27 : client: [31] opened from [::1]:44650
+Apr 05 12:27 : client: [31] closed
+Apr 05 12:27 : client: [32] opened from [::1]:44652
+Apr 05 12:27 : client: [32] closed
+Apr 05 12:35 : client: [33] opened from [::1]:44728
+Apr 05 12:35 : client: [33] closed
+Apr 05 12:35 : client: [34] opened from [::1]:44730
+Apr 05 12:35 : client: [34] closed
+Apr 05 12:45 : client: [35] opened from [::1]:44766
+Apr 05 12:45 : player: played "http://51.68.212.217:8000"
+Apr 05 12:45 : client: [35] closed
+Apr 05 12:45 : client: [36] opened from [::1]:44768
+Apr 05 12:45 : client: [36] closed
+Apr 05 12:45 : client: [37] opened from [::1]:44770
+Apr 05 12:45 : client: [37] closed
+Apr 05 14:22 : client: [38] opened from [::1]:45362
+Apr 05 14:22 : client: [38] closed
+Apr 05 14:22 : client: [39] opened from [::1]:45364
+Apr 05 14:22 : client: [39] closed
+Apr 05 16:01 : player: played "http://51.68.212.217:8000"
+Apr 05 16:01 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 08 08:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 08:53 : config: option 'device' on line 13 was not recognized
+Apr 08 08:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 08:53 : exception: Failed to decode http://51.68.212.217:8000
+Apr 08 08:53 : exception: nested: CURL failed: Failed to connect to 51.68.212.217 port 8000: No route to host
+Apr 08 08:53 : player: played "http://51.68.212.217:8000"
+Apr 08 08:57 : client: [0] opened from [::1]:57628
+Apr 08 08:57 : client: [0] closed
+Apr 08 08:58 : client: [1] opened from [::1]:57642
+Apr 08 08:58 : client: [1] closed
+Apr 08 08:58 : client: [2] opened from [::1]:57644
+Apr 08 08:58 : client: [2] closed
+Apr 08 08:58 : client: [3] opened from [::1]:57650
+Apr 08 08:58 : client: [3] closed
+Apr 08 08:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 08:58 : client: [4] opened from [::1]:57654
+Apr 08 08:58 : client: [4] closed
+Apr 08 10:02 : client: [5] opened from [::1]:57928
+Apr 08 10:02 : client: [5] closed
+Apr 08 10:02 : client: [6] opened from [::1]:57930
+Apr 08 10:02 : player: played "http://51.68.212.217:8000"
+Apr 08 10:02 : client: [6] closed
+Apr 08 10:02 : client: [7] opened from [::1]:57932
+Apr 08 10:02 : client: [7] closed
+Apr 08 10:02 : client: [8] opened from [::1]:57934
+Apr 08 10:02 : client: [8] closed
+Apr 08 10:05 : player: played "http://51.68.212.217:8000"
+Apr 08 10:06 : client: [9] opened from [::1]:57966
+Apr 08 10:06 : client: [9] closed
+Apr 08 10:06 : client: [10] opened from [::1]:57968
+Apr 08 10:06 : client: [10] closed
+Apr 08 10:36 : client: [11] opened from [::1]:58038
+Apr 08 10:36 : client: [11] closed
+Apr 08 10:36 : client: [12] opened from [::1]:58040
+Apr 08 10:36 : client: [12] closed
+Apr 08 10:36 : client: [13] opened from [::1]:58044
+Apr 08 10:36 : client: [13] closed
+Apr 08 10:36 : client: [14] opened from [::1]:58046
+Apr 08 10:36 : client: [14] closed
+Apr 08 10:36 : client: [15] opened from [::1]:58048
+Apr 08 10:36 : client: [15] closed
+Apr 08 10:36 : client: [16] opened from [::1]:58050
+Apr 08 10:36 : player: played "http://51.68.212.217:8000"
+Apr 08 10:36 : client: [16] closed
+Apr 08 10:36 : client: [17] opened from [::1]:58052
+Apr 08 10:36 : client: [17] closed
+Apr 08 10:36 : client: [18] opened from [::1]:58054
+Apr 08 10:36 : client: [18] closed
+Apr 08 10:41 : client: [19] opened from [::1]:58076
+Apr 08 10:41 : client: [19] closed
+Apr 08 11:52 : player: played "http://51.68.212.217:8000"
+Apr 08 11:53 : client: [20] opened from [::1]:58418
+Apr 08 11:53 : client: [20] closed
+Apr 08 11:53 : client: [21] opened from [::1]:58420
+Apr 08 11:53 : client: [21] closed
+Apr 08 11:53 : client: [22] opened from [::1]:58424
+Apr 08 11:53 : client: [22] closed
+Apr 08 11:53 : client: [23] opened from [::1]:58426
+Apr 08 11:53 : client: [23] closed
+Apr 08 11:53 : client: [24] opened from [::1]:58428
+Apr 08 11:53 : client: [24] closed
+Apr 08 11:53 : exception: Failed to decode http://51.68.212.217:8000
+Apr 08 11:53 : exception: nested: CURL failed: Empty reply from server
+Apr 08 11:53 : player: played "http://51.68.212.217:8000"
+Apr 08 11:53 : client: [25] opened from [::1]:58436
+Apr 08 11:53 : client: [25] closed
+Apr 08 11:54 : client: [26] opened from [::1]:58562
+Apr 08 11:54 : client: [26] closed
+Apr 08 11:54 : client: [27] opened from [::1]:58564
+Apr 08 11:54 : player: played "http://51.68.212.217:8000"
+Apr 08 11:54 : client: [27] closed
+Apr 08 11:54 : client: [28] opened from [::1]:58566
+Apr 08 11:54 : client: [28] closed
+Apr 08 11:54 : client: [29] opened from [::1]:58568
+Apr 08 11:54 : client: [29] closed
+Apr 08 11:54 : client: [30] opened from [::1]:58572
+Apr 08 11:55 : client: [31] opened from [::1]:58576
+Apr 08 11:55 : client: [30] closed
+Apr 08 11:55 : client: [31] closed
+Apr 08 11:55 : client: [32] opened from [::1]:58584
+Apr 08 11:55 : player: played "http://51.68.212.217:8000"
+Apr 08 11:55 : client: [32] closed
+Apr 08 11:55 : client: [33] opened from [::1]:58586
+Apr 08 11:55 : client: [33] closed
+Apr 08 11:55 : client: [34] opened from [::1]:58588
+Apr 08 11:55 : client: [34] closed
+Apr 08 14:27 : player: played "http://51.68.212.217:8000"
+Apr 08 14:29 : client: [35] opened from [::1]:59360
+Apr 08 14:29 : client: [35] closed
+Apr 08 14:30 : client: [36] opened from [::1]:59362
+Apr 08 14:30 : client: [36] closed
+Apr 08 14:30 : client: [37] opened from [::1]:59364
+Apr 08 14:30 : client: [37] closed
+Apr 08 17:02 : player: played "http://51.68.212.217:8000"
+Apr 08 17:02 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 09 10:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 10:52 : config: option 'device' on line 13 was not recognized
+Apr 09 10:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 10:52 : exception: Failed to decode http://51.68.212.217:8000
+Apr 09 10:52 : exception: nested: CURL failed: Failed to connect to 51.68.212.217 port 8000: No route to host
+Apr 09 10:52 : player: played "http://51.68.212.217:8000"
+Apr 09 10:54 : client: [0] opened from [::1]:49368
+Apr 09 10:55 : client: [1] opened from [::1]:49388
+Apr 09 10:55 : client: [1] closed
+Apr 09 10:55 : client: [0] closed
+Apr 09 10:55 : client: [2] opened from [::1]:49394
+Apr 09 10:55 : player: played "http://51.68.212.217:8000"
+Apr 09 10:55 : client: [3] opened from [::1]:49396
+Apr 09 10:55 : client: [3] closed
+Apr 09 10:55 : client: [4] opened from [::1]:49398
+Apr 09 10:55 : client: [4] closed
+Apr 09 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 10:55 : client: [2] closed
+Apr 09 12:03 : client: [5] opened from [::1]:50580
+Apr 09 12:03 : client: [6] opened from [::1]:50582
+Apr 09 12:03 : client: [6] closed
+Apr 09 12:03 : client: [5] closed
+Apr 09 12:04 : client: [7] opened from [::1]:50612
+Apr 09 12:04 : player: played "http://51.68.212.217:8000"
+Apr 09 12:04 : client: [7] closed
+Apr 09 12:04 : client: [8] opened from [::1]:50614
+Apr 09 12:04 : client: [8] closed
+Apr 09 12:04 : client: [9] opened from [::1]:50616
+Apr 09 12:04 : client: [9] closed
+Apr 09 12:31 : client: [10] opened from [::1]:50826
+Apr 09 12:31 : player: played "http://51.68.212.217:8000"
+Apr 09 12:31 : client: [10] closed
+Apr 09 12:32 : client: [11] opened from [::1]:50832
+Apr 09 12:32 : client: [11] closed
+Apr 09 12:32 : client: [12] opened from [::1]:50834
+Apr 09 12:32 : client: [12] closed
+Apr 09 12:32 : client: [13] opened from [::1]:50836
+Apr 09 12:32 : client: [13] closed
+Apr 09 14:58 : player: played "http://51.68.212.217:8000"
+Apr 09 14:58 : client: [14] opened from [::1]:52202
+Apr 09 14:58 : client: [14] closed
+Apr 09 14:58 : client: [15] opened from [::1]:52204
+Apr 09 14:58 : client: [15] closed
+Apr 09 14:58 : client: [16] opened from [::1]:52206
+Apr 09 14:58 : client: [16] closed
+Apr 09 14:58 : exception: Failed to decode http://51.68.212.217:8000
+Apr 09 14:58 : exception: nested: CURL failed: Recv failure: Connection reset by peer
+Apr 09 14:58 : player: played "http://51.68.212.217:8000"
+Apr 09 14:58 : client: [17] opened from [::1]:52212
+Apr 09 14:58 : exception: Failed to decode http://51.68.212.217:8000
+Apr 09 14:58 : exception: nested: CURL failed: Recv failure: Connection reset by peer
+Apr 09 14:58 : player: played "http://51.68.212.217:8000"
+Apr 09 14:58 : client: [17] closed
+Apr 09 17:04 : player: played "http://51.68.212.217:8000"
+Apr 10 08:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 08:54 : config: option 'device' on line 13 was not recognized
+Apr 10 08:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 08:54 : exception: Failed to decode http://51.68.212.217:8000
+Apr 10 08:54 : exception: nested: CURL failed: Empty reply from server
+Apr 10 08:54 : player: played "http://51.68.212.217:8000"
+Apr 10 11:46 : client: [0] opened from [::1]:39026
+Apr 10 11:46 : client: [0] closed
+Apr 10 11:46 : client: [1] opened from [::1]:39036
+Apr 10 11:46 : client: [1] closed
+Apr 10 11:46 : client: [2] opened from [::1]:39038
+Apr 10 11:46 : client: [2] closed
+Apr 10 11:46 : client: [3] opened from [::1]:39040
+Apr 10 11:46 : client: [3] closed
+Apr 10 11:46 : client: [4] opened from [::1]:39042
+Apr 10 11:46 : client: [4] closed
+Apr 10 11:46 : client: [5] opened from [::1]:39050
+Apr 10 11:46 : client: [5] closed
+Apr 10 11:47 : client: [6] opened from [::1]:39052
+Apr 10 11:47 : client: [6] closed
+Apr 10 11:47 : client: [7] opened from [::1]:39054
+Apr 10 11:47 : client: [7] closed
+Apr 10 11:47 : client: [8] opened from [::1]:39056
+Apr 10 11:47 : client: [8] closed
+Apr 10 12:32 : client: [9] opened from [::1]:43156
+Apr 10 12:32 : client: [9] closed
+Apr 10 12:32 : client: [10] opened from [::1]:43164
+Apr 10 12:32 : client: [10] closed
+Apr 10 12:32 : client: [11] opened from [::1]:43166
+Apr 10 12:32 : client: [11] closed
+Apr 10 12:32 : client: [12] opened from [::1]:43168
+Apr 10 12:32 : exception: Failed to decode http://51.68.212.217:8000
+Apr 10 12:32 : exception: nested: CURL failed: Empty reply from server
+Apr 10 12:32 : player: played "http://51.68.212.217:8000"
+Apr 10 12:34 : client: [12] closed
+Apr 10 12:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 12:37 : config: option 'device' on line 13 was not recognized
+Apr 10 15:33 : client: [0] opened from [::1]:34370
+Apr 10 15:33 : exception: Failed to decode http://51.68.212.217:8000
+Apr 10 15:33 : exception: nested: CURL failed: Empty reply from server
+Apr 10 15:33 : player: played "http://51.68.212.217:8000"
+Apr 10 15:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 15:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 15:34 : client: [0] closed
+Apr 10 16:16 : player: played "http://51.68.212.217:8000"
+Apr 10 16:16 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 10 16:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 16:17 : config: option 'device' on line 13 was not recognized
+Apr 10 16:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 16:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 17:01 : player: played "http://51.68.212.217:8000"
+Apr 10 17:01 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 11 08:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 08:38 : config: option 'device' on line 13 was not recognized
+Apr 11 08:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 08:38 : exception: Failed to decode http://51.68.212.217:8000
+Apr 11 08:38 : exception: nested: CURL failed: Failed to connect to 51.68.212.217 port 8000: No route to host
+Apr 11 08:38 : player: played "http://51.68.212.217:8000"
+Apr 12 08:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 08:59 : config: option 'device' on line 13 was not recognized
+Apr 12 14:14 : client: [0] opened from [::1]:40790
+Apr 12 14:14 : client: [0] closed
+Apr 12 14:14 : client: [1] opened from [::1]:40792
+Apr 12 14:14 : client: [1] closed
+Apr 15 08:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 08:54 : config: option 'device' on line 13 was not recognized
+Apr 15 11:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 11:46 : config: option 'device' on line 13 was not recognized
+Apr 15 12:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 12:43 : config: option 'device' on line 13 was not recognized
+Apr 16 09:22 : client: [0] opened from [::1]:50516
+Apr 16 09:22 : client: [0] closed
+Apr 16 09:22 : client: [1] opened from [::1]:50518
+Apr 16 09:22 : client: [1] closed
+Apr 16 09:22 : client: [2] opened from [::1]:50520
+Apr 16 09:22 : client: [2] closed
+Apr 16 09:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 09:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 10:38 : player: played "http://51.68.212.217:8000"
+Apr 16 10:38 : client: [3] opened from [::1]:51422
+Apr 16 10:38 : client: [3] closed
+Apr 16 11:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 11:00 : config: option 'device' on line 13 was not recognized
+Apr 16 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 11:02 : config: option 'device' on line 13 was not recognized
+Apr 16 12:20 : client: [0] opened from [::1]:52110
+Apr 16 12:20 : client: [0] closed
+Apr 16 12:20 : client: [1] opened from [::1]:52124
+Apr 16 12:20 : client: [1] closed
+Apr 16 12:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 12:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 12:21 : client: [2] opened from [::1]:52134
+Apr 16 12:21 : player: played "http://51.68.212.217:8000"
+Apr 16 12:21 : client: [2] closed
+Apr 16 12:21 : client: [3] opened from [::1]:52136
+Apr 16 12:21 : client: [3] closed
+Apr 16 12:21 : client: [4] opened from [::1]:52138
+Apr 16 12:21 : client: [4] closed
+Apr 16 17:01 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 16 17:01 : player: played "http://51.68.212.217:8000"
+Apr 16 17:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 17:03 : config: option 'device' on line 13 was not recognized
+Apr 16 17:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 17:03 : exception: Failed to decode http://51.68.212.217:8000
+Apr 16 17:03 : exception: nested: CURL failed: Failed to connect to 51.68.212.217 port 8000: No route to host
+Apr 16 17:03 : player: played "http://51.68.212.217:8000"
+Apr 17 09:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 09:00 : config: option 'device' on line 13 was not recognized
+Apr 17 09:37 : client: [0] opened from [::1]:37972
+Apr 17 09:37 : client: [1] opened from [::1]:37974
+Apr 17 09:37 : client: [1] closed
+Apr 17 09:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 09:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 09:37 : client: [0] closed
+Apr 17 09:37 : client: [2] opened from [::1]:37978
+Apr 17 09:37 : player: played "http://51.68.212.217:8000"
+Apr 17 09:37 : client: [2] closed
+Apr 17 09:37 : client: [3] opened from [::1]:37980
+Apr 17 09:37 : client: [3] closed
+Apr 17 09:37 : client: [4] opened from [::1]:37982
+Apr 17 09:37 : client: [4] closed

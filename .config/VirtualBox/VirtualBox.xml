@@ -9,28 +9,29 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,displayClosed,storageClosed,audioClosed,networkClosed,usbClosed,sharedFoldersClosed,descriptionClosed"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=4c1aee02-a02a-411c-8231-852703485b65"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="m=4c1aee02-a02a-411c-8231-852703485b65,m=1695d3f5-3365-4a99-bdb5-61edb791a027"/>
       <ExtraDataItem name="GUI/HideDescriptionForWizards" value="ImportAppliance"/>
       <ExtraDataItem name="GUI/HostNetworkManager/Details/Expanded" value="true"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=ubuntu"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="30,510,922,985"/>
-      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/deanpalmer/Projects/iso"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="0,498,1920,1027"/>
+      <ExtraDataItem name="GUI/RecentFolderCD" value="/home/deanpalmer/Projects/Downloads"/>
       <ExtraDataItem name="GUI/RecentFolderHD" value="/home/deanpalmer/vms"/>
-      <ExtraDataItem name="GUI/RecentListCD" value="/home/deanpalmer/Projects/iso/ubuntu-18.04.2-desktop-amd64.iso,/home/deanpalmer/Projects/Downloads/ubuntu-18.04.2-desktop-amd64.iso,/home/deanpalmer/Projects/iso/archlinux-2019.02.01-x86_64.iso,/home/deanpalmer/Projects/Share/IT/Software/OS Disks/Windows 10 Pro (64bit) OEM/Windows10.iso,/home/deanpalmer/Projects/Work/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO"/>
+      <ExtraDataItem name="GUI/RecentListCD" value="/home/deanpalmer/Projects/Downloads/VBoxGuestAdditions_6.0.4.iso,/home/deanpalmer/Projects/iso/Win10_1809Oct_v2_English_x64.iso,/home/deanpalmer/Projects/iso/ubuntu-18.04.2-desktop-amd64.iso,/home/deanpalmer/Projects/Downloads/ubuntu-18.04.2-desktop-amd64.iso,/home/deanpalmer/Projects/iso/archlinux-2019.02.01-x86_64.iso"/>
       <ExtraDataItem name="GUI/RecentListHD" value="/home/deanpalmer/vms/f697712168.vmdk,/home/deanpalmer/vms/f697138336.vmdk,/home/deanpalmer/vms/f366857600.vmdk,/home/deanpalmer/vms/f464450880.vmdk,/home/deanpalmer/vms/f319561760.vmdk"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="308,613"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="642,1277"/>
       <ExtraDataItem name="GUI/Statusbar" value="false"/>
-      <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture"/>
+      <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,remindAboutAutoCapture"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="None"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="15"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-04-02, stable, 6.0.4"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="17"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2019-04-17, stable, 6.0.4"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPAddress" value="192.168.3.99"/>
       <ExtraDataItem name="HostOnly/vboxnet0/IPNetMask" value="255.255.255.0"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{4c1aee02-a02a-411c-8231-852703485b65}" src="/home/dean/VirtualBox VMs/ubuntu/ubuntu.vbox"/>
+      <MachineEntry uuid="{1695d3f5-3365-4a99-bdb5-61edb791a027}" src="/home/dean/VirtualBox VMs/remote/remote.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>

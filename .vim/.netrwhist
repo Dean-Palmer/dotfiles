@@ -1,2 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/deanpalmer/Projects/.scripts/misc'
+let g:netrw_dirhist_2='/home/deanpalmer/Projects/.scripts'
+let g:netrw_dirhist_3='/home/deanpalmer/Projects/.scripts/misc'
+let g:netrw_dirhist_4='/home/deanpalmer/.mail'
+let g:netrw_dirhist_5='/home/deanpalmer/.w3m'
+let g:netrw_dirhist_6='/home/deanpalmer/.vim'
+let g:netrw_dirhist_7='/dev/disk/by-uuid'

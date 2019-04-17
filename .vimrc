@@ -22,6 +22,10 @@ set tw=10000
 hi clear SpellBad 
 set spell
 highlight SpellBad cterm=underline
+
+"tell vim to store .viminfo* files not in my home dir
+set viminfo+=n~/.vim/viminfo/viminfo
+
 "sets lightline's theme
 let g:lightline = {
 	\ 'colorscheme': 'jellybeans',
@@ -48,7 +52,7 @@ Plug 'inkarkat/vim-SyntaxRange'
 Plug 'mboughaba/i3config.vim'
 call plug#end()
 
-" gpg
+" gpg 
 " Transparent editing of gpg encrypted files.
 augroup encrypted
 au!
