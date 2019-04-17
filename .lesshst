@@ -1,6 +1,5 @@
 .less-history-file:
 .search
-"Reset
 "reset
 "
 "-d
@@ -100,3 +99,4 @@
 "example
 ".gg
 "version
+"remove
