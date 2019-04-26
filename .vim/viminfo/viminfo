@@ -20,14 +20,14 @@
 $
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1556287008,,"q"
+:w
+|2,0,1556287008,,"w"
 :wq
 |2,0,1556286970,,"wq"
 :q!
 |2,0,1556286957,,"q!"
-:q
-|2,0,1556286955,,"q"
-:w
-|2,0,1556286892,,"w"
 :wq todo-spafix-network
 |2,0,1556109406,,"wq todo-spafix-network"
 :Wq
@@ -53,7 +53,7 @@ $
 
 # Search String History (newest to oldest):
 ?/vim
-|2,1,1556286901,47,"vim"
+|2,1,1556287005,47,"vim"
 ?/sh
 |2,1,1556286762,47,"sh"
 ?/config
@@ -126,32 +126,32 @@ $
 	
 |3,0,0,1,1,0,1556109415,""
 ""1	LINE	0
-	        "$pkgname.sh"
-|3,1,1,1,1,0,1556286774,"        \"$pkgname.sh\""
+	
+|3,1,1,1,1,0,1556287007,""
 "2	LINE	0
-	.config/VirtualBox
-|3,0,2,1,1,0,1556286210,".config/VirtualBox"
+	.vim/plugged/vim-SyntaxRange
+|3,0,2,1,1,0,1556287004,".vim/plugged/vim-SyntaxRange"
 "3	LINE	0
-	192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw==
-|3,0,3,1,1,0,1556285554,"192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw=="
+	        "$pkgname.sh"
+|3,0,3,1,1,0,1556286774,"        \"$pkgname.sh\""
 "4	LINE	0
-	
-|3,0,4,1,1,0,1556108625,""
+	.config/VirtualBox
+|3,0,4,1,1,0,1556286210,".config/VirtualBox"
 "5	LINE	0
-	
-|3,0,5,1,1,0,1556108621,""
+	192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw==
+|3,0,5,1,1,0,1556285554,"192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw=="
 "6	LINE	0
 	
-|3,0,6,1,1,0,1556108621,""
+|3,0,6,1,1,0,1556108625,""
 "7	LINE	0
-	11111111,1111111,11111111,11111100
-|3,0,7,1,1,0,1556108230,"11111111,1111111,11111111,11111100"
-"8	LINE	0
-	192.168.3.20 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFm4qKuUjCEUetnKwJGudefR3GMXMFLBcftGNEu7N1S/+Lh50wNzHHKrmLc70urf9q5BwcEosnOtbI1W862ZgdM=
-|3,0,8,1,1,0,1556028815,"192.168.3.20 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFm4qKuUjCEUetnKwJGudefR3GMXMFLBcftGNEu7N1S/+Lh50wNzHHKrmLc70urf9q5BwcEosnOtbI1W862ZgdM="
-"9	LINE	0
 	
-|3,0,9,1,1,0,1555594966,""
+|3,0,7,1,1,0,1556108621,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1556108621,""
+"9	LINE	0
+	11111111,1111111,11111111,11111100
+|3,0,9,1,1,0,1556108230,"11111111,1111111,11111111,11111100"
 "m	CHAR	0
 	0i#j
 |3,0,22,0,1,0,1555593936,"0i#j"
@@ -160,32 +160,42 @@ $
 |3,0,36,0,1,0,1556286199,"/"
 
 # File marks:
-'0  2  11  ~/.gitignore
-|4,48,2,11,1556286970,"~/.gitignore"
-'1  4  0  ~/.gitignore
-|4,49,4,0,1556286957,"~/.gitignore"
-'2  3  0  ~/.gitignore
-|4,50,3,0,1556286957,"~/.gitignore"
-'3  10  0  ~/.gitignore
-|4,51,10,0,1556286945,"~/.gitignore"
-'4  9  0  ~/.gitignore
-|4,52,9,0,1556286945,"~/.gitignore"
-'5  9  0  ~/.gitignore
-|4,53,9,0,1556286945,"~/.gitignore"
-'6  8  0  ~/.gitignore
-|4,54,8,0,1556286945,"~/.gitignore"
-'7  31  12  ~/.gitignore
-|4,55,31,12,1556286909,"~/.gitignore"
-'8  31  12  ~/.gitignore
-|4,56,31,12,1556286909,"~/.gitignore"
-'9  30  12  ~/.gitignore
-|4,57,30,12,1556286909,"~/.gitignore"
+'0  31  0  ~/.gitignore
+|4,48,31,0,1556287008,"~/.gitignore"
+'1  2  11  ~/.gitignore
+|4,49,2,11,1556286970,"~/.gitignore"
+'2  2  11  ~/.gitignore
+|4,50,2,11,1556286970,"~/.gitignore"
+'3  4  0  ~/.gitignore
+|4,51,4,0,1556286957,"~/.gitignore"
+'4  3  0  ~/.gitignore
+|4,52,3,0,1556286957,"~/.gitignore"
+'5  4  0  ~/.gitignore
+|4,53,4,0,1556286957,"~/.gitignore"
+'6  3  0  ~/.gitignore
+|4,54,3,0,1556286957,"~/.gitignore"
+'7  10  0  ~/.gitignore
+|4,55,10,0,1556286945,"~/.gitignore"
+'8  9  0  ~/.gitignore
+|4,56,9,0,1556286945,"~/.gitignore"
+'9  9  0  ~/.gitignore
+|4,57,9,0,1556286945,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  31  0  ~/.gitignore
+|4,39,31,0,1556287008,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1556287005,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556287001,"~/.gitignore"
+-'  2  11  ~/.gitignore
+|4,39,2,11,1556286970,"~/.gitignore"
 -'  2  11  ~/.gitignore
 |4,39,2,11,1556286970,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1556286959,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1556286957,"~/.gitignore"
 -'  4  0  ~/.gitignore
 |4,39,4,0,1556286957,"~/.gitignore"
 -'  3  0  ~/.gitignore
@@ -196,12 +206,24 @@ $
 |4,39,10,0,1556286945,"~/.gitignore"
 -'  9  0  ~/.gitignore
 |4,39,9,0,1556286945,"~/.gitignore"
+-'  8  0  ~/.gitignore
+|4,39,8,0,1556286945,"~/.gitignore"
+-'  10  0  ~/.gitignore
+|4,39,10,0,1556286945,"~/.gitignore"
+-'  9  0  ~/.gitignore
+|4,39,9,0,1556286945,"~/.gitignore"
 -'  9  0  ~/.gitignore
 |4,39,9,0,1556286945,"~/.gitignore"
 -'  8  0  ~/.gitignore
 |4,39,8,0,1556286945,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1556286943,"~/.gitignore"
+-'  32  12  ~/.gitignore
+|4,39,32,12,1556286909,"~/.gitignore"
+-'  30  12  ~/.gitignore
+|4,39,30,12,1556286909,"~/.gitignore"
+-'  29  12  ~/.gitignore
+|4,39,29,12,1556286909,"~/.gitignore"
 -'  31  12  ~/.gitignore
 |4,39,31,12,1556286909,"~/.gitignore"
 -'  30  12  ~/.gitignore
@@ -214,6 +236,8 @@ $
 |4,39,29,12,1556286909,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1556286901,"~/.gitignore"
+-'  5  23  ~/.gitignore
+|4,39,5,23,1556286892,"~/.gitignore"
 -'  5  23  ~/.gitignore
 |4,39,5,23,1556286892,"~/.gitignore"
 -'  4  23  ~/.gitignore
@@ -290,115 +314,92 @@ $
 |4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
 -'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
 |4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
 -'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
 |4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
 -'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
 |4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
--'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1556286970	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	55	0
-	+	57	3
+	*	1556287008	0
+	"	31	0
+	.	31	0
+	+	56	0
+	+	58	3
 	+	9	7
 	+	7	0
 	+	10	0
 	+	5	23
-	+	31	12
+	+	32	12
 	+	4	10
 	+	2	11
+	+	3	0
+	+	31	0
 
 > ~/Projects/aur/brave-bin/PKGBUILD
 	*	1556286775	0
