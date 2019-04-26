@@ -1,11 +1,5 @@
 .less-history-file:
 .search
-"reset
-"
-"-d
-"-d 
-"sun
-"s:q
 "--
 "--list-se
 "--list-keys
@@ -100,3 +94,9 @@
 ".gg
 "version
 "remove
+"timer
+"-b
+"set-up
+"-t
+"port
+"url

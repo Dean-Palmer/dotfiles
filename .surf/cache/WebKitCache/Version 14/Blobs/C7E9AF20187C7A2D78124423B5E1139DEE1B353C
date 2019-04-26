@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hello - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hello","wgTitle":"Hello","wgCurRevisionId":887537272,"wgRevisionId":887537272,"wgArticleId":6710844,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia indefinitely semi-protected pages","Greeting words and phrases","English words"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hello","wgRelevantArticleId":6710844,"wgRequestId":"XMCIdQpAIDEAAJttU@kAAADC","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsReferencePreviews":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q12068060","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hello"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hello"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?lang=qqx&amp;modules=html5shiv&amp;only=scripts&amp;skin=fallback&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hello rootpage-Hello skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hello</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Hiya" redirects here. For other uses, see <a href="/wiki/Hiya_(disambiguation)" class="mw-disambig" title="Hiya (disambiguation)">Hiya (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Hello!" redirects here. For the British magazine, see <a href="/wiki/Hello!_(magazine)" title="Hello! (magazine)">Hello! (magazine)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Hello_(disambiguation)" class="mw-disambig" title="Hello (disambiguation)">Hello (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p><p><i><b>Hello</b></i> is a <a href="/wiki/Salutation" title="Salutation">salutation</a> or <a href="/wiki/Greeting_habits" class="mw-redirect" title="Greeting habits">greeting</a> in the <a href="/wiki/English_language" title="English language">English language</a>. It is first attested in writing from 1826.<sup id="cite_ref-oed-hello_1-0" class="reference"><a href="#cite_note-oed-hello-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_uses"><span class="tocnumber">1</span> <span class="toctext">Early uses</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Telephone"><span class="tocnumber">2.1</span> <span class="toctext">Telephone</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hullo"><span class="tocnumber">2.2</span> <span class="toctext">Hullo</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hallo_and_hollo"><span class="tocnumber">2.3</span> <span class="toctext">Hallo and hollo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#&quot;Hello,_World&quot;_computer_program"><span class="tocnumber">3</span> <span class="toctext">"Hello, World" computer program</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_uses">Early uses</span></h2>
+<p><i>Hello</i>, with that spelling, was used in publications in the US as early as the 18 October 1826 edition of the <i><a href="/wiki/Norwich_Courier" class="mw-redirect" title="Norwich Courier">Norwich Courier</a></i> of <a href="/wiki/Norwich,_Connecticut" title="Norwich, Connecticut">Norwich, Connecticut</a>.<sup id="cite_ref-oed-hello_1-1" class="reference"><a href="#cite_note-oed-hello-1">&#91;1&#93;</a></sup> Another early use was an 1833 American book called <i>The Sketches and Eccentricities of Col. David Crockett, of West Tennessee</i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> which was reprinted that same year in <i><a href="/wiki/Literary_Gazette" class="mw-redirect" title="Literary Gazette">The London Literary Gazette</a></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The word was extensively used in literature by the 1860s.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>According to the <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>, <i>hello</i> is an alteration of <i>hallo</i>, <i>hollo</i>,<sup id="cite_ref-oed-hello_1-2" class="reference"><a href="#cite_note-oed-hello-1">&#91;1&#93;</a></sup> which came from <a href="/wiki/Old_High_German" title="Old High German">Old High German</a> "<i>halâ</i>, <i>holâ</i>, emphatic imperative of <i>halôn</i>, <i>holôn</i> to fetch, used especially in hailing a ferryman."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It also connects the development of <i>hello</i> to the influence of an earlier form, <i>holla</i>, whose origin is in the French <i>holà</i> (roughly, 'whoa there!', from French <i>là</i> 'there').<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> As in addition to <i>hello</i>, <i>halloo</i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> <i>hallo</i>, <i>hollo</i>, <i>hullo</i> and (rarely) <i>hillo</i> also exist as variants or related words, the word can be spelt using any of all five vowels.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Telephone">Telephone</span></h3>
+<p>The use of <i>hello</i> as a <a href="/wiki/Telephone" title="Telephone">telephone</a> greeting has been credited to <a href="/wiki/Thomas_Edison" title="Thomas Edison">Thomas Edison</a>; according to one source, he expressed his surprise with a misheard <i>Hullo</i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> <a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a> initially used <i><a href="/wiki/Ahoy_(greeting)" title="Ahoy (greeting)">Ahoy</a></i> (as used on ships) as a telephone greeting.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-etymology_13-0" class="reference"><a href="#cite_note-etymology-13">&#91;13&#93;</a></sup> However, in 1877, Edison wrote to T. B. A. David, president of the Central District and Printing Telegraph Company of <a href="/wiki/Pittsburgh,_Pennsylvania" class="mw-redirect" title="Pittsburgh, Pennsylvania">Pittsburgh</a>:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>Friend David, I do not think we shall need a call bell as Hello! can be heard 10 to 20 feet away.
+</p><p>What you think? Edison - P.S. first cost of sender &amp; receiver to manufacture is only $7.00.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+</blockquote>
+<p>By 1889, central telephone exchange operators were known as 'hello-girls' because of the association between the greeting and the telephone.<sup id="cite_ref-etymology_13-1" class="reference"><a href="#cite_note-etymology-13">&#91;13&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hullo">Hullo</span></h3>
+<p><i>Hello</i> might be derived from <i>hullo</i>, which the American <a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a> dictionary describes as a "chiefly British variant of hello,"<sup id="cite_ref-MW_16-0" class="reference"><a href="#cite_note-MW-16">&#91;16&#93;</a></sup> and which was originally used as an exclamation to call attention, an expression of surprise, or a greeting. <i>Hullo</i> is found in publications as early as 1803.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The word <i>hullo</i> is still in use, with the meaning <i>hello</i>.<sup id="cite_ref-hullo_18-0" class="reference"><a href="#cite_note-hullo-18">&#91;18&#93;</a></sup><sup id="cite_ref-hullo1_19-0" class="reference"><a href="#cite_note-hullo1-19">&#91;19&#93;</a></sup><sup id="cite_ref-hullo2_20-0" class="reference"><a href="#cite_note-hullo2-20">&#91;20&#93;</a></sup><sup id="cite_ref-hullo3_21-0" class="reference"><a href="#cite_note-hullo3-21">&#91;21&#93;</a></sup><sup id="cite_ref-hullo4_22-0" class="reference"><a href="#cite_note-hullo4-22">&#91;22&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hallo_and_hollo">Hallo and hollo</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">"Hallo" redirects here. For other uses, see <a href="/wiki/Hallo_(disambiguation)" class="mw-disambig" title="Hallo (disambiguation)">Hallo (disambiguation)</a>.</div>
+<p><i>Hello</i> is alternatively thought to come from the word <i>hallo</i> (1840) via <i>hollo</i> (also <i>holla</i>, <i>holloa</i>, <i>halloo</i>, <i>halloa</i>).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The definition of <i>hollo</i> is to shout or an exclamation originally shouted in a <a href="/wiki/Fox_hunt" class="mw-redirect" title="Fox hunt">hunt</a> when the quarry was spotted:<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>  
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>If I fly, Marcius,/Halloo me like a hare.</p><div class="templatequotecite">—&#8201;<cite><i><a href="/wiki/Coriolanus_(play)" class="mw-redirect" title="Coriolanus (play)">Coriolanus</a></i> (I.viii.7), <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a></cite></div>
+</blockquote>
+<p><a href="/wiki/Fowler%27s" class="mw-redirect" title="Fowler&#39;s">Fowler's</a> has it that "hallo" is first recorded "as a shout to call attention" in 1864.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+It is used by <a href="/wiki/Samuel_Taylor_Coleridge" title="Samuel Taylor Coleridge">Samuel Taylor Coleridge</a>'s famous poem <i><a href="/wiki/The_Rime_of_the_Ancient_Mariner" title="The Rime of the Ancient Mariner">The Rime of the Ancient Mariner</a></i> written in 1798:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>And the good south wind still blew behind,<br />
+</p><p>But no sweet bird did follow,<br /> 
+Nor any day for food or play <br />
+Came to the mariners' hollo!
+</p>
+</blockquote>
+<p>In many <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic languages</a>, including <a href="/wiki/German_language" title="German language">German</a>, <a href="/wiki/Danish_language" title="Danish language">Danish</a>, <a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> and <a href="/wiki/Afrikaans_language" class="mw-redirect" title="Afrikaans language">Afrikaans</a>, "<i>hallo</i>" literally translates into English as "hello". In the case of Dutch, it was used as early as 1797 in a letter from <a href="/wiki/Willem_Bilderdijk" title="Willem Bilderdijk">Willem Bilderdijk</a> to his sister-in-law as a remark of astonishment.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> 
+</p><p><a href="/wiki/Webster%27s_dictionary" class="mw-redirect" title="Webster&#39;s dictionary">Webster's dictionary</a> from 1913 traces the etymology of <i>holloa</i> to the Old English <i>halow</i> and suggests: "Perhaps from ah + lo; compare Anglo Saxon ealā."
+</p><p>According to the <i><a href="/wiki/American_Heritage_Dictionary" class="mw-redirect" title="American Heritage Dictionary">American Heritage Dictionary</a></i>, <i>hallo</i> is a modification of the obsolete <i>holla</i> (<i>stop!</i>), perhaps from Old French <i>hola</i> (<i>ho</i>, ho! + <i>la</i>, there, from Latin <i>illac</i>, that way).<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>The Old English verb, hǽlan (1. wv/t1b 1 to heal, cure, save; greet, salute; gehǽl! Hosanna!), may be the ultimate origin of the word.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> Hǽlan is likely a cognate of German Heil (meaning <i>complete</i> for things and <i>healthy</i> for beings) and other similar words of Germanic origin.  <a href="/wiki/Bill_Bryson" title="Bill Bryson">Bill Bryson</a> asserts in his book <i>Mother Tongue</i> that "hello" comes from Old English <i>hál béo þu</i> ("Hale be thou", or "whole be thou", meaning a wish for good health) (see also "goodbye" which is a contraction of "God be with you".
+</p>
+<h2><span id=".22Hello.2C_World.22_computer_program"></span><span class="mw-headline" id="&quot;Hello,_World&quot;_computer_program">"Hello, World" computer program</span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/%22Hello,_World!%22_program" title="&quot;Hello, World!&quot; program">"Hello, World!" program</a></div>
+<p>Students learning a new computer programming language will often begin by writing a <a href="/wiki/%22Hello,_World!%22_program" title="&quot;Hello, World!&quot; program">"Hello, World!" program</a>, which does nothing but issue the message "Hello, world" to the user (such as by displaying it on a screen). This popular tradition arose from an introductory chapter of the book <i><a href="/wiki/The_C_Programming_Language" title="The C Programming Language">The C Programming Language</a></i> by Kernighan &amp; Ritchie, which reused the following example taken from earlier memos by Brian Kernighan at Bell Labs:
+</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span> <span class="kt">int</span> <span class="nf">main</span><span class="p">()</span> 
+ <span class="p">{</span>
+        <span class="n">printf</span><span class="p">(</span><span class="s">&quot;hello, world&quot;</span><span class="p">);</span>
+ <span class="p">}</span>
+</pre></div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/Aloha" title="Aloha">Aloha</a></li>
+<li><a href="/wiki/As-salamu_alaykum" title="As-salamu alaykum">As-salamu alaykum</a></li>
+<li><a href="/wiki/Ciao" title="Ciao">Ciao</a></li>
+<li><a href="/wiki/Kia_ora" title="Kia ora">Kia ora</a></li>
+<li><a href="/wiki/Namaste" title="Namaste">Namaste</a></li>
+<li><a href="/wiki/Shalom" title="Shalom">Shalom</a></li>
+<li><a href="/wiki/World_Hello_Day" title="World Hello Day">World Hello Day</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-oed-hello-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-oed-hello_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oed-hello_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-oed-hello_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFReference-OED-hello" class="citation"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/85687">"hello"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=hello&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005-09&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F85687&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>&#160;<span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="http://www.oed.com/public/login/loggingin#withyourlibrary">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">(Anonymous). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=RZsOAAAAYAAJ&amp;pg=PA144&amp;dq=hello&amp;lr=lang_en&amp;as_drrb_is=b&amp;as_minm_is=0&amp;as_miny_is=1400&amp;as_maxm_is=0&amp;as_maxy_is=1838&amp;num=100&amp;as_brr=0&amp;ie=ISO-8859-1&amp;output=html"><i>The Sketches and Eccentricities of Col. David Crockett, of West Tennessee</i>.</a> New York: J. &amp; J. Harper, 1833. p. 144.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=NVsZAAAAMAAJ&amp;pg=RA1-PA803&amp;dq=hello&amp;lr=lang_en&amp;as_drrb_is=b&amp;as_minm_is=0&amp;as_miny_is=1400&amp;as_maxm_is=0&amp;as_maxy_is=1838&amp;num=100&amp;as_brr=0&amp;ie=ISO-8859-1&amp;output=html">"<i>The Sketches and Eccentricities of Col. David Crockett, of West Tennessee</i>."</a> <i> The London Literary Gazette; and Journal of Belles Lettres, Arts, Sciences, &amp;c.</i> No. 883: 21 December 1833. p. 803.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://dictionary.reference.com/browse/hello">[1]</a> Origin of the word.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFReference-OED-hallo" class="citation"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/83588">"hallo"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=hallo&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005-09&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F83588&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>&#160;<span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="http://www.oed.com/public/login/loggingin#withyourlibrary">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFReference-OED-holla" class="citation"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/87735">"holla"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=holla&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005-09&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F87735&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>&#160;<span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="http://www.oed.com/public/login/loggingin#withyourlibrary">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Butler, Mann, <i><a rel="nofollow" class="external text" href="https://archive.org/details/historyofcommonw00butl">A History of the Commonwealth of Kentucky</a></i>, Wilcox, Dickerman &amp; Co., 1834, p. 106.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hollo">Merriam-Webster: Hollo</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hullo">Merriam-Webster: Hullo</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hillo">Merriam-Webster: Hillo</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Allen Koenigsberg. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061116211033/http://www.collectorcafe.com/article_archive.asp?article=800&amp;id=1507">"The First "Hello!": Thomas Edison, the Phonograph and the Telephone – Part 2"</a>. <i>Antique Phonograph Magazine</i>. Vol.&#160;VIII no.&#160;6. Archived from <a rel="nofollow" class="external text" href="http://www.collectorcafe.com/article_archive.asp?article=800&amp;id=1507">the original</a> on 16 November 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Antique+Phonograph+Magazine&amp;rft.atitle=The+First+%22Hello%21%22%3A+Thomas+Edison%2C+the+Phonograph+and+the+Telephone+%E2%80%93+Part+2&amp;rft.volume=VIII&amp;rft.issue=6&amp;rft.au=Allen+Koenigsberg&amp;rft_id=http%3A%2F%2Fwww.collectorcafe.com%2Farticle_archive.asp%3Farticle%3D800%26id%3D1507&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Allen Koenigsberg (1999). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090309094200/http://www2.cs.uh.edu/~klong/papers/hello.txt">"All Things Considered"</a>. National Public Radio. Archived from <a rel="nofollow" class="external text" href="http://www2.cs.uh.edu/~klong/papers/hello.txt">the original</a> on 2009-03-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=All+Things+Considered&amp;rft.pub=National+Public+Radio&amp;rft.date=1999&amp;rft.au=Allen+Koenigsberg&amp;rft_id=http%3A%2F%2Fwww2.cs.uh.edu%2F~klong%2Fpapers%2Fhello.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-etymology-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-etymology_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-etymology_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?search=hello&amp;searchmode=none">"Online Etymology Dictionary"</a>. <i>etymonline.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=etymonline.com&amp;rft.atitle=Online+Etymology+Dictionary&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fsearch%3Dhello%26searchmode%3Dnone&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Allen Koenigsberg. <a rel="nofollow" class="external text" href="http://www.collectorcafe.com/article_archive.asp?article=800&amp;id=1507">"The First "Hello!": Thomas Edison, the Phonograph and the Telephone – Part 2"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+First+%22Hello%21%22%3A+Thomas+Edison%2C+the+Phonograph+and+the+Telephone+%E2%80%93+Part+2&amp;rft.au=Allen+Koenigsberg&amp;rft_id=http%3A%2F%2Fwww.collectorcafe.com%2Farticle_archive.asp%3Farticle%3D800%26id%3D1507&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Grimes, William (5 March 1992). <a rel="nofollow" class="external text" href="https://www.nytimes.com/1992/03/05/garden/great-hello-mystery-is-solved.html">"Great 'Hello' Mystery Is Solved"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Great+%27Hello%27+Mystery+Is+Solved&amp;rft.date=1992-03-05&amp;rft.issn=0362-4331&amp;rft.aulast=Grimes&amp;rft.aufirst=William&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F1992%2F03%2F05%2Fgarden%2Fgreat-hello-mystery-is-solved.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-MW-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-MW_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hullo">"hullo - Definition from the Merriam-Webster Online Dictionary"</a>. Merriam-webster.com. 25 April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=hullo+-+Definition+from+the+Merriam-Webster+Online+Dictionary&amp;rft.pub=Merriam-webster.com&amp;rft.date=2007-04-25&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fhullo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=27sCAAAAYAAJ&amp;pg=PA12&amp;dq=hullo&amp;lr=&amp;as_drrb_is=b&amp;as_minm_is=0&amp;as_miny_is=1760&amp;as_maxm_is=0&amp;as_maxy_is=1804&amp;num=100&amp;as_brr=0&amp;ie=ISO-8859-1&amp;output=html"><i>The Sporting Magazine.</i></a> London (1803). Volume 23, p. 12.</span>
+</li>
+<li id="cite_note-hullo-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-hullo_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forum.downsizer.net/archive/hullo-from-orkney__o_t__t_36387.html">"Hullo From Orkney"</a>. Forum.downsizer.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hullo+From+Orkney&amp;rft.pub=Forum.downsizer.net&amp;rft_id=http%3A%2F%2Fforum.downsizer.net%2Farchive%2Fhullo-from-orkney&#95;_o_t&#95;_t_36387.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-hullo1-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-hullo1_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Piers Beckley (23 April 2008). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/blogs/writersroom/2008/04/hullo_again.shtml">"Writersroom Blog: Hullo again. Did you miss me?"</a>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Writersroom+Blog%3A+Hullo+again.+Did+you+miss+me%3F&amp;rft.pub=BBC&amp;rft.date=2008-04-23&amp;rft.au=Piers+Beckley&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fwritersroom%2F2008%2F04%2Fhullo_again.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-hullo2-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-hullo2_20-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Barton, Laura (23 February 2005). <a rel="nofollow" class="external text" href="https://www.theguardian.com/technology/2005/feb/23/mobilephones.g2">"Paris for a day"</a>. <i>The Guardian</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Paris+for+a+day&amp;rft.date=2005-02-23&amp;rft.aulast=Barton&amp;rft.aufirst=Laura&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2005%2Ffeb%2F23%2Fmobilephones.g2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-hullo3-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-hullo3_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2009/jul/16/ashes-england-australia-live-report">"Ashes: England v Australia - day one as it happened &#124; Andy Bull and Rob Smyth"</a>. <i>The Guardian</i>. London. 16 July 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Ashes%3A+England+v+Australia+-+day+one+as+it+happened+%26%23124%3B+Andy+Bull+and+Rob+Smyth&amp;rft.date=2009-07-16&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2009%2Fjul%2F16%2Fashes-england-australia-live-report&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-hullo4-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-hullo4_22-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/europe/4444713.stm">"Semi-final clash excites fans"</a>. BBC Sport. 14 April 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Semi-final+clash+excites+fans&amp;rft.date=2005-04-14&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Feurope%2F4444713.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.m-w.com/dictionary/hello">"Hello"</a>. Merriam-Webster Online<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hello&amp;rft.pub=Merriam-Webster+Online&amp;rft_id=http%3A%2F%2Fwww.m-w.com%2Fdictionary%2Fhello&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.m-w.com/dictionary/hollo">"Hollo"</a>. Merriam-Webster Online<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hollo&amp;rft.pub=Merriam-Webster+Online&amp;rft_id=http%3A%2F%2Fwww.m-w.com%2Fdictionary%2Fhollo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><i>The New Fowler's</i>, revised third edition by R. W. Burchfield, Oxford University Press.  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-860263-4" title="Special:BookSources/0-19-860263-4">0-19-860263-4</a>, p. 356.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Bilderdijk, Willem  <a rel="nofollow" class="external text" href="http://www.dbnl.org/tekst/bild002lief01_01/bild002lief01_01_0107.php?q=hallo"><i>Liefde en ballingschap. Brieven 1795-1797</i></a> (ed. Marita Mathijsen). Uitgeverij De Arbeiderspers, Amsterdam/Antwerp 1997</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bartelby.com/61/60/H0136000.html">"Hello"</a>. The American Heritage Dictionary of the English Language: Fourth Edition. 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hello&amp;rft.pub=The+American+Heritage+Dictionary+of+the+English+Language%3A+Fourth+Edition.&amp;rft.date=2000&amp;rft_id=http%3A%2F%2Fwww.bartelby.com%2F61%2F60%2FH0136000.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHello" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://home.comcast.net/~modean52/oeme_dictionaries.htm">OEME Dictionaries</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/hello" class="extiw" title="wiktionary:hello">hello</a></b></i>, <i><b><a href="https://en.wiktionary.org/wiki/hi" class="extiw" title="wiktionary:hi">hi</a></b></i>, <i><b><a href="https://en.wiktionary.org/wiki/hey" class="extiw" title="wiktionary:hey">hey</a></b></i>, or <i><b><a href="https://en.wiktionary.org/wiki/hiya" class="extiw" title="wiktionary:hiya">hiya</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://users.elite.net/runner/jennifers/hello1.htm">Hello in more than 800 languages</a></li>
+<li><a rel="nofollow" class="external text" href="http://dictionary.oed.com/cgi/entry/50107205?query_type=word&amp;queryword=hollo&amp;first=1&amp;max_to_show=10&amp;sort_type=alpha&amp;result_place=1&amp;search_id=MJDi-YER2WO-12323&amp;hilite=50107205">OED online entry for <i>hollo</i></a> (Subscription)</li>
+<li><a href="/wiki/Merriam-Webster_Dictionary" class="mw-redirect" title="Merriam-Webster Dictionary">Merriam-Webster Dictionary</a>: <a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hollo">hollo</a>, <a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/hullo">hullo</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20190423151922
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.372 seconds
+Real time usage: 0.491 seconds
+Preprocessor visited node count: 1700/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36663/2097152 bytes
+Template argument size: 2253/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58315/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.185/10.000 seconds
+Lua memory usage: 4.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  430.918      1 -total
+ 63.81%  274.974      1 Template:Reflist
+ 26.63%  114.747      3 Template:Cite_OED
+ 24.12%  103.940      3 Template:Citation
+  9.94%   42.829      4 Template:Cite_news
+  8.85%   38.143      1 Template:Pp-semi
+  8.78%   37.815      1 Template:ISBN
+  8.68%   37.415      9 Template:Cite_web
+  8.51%   36.666      3 Template:Redirect
+  8.48%   36.522      3 Template:Quote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6710844-0!canonical and timestamp 20190423151921 and revision id 887537272
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hello&amp;oldid=887537272">https://en.wikipedia.org/w/index.php?title=Hello&amp;oldid=887537272</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Greeting_words_and_phrases" title="Category:Greeting words and phrases">Greeting words and phrases</a></li><li><a href="/wiki/Category:English_words" title="Category:English words">English words</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hello" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hello" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hello" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hello" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hello">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Hello&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hello&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hello" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hello" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hello&amp;oldid=887537272" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hello&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12068060" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hello&amp;id=887537272" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hello">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hello&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hello&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hello" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D9%88" title="آلو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hallo" title="Hallo – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hallo" title="Hallo – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hola_(saludo)" title="Hola (saludo) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D9%88" title="الو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/Hello" title="Hello – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%95" title="הלו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hall%C3%B3" title="Halló – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%87%D8%A7%D9%84%D9%88" title="هالو – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hello" title="Hello – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hallo" title="Hallo – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hello" title="Hello – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/Allo" title="Allo – Turkmen" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%93%88%E4%BD%AC" title="哈佬 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Hello" title="Hello – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12068060#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 March 2019, at 07:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hello&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.491","ppvisitednodes":{"value":1700,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36663,"limit":2097152},"templateargumentsize":{"value":2253,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58315,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  430.918      1 -total"," 63.81%  274.974      1 Template:Reflist"," 26.63%  114.747      3 Template:Cite_OED"," 24.12%  103.940      3 Template:Citation","  9.94%   42.829      4 Template:Cite_news","  8.85%   38.143      1 Template:Pp-semi","  8.78%   37.815      1 Template:ISBN","  8.68%   37.415      9 Template:Cite_web","  8.51%   36.666      3 Template:Redirect","  8.48%   36.522      3 Template:Quote"]},"scribunto":{"limitreport-timeusage":{"value":"0.185","limit":"10.000"},"limitreport-memusage":{"value":4872499,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20190423151922","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

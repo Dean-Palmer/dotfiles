@@ -10,20 +10,110 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/vim
+
+# Last Substitute Search Pattern:
+~MSle0&jupiter
+
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1555493967,,"q"
 :wq
-|2,0,1555493966,,"wq"
+|2,0,1556286909,,"wq"
+:q
+|2,0,1556286892,,"q"
+:w
+|2,0,1556286892,,"w"
+:q!
+|2,0,1556286777,,"q!"
+:wq todo-spafix-network
+|2,0,1556109406,,"wq todo-spafix-network"
+:Wq
+|2,0,1555598210,,"Wq"
+:q:
+|2,0,1555594944,,"q:"
+:bp
+|2,0,1555594936,,"bp"
+:e loops.sh
+|2,0,1555594907,,"e loops.sh"
+:qw
+|2,0,1555576068,,"qw"
+:w xerox\ number
+|2,0,1555514034,,"w xerox\\ number"
+:e xerox\ number
+|2,0,1555514026,,"e xerox\\ number"
+:% s/jupiter/Jupiter/g
+|2,0,1555496654,,"% s/jupiter/Jupiter/g"
+:% s/vm/VM/g
+|2,0,1555495875,,"% s/vm/VM/g"
 :PlugUpdate
 |2,0,1555493959,,"PlugUpdate"
 
 # Search String History (newest to oldest):
+?/vim
+|2,1,1556286901,47,"vim"
+?/sh
+|2,1,1556286762,47,"sh"
+?/config
+|2,1,1556286312,47,"config"
+?/virt
+|2,1,1556286188,47,"virt"
+?/rtr
+|2,1,1556285588,47,"rtr"
+?/4\.2
+|2,1,1556285553,47,"4\\.2"
+?/4.1
+|2,1,1556285547,47,"4.1"
+?/mpc
+|2,1,1556206614,47,"mpc"
+?/stat
+|2,1,1556206607,47,"stat"
+?/bindsym
+|2,1,1556206596,47,"bindsym"
+?/17
+|2,1,1556206030,47,"17"
+?/snp
+|2,1,1556206028,47,"snp"
+?/jpg
+|2,1,1556179894,47,"jpg"
+?/mpv
+|2,1,1556110044,47,"mpv"
 ? @$
-|2,1,1555493932,,"@$"
+|2,1,1556109415,,"@$"
+?/192.168.3.20
+|2,1,1556028814,47,"192.168.3.20"
+?/20
+|2,1,1556028810,47,"20"
+?/work
+|2,1,1556019425,47,"work"
+?/snipe
+|2,1,1555597955,47,"snipe"
+?/vpn
+|2,1,1555575157,47,"vpn"
+?/leda
+|2,1,1555514648,47,"leda"
+?/\.28
+|2,1,1555515050,47,"\\.28"
+?/tray
+|2,1,1555513136,47,"tray"
+?/trayu
+|2,1,1555513134,47,"trayu"
+?/hubb
+|2,1,1555507341,47,"hubb"
+?/mkdir
+|2,1,1555498111,47,"mkdir"
+? jupiter
+|2,1,1555496654,,"jupiter"
+?/desktop
+|2,1,1555496638,47,"desktop"
+? \<loac\>
+|2,1,1555495886,,"\\<loac\\>"
+? vm
+|2,1,1555495875,,"vm"
+?/mv
+|2,1,1555496373,47,"mv"
 
 # Expression History (newest to oldest):
 
@@ -32,313 +122,694 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	
-	
-	ı	
-	
-	©	
-	
-	®	
-	
-	è	
-	
-	‘
-	
-	à
-	
-	á
-	
-	Å
-	
-	i
-	
-	@
-	
-	?
-	
-	)
-	
-	˚
-	
-	˙
-	
-	Œ
-	
-	ï
-	
-	î
-	
-	h
-	
-	,
-	
-	+
-	
-	"
-	
-	g
-	
-	M
-	
-	L
-	
-|3,1,0,1,50,0,1555493932,"","","ı	","","©	","","®	","","è	","","‘","","à","","á","","Å","","i","","@","","?","",")","","˚","","˙","","Œ","","ï","","î","","h","",",","","+","","\"","","g","","M","","L",""
-"1	LINE	0
-	4682
-<nnı	nn©	nn®	nnè	nn‘nnànnánnÅnninn@nn?nn)nn˚nn˙nnŒnnïnnînnhnn,nn+nn"nngnnMnnLnnDnnˆnnınn|nn{nn“nn—nnnnnn©nn®nnÌnnÏnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2.8.5                                                                                   2019-01-05                                                                                  MAN(1)nn       31st March 2001 - present day: Colin Watson <cjwatson@debian.org> is now developing and maintaining man-db.nn       30th October 1996 - 30th March 2001: Fabrizio Polacco <fpolacco@debian.org> maintained and enhanced this package for the Debian project, with the help of all the community.nn       30th April 1994 - 23rd February 2000: Wilf. (G.Wilford@ee.surrey.ac.uk) has been developing and maintaining this package with the help of a few dedicated people.nn       Dec 23 1992: Rik Faith (faith@cs.unc.edu) applied bug fixes supplied by Willem Kasdorp (wkasdo@nikhefk.nikef.nl).nn       1990, 1991 - Originally written by John W. Eaton (jwe@che.utexas.edu).nHISTORYnn       age manual, FSSTNDn       apropos(1), groff(1), less(1), manpath(1), nroff(1), troff(1), whatis(1), zsoelim(1), setlocale(3), manpath(5), ascii(7), latin1(7), man(7), catman(8), mandb(8), the man-db  pack-nSEE ALSOnn              An FHS compliant global index database cache.n       /var/cache/man/index.(bt|db|dir|pag)nn              A traditional global index database cache.n       /usr/share/man/index.(bt|db|dir|pag)nn              A global manual page hierarchy.n       /usr/share/mannn              man-db configuration file.n       /etc/man_db.confnFILESnn              locale (if available).  See setlocale(3) for precise details.n              Depending on system and implementation, either or both of $LANG and $LC_MESSAGES will be interrogated for the current message locale.  man will display its messages in thatn       LANG, LC_MESSAGESnn              any non-empty value, error output will be displayed as usual.n              ment, which are unsightly and generally confusing when displayed along with the manual page.  However, some users want to see them anyway, so, if $MAN_KEEP_STDERR is set ton              carded to avoid interfering with the pager's display.  Programs such as groff often produce relatively minor error messages about typographical problems such as poor align-n              Normally, when output is being directed to a terminal (usually to a pager), any error output from the command used to produce formatted versions of  manual  pages  is  dis-n       MAN_KEEP_STDERRnn              can interpret formatting characters.n              special  tools.   However, if $MAN_KEEP_FORMATTING is set to any non-empty value, these formatting characters are retained.  This may be useful for wrappers around man thatn              Normally, when output is not being directed to a terminal (such as to a file or a pipe), formatting characters are discarded to make it easier to read  the  result  withoutn       MAN_KEEP_FORMATTINGnn              be saved when the default formatting can be used, that is when the terminal line length is between 66 and 80 characters.n              appropriate  to the current terminal (using the value of $COLUMNS, an ioctl(2) if available, or falling back to 80 characters if neither is available).  Cat pages will onlyn              If $MANWIDTH is set, its value is used as the line length for which manual pages should be formatted.  If it is not set, manual pages will be formatted with a  line  lengthn
-|3,0,1,1,1,0,1555493888,>4682
-|<"\n\nı	\n\n©	\n\n®	\n\nè	\n\n‘\n\nà\n\ná\n\nÅ\n\ni\n\n@\n\n?\n\n)\n\n˚\n\n˙\n\nŒ\n\nï\n\nî\n\nh\n\n,\n\n+\n\n\"\n\ng\n\nM\n\nL\n\nD\n\nˆ\n\nı\n\n|\n\n{\n\n“\n\n—\n\n\n\n\n\n©\n\n®\n\nÌ\n\nÏ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-|<\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-|<\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.8.5                                                                                   2019-01-05                                                                                  MAN(1)
-|<\n\n       31st March 2001 - present day: Colin Watson <cjwatson@debian.org> is now developing and maintaining man-db.\n\n       30th October 1996 - 30th March 2001: Fabrizio Polacco <fpolacco@debian.org> maintained and enhanced this package for the Debian project, with the help of all the community.\n\n       30th April 1994 - 23rd February 2000: Wilf. (G.Wilford@ee.surrey.ac.uk) has been developing and maintaining this package with the help of a few dedicated people.\n\n       Dec 23
-|< 1992: Rik Faith (faith@cs.unc.edu) applied bug fixes supplied by Willem Kasdorp (wkasdo@nikhefk.nikef.nl).\n\n       1990, 1991 - Originally written by John W. Eaton (jwe@che.utexas.edu).\nHISTORY\n\n       age manual, FSSTND\n       apropos(1), groff(1), less(1), manpath(1), nroff(1), troff(1), whatis(1), zsoelim(1), setlocale(3), manpath(5), ascii(7), latin1(7), man(7), catman(8), mandb(8), the man-db  pack-\nSEE ALSO\n\n              An FHS compliant global index database cache.\n 
-|<      /var/cache/man/index.(bt|db|dir|pag)\n\n              A traditional global index database cache.\n       /usr/share/man/index.(bt|db|dir|pag)\n\n              A global manual page hierarchy.\n       /usr/share/man\n\n              man-db configuration file.\n       /etc/man_db.conf\nFILES\n\n              locale (if available).  See setlocale(3) for precise details.\n              Depending on system and implementation, either or both of $LANG and $LC_MESSAGES will be interrogate
-|<d for the current message locale.  man will display its messages in that\n       LANG, LC_MESSAGES\n\n              any non-empty value, error output will be displayed as usual.\n              ment, which are unsightly and generally confusing when displayed along with the manual page.  However, some users want to see them anyway, so, if $MAN_KEEP_STDERR is set to\n              carded to avoid interfering with the pager's display.  Programs such as groff often produce relatively minor 
-|<error messages about typographical problems such as poor align-\n              Normally, when output is being directed to a terminal (usually to a pager), any error output from the command used to produce formatted versions of  manual  pages  is  dis-\n       MAN_KEEP_STDERR\n\n              can interpret formatting characters.\n              special  tools.   However, if $MAN_KEEP_FORMATTING is set to any non-empty value, these formatting characters are retained.  This may be useful f
-|<or wrappers around man that\n              Normally, when output is not being directed to a terminal (such as to a file or a pipe), formatting characters are discarded to make it easier to read  the  result  without\n       MAN_KEEP_FORMATTING\n\n              be saved when the default formatting can be used, that is when the terminal line length is between 66 and 80 characters.\n              appropriate  to the current terminal (using the value of $COLUMNS, an ioctl(2) if available, 
-|<or falling back to 80 characters if neither is available).  Cat pages will only\n              If $MANWIDTH is set, its value is used as the line length for which manual pages should be formatted.  If it is not set, manual pages will be formatted with a  line  length\n"
+|3,0,0,1,1,0,1556109415,""
+""1	LINE	0
+	        "$pkgname.sh"
+|3,1,1,1,1,0,1556286774,"        \"$pkgname.sh\""
 "2	LINE	0
-	4682
-<nnı	nn©	nn®	nnè	nn‘nnànnánnÅnninn@nn?nn)nn˚nn˙nnŒnnïnnînnhnn,nn+nn"nngnnMnnLnnDnnˆnnınn|nn{nn“nn—nnnnnn©nn®nnÌnnÏnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2.8.5                                                                                   2019-01-05                                                                                  MAN(1)nn       31st March 2001 - present day: Colin Watson <cjwatson@debian.org> is now developing and maintaining man-db.nn       30th October 1996 - 30th March 2001: Fabrizio Polacco <fpolacco@debian.org> maintained and enhanced this package for the Debian project, with the help of all the community.nn       30th April 1994 - 23rd February 2000: Wilf. (G.Wilford@ee.surrey.ac.uk) has been developing and maintaining this package with the help of a few dedicated people.nn       Dec 23 1992: Rik Faith (faith@cs.unc.edu) applied bug fixes supplied by Willem Kasdorp (wkasdo@nikhefk.nikef.nl).nn       1990, 1991 - Originally written by John W. Eaton (jwe@che.utexas.edu).nHISTORYnn       age manual, FSSTNDn       apropos(1), groff(1), less(1), manpath(1), nroff(1), troff(1), whatis(1), zsoelim(1), setlocale(3), manpath(5), ascii(7), latin1(7), man(7), catman(8), mandb(8), the man-db  pack-nSEE ALSOnn              An FHS compliant global index database cache.n       /var/cache/man/index.(bt|db|dir|pag)nn              A traditional global index database cache.n       /usr/share/man/index.(bt|db|dir|pag)nn              A global manual page hierarchy.n       /usr/share/mannn              man-db configuration file.n       /etc/man_db.confnFILESnn              locale (if available).  See setlocale(3) for precise details.n              Depending on system and implementation, either or both of $LANG and $LC_MESSAGES will be interrogated for the current message locale.  man will display its messages in thatn       LANG, LC_MESSAGESnn              any non-empty value, error output will be displayed as usual.n              ment, which are unsightly and generally confusing when displayed along with the manual page.  However, some users want to see them anyway, so, if $MAN_KEEP_STDERR is set ton              carded to avoid interfering with the pager's display.  Programs such as groff often produce relatively minor error messages about typographical problems such as poor align-n              Normally, when output is being directed to a terminal (usually to a pager), any error output from the command used to produce formatted versions of  manual  pages  is  dis-n       MAN_KEEP_STDERRnn              can interpret formatting characters.n              special  tools.   However, if $MAN_KEEP_FORMATTING is set to any non-empty value, these formatting characters are retained.  This may be useful for wrappers around man thatn              Normally, when output is not being directed to a terminal (such as to a file or a pipe), formatting characters are discarded to make it easier to read  the  result  withoutn       MAN_KEEP_FORMATTINGnn              be saved when the default formatting can be used, that is when the terminal line length is between 66 and 80 characters.n              appropriate  to the current terminal (using the value of $COLUMNS, an ioctl(2) if available, or falling back to 80 characters if neither is available).  Cat pages will onlyn              If $MANWIDTH is set, its value is used as the line length for which manual pages should be formatted.  If it is not set, manual pages will be formatted with a  line  lengthn
-|3,0,2,1,1,0,1555493886,>4682
-|<"\n\nı	\n\n©	\n\n®	\n\nè	\n\n‘\n\nà\n\ná\n\nÅ\n\ni\n\n@\n\n?\n\n)\n\n˚\n\n˙\n\nŒ\n\nï\n\nî\n\nh\n\n,\n\n+\n\n\"\n\ng\n\nM\n\nL\n\nD\n\nˆ\n\nı\n\n|\n\n{\n\n“\n\n—\n\n\n\n\n\n©\n\n®\n\nÌ\n\nÏ\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-|<\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-|<\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.8.5                                                                                   2019-01-05                                                                                  MAN(1)
-|<\n\n       31st March 2001 - present day: Colin Watson <cjwatson@debian.org> is now developing and maintaining man-db.\n\n       30th October 1996 - 30th March 2001: Fabrizio Polacco <fpolacco@debian.org> maintained and enhanced this package for the Debian project, with the help of all the community.\n\n       30th April 1994 - 23rd February 2000: Wilf. (G.Wilford@ee.surrey.ac.uk) has been developing and maintaining this package with the help of a few dedicated people.\n\n       Dec 23
-|< 1992: Rik Faith (faith@cs.unc.edu) applied bug fixes supplied by Willem Kasdorp (wkasdo@nikhefk.nikef.nl).\n\n       1990, 1991 - Originally written by John W. Eaton (jwe@che.utexas.edu).\nHISTORY\n\n       age manual, FSSTND\n       apropos(1), groff(1), less(1), manpath(1), nroff(1), troff(1), whatis(1), zsoelim(1), setlocale(3), manpath(5), ascii(7), latin1(7), man(7), catman(8), mandb(8), the man-db  pack-\nSEE ALSO\n\n              An FHS compliant global index database cache.\n 
-|<      /var/cache/man/index.(bt|db|dir|pag)\n\n              A traditional global index database cache.\n       /usr/share/man/index.(bt|db|dir|pag)\n\n              A global manual page hierarchy.\n       /usr/share/man\n\n              man-db configuration file.\n       /etc/man_db.conf\nFILES\n\n              locale (if available).  See setlocale(3) for precise details.\n              Depending on system and implementation, either or both of $LANG and $LC_MESSAGES will be interrogate
-|<d for the current message locale.  man will display its messages in that\n       LANG, LC_MESSAGES\n\n              any non-empty value, error output will be displayed as usual.\n              ment, which are unsightly and generally confusing when displayed along with the manual page.  However, some users want to see them anyway, so, if $MAN_KEEP_STDERR is set to\n              carded to avoid interfering with the pager's display.  Programs such as groff often produce relatively minor 
-|<error messages about typographical problems such as poor align-\n              Normally, when output is being directed to a terminal (usually to a pager), any error output from the command used to produce formatted versions of  manual  pages  is  dis-\n       MAN_KEEP_STDERR\n\n              can interpret formatting characters.\n              special  tools.   However, if $MAN_KEEP_FORMATTING is set to any non-empty value, these formatting characters are retained.  This may be useful f
-|<or wrappers around man that\n              Normally, when output is not being directed to a terminal (such as to a file or a pipe), formatting characters are discarded to make it easier to read  the  result  without\n       MAN_KEEP_FORMATTING\n\n              be saved when the default formatting can be used, that is when the terminal line length is between 66 and 80 characters.\n              appropriate  to the current terminal (using the value of $COLUMNS, an ioctl(2) if available, 
-|<or falling back to 80 characters if neither is available).  Cat pages will only\n              If $MANWIDTH is set, its value is used as the line length for which manual pages should be formatted.  If it is not set, manual pages will be formatted with a  line  length\n"
+	.config/VirtualBox
+|3,0,2,1,1,0,1556286210,".config/VirtualBox"
+"3	LINE	0
+	192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw==
+|3,0,3,1,1,0,1556285554,"192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw=="
+"4	LINE	0
+	
+|3,0,4,1,1,0,1556108625,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1556108621,""
+"6	LINE	0
+	
+|3,0,6,1,1,0,1556108621,""
+"7	LINE	0
+	11111111,1111111,11111111,11111100
+|3,0,7,1,1,0,1556108230,"11111111,1111111,11111111,11111100"
+"8	LINE	0
+	192.168.3.20 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFm4qKuUjCEUetnKwJGudefR3GMXMFLBcftGNEu7N1S/+Lh50wNzHHKrmLc70urf9q5BwcEosnOtbI1W862ZgdM=
+|3,0,8,1,1,0,1556028815,"192.168.3.20 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFm4qKuUjCEUetnKwJGudefR3GMXMFLBcftGNEu7N1S/+Lh50wNzHHKrmLc70urf9q5BwcEosnOtbI1W862ZgdM="
+"9	LINE	0
+	
+|3,0,9,1,1,0,1555594966,""
+"m	CHAR	0
+	0i#j
+|3,0,22,0,1,0,1555593936,"0i#j"
 "-	CHAR	0
-	n
-|3,0,36,0,1,0,1555493873,"\n"
+	/
+|3,0,36,0,1,0,1556286199,"/"
 
 # File marks:
-'0  8  0  ~/.vim/plugged/vim-SyntaxRange
-|4,48,8,0,1555493933,"~/.vim/plugged/vim-SyntaxRange"
-'1  1  0  ~/.swp
-|4,49,1,0,1555493897,"~/.swp"
-'2  21  0  ~/.swp
-|4,50,21,0,1555493866,"~/.swp"
-'3  20  0  ~/.swp
-|4,51,20,0,1555493866,"~/.swp"
-'4  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,52,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
-'5  1  0  ~/.xsession-errors
-|4,53,1,0,1555493673,"~/.xsession-errors"
-'6  1  0  ~/.xinitrc.bak
-|4,54,1,0,1555493581,"~/.xinitrc.bak"
-'7  1  0  ~/.xinitrc
-|4,55,1,0,1555493577,"~/.xinitrc"
-'8  1  0  ~/.wpm.csv
-|4,56,1,0,1555493574,"~/.wpm.csv"
-'9  1  0  ~/.wpmrc
-|4,57,1,0,1555493567,"~/.wpmrc"
+'0  29  12  ~/.gitignore
+|4,48,29,12,1556286909,"~/.gitignore"
+'1  3  23  ~/.gitignore
+|4,49,3,23,1556286892,"~/.gitignore"
+'2  3  23  ~/.gitignore
+|4,50,3,23,1556286892,"~/.gitignore"
+'3  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,51,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+'4  5  1  ~/.gitignore
+|4,52,5,1,1556286314,"~/.gitignore"
+'5  4  1  ~/.gitignore
+|4,53,4,1,1556286314,"~/.gitignore"
+'6  5  1  ~/.gitignore
+|4,54,5,1,1556286314,"~/.gitignore"
+'7  4  1  ~/.gitignore
+|4,55,4,1,1556286314,"~/.gitignore"
+'8  1  0  ~/.gitignore
+|4,56,1,0,1556286215,"~/.gitignore"
+'9  1  0  ~/.gitignore
+|4,57,1,0,1556286215,"~/.gitignore"
 
 # Jumplist (newest first):
--'  8  0  ~/.vim/plugged/vim-SyntaxRange
-|4,39,8,0,1555493933,"~/.vim/plugged/vim-SyntaxRange"
--'  8  0  ~/.vim/plugged/vim-SyntaxRange
-|4,39,8,0,1555493933,"~/.vim/plugged/vim-SyntaxRange"
--'  1  0  ~/.swp
-|4,39,1,0,1555493897,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493897,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493897,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493897,"~/.swp"
--'  19  0  ~/.swp
-|4,39,19,0,1555493890,"~/.swp"
--'  19  0  ~/.swp
-|4,39,19,0,1555493890,"~/.swp"
--'  19  0  ~/.swp
-|4,39,19,0,1555493890,"~/.swp"
--'  19  0  ~/.swp
-|4,39,19,0,1555493890,"~/.swp"
--'  15  0  ~/.swp
-|4,39,15,0,1555493877,"~/.swp"
--'  15  0  ~/.swp
-|4,39,15,0,1555493877,"~/.swp"
--'  15  0  ~/.swp
-|4,39,15,0,1555493877,"~/.swp"
--'  15  0  ~/.swp
-|4,39,15,0,1555493877,"~/.swp"
--'  21  0  ~/.swp
-|4,39,21,0,1555493874,"~/.swp"
--'  21  0  ~/.swp
-|4,39,21,0,1555493874,"~/.swp"
--'  21  0  ~/.swp
-|4,39,21,0,1555493874,"~/.swp"
--'  21  0  ~/.swp
-|4,39,21,0,1555493874,"~/.swp"
--'  20  0  ~/.swp
-|4,39,20,0,1555493866,"~/.swp"
--'  20  0  ~/.swp
-|4,39,20,0,1555493866,"~/.swp"
--'  20  0  ~/.swp
-|4,39,20,0,1555493866,"~/.swp"
--'  20  0  ~/.swp
-|4,39,20,0,1555493866,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493864,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493864,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493864,"~/.swp"
--'  1  0  ~/.swp
-|4,39,1,0,1555493864,"~/.swp"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  89  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,89,0,1555493689,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.zcompdump-GLaDOS-5.6.2
-|4,39,1,0,1555493675,"~/.zcompdump-GLaDOS-5.6.2"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xsession-errors
-|4,39,1,0,1555493673,"~/.xsession-errors"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
--'  1  0  ~/.xinitrc.bak
-|4,39,1,0,1555493581,"~/.xinitrc.bak"
+-'  29  12  ~/.gitignore
+|4,39,29,12,1556286909,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286901,"~/.gitignore"
+-'  3  23  ~/.gitignore
+|4,39,3,23,1556286892,"~/.gitignore"
+-'  3  23  ~/.gitignore
+|4,39,3,23,1556286892,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286881,"~/.gitignore"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  30  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,30,0,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  51  30  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,51,30,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  52  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,52,36,1556286766,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  19  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,19,36,1556286764,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  19  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,19,36,1556286764,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  19  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,19,36,1556286764,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  19  36  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,19,36,1556286764,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  1  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,1,0,1556286762,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  1  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,1,0,1556286762,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  1  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,1,0,1556286762,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  1  0  ~/Projects/aur/brave-bin/PKGBUILD
+|4,39,1,0,1556286762,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  5  1  ~/.gitignore
+|4,39,5,1,1556286314,"~/.gitignore"
+-'  4  1  ~/.gitignore
+|4,39,4,1,1556286314,"~/.gitignore"
+-'  5  1  ~/.gitignore
+|4,39,5,1,1556286314,"~/.gitignore"
+-'  4  1  ~/.gitignore
+|4,39,4,1,1556286314,"~/.gitignore"
+-'  4  1  ~/.gitignore
+|4,39,4,1,1556286314,"~/.gitignore"
+-'  2  1  ~/.gitignore
+|4,39,2,1,1556286313,"~/.gitignore"
+-'  11  1  ~/.gitignore
+|4,39,11,1,1556286313,"~/.gitignore"
+-'  10  1  ~/.gitignore
+|4,39,10,1,1556286313,"~/.gitignore"
+-'  9  1  ~/.gitignore
+|4,39,9,1,1556286313,"~/.gitignore"
+-'  8  1  ~/.gitignore
+|4,39,8,1,1556286313,"~/.gitignore"
+-'  7  1  ~/.gitignore
+|4,39,7,1,1556286313,"~/.gitignore"
+-'  4  1  ~/.gitignore
+|4,39,4,1,1556286313,"~/.gitignore"
+-'  2  1  ~/.gitignore
+|4,39,2,1,1556286313,"~/.gitignore"
+-'  11  1  ~/.gitignore
+|4,39,11,1,1556286313,"~/.gitignore"
+-'  10  1  ~/.gitignore
+|4,39,10,1,1556286313,"~/.gitignore"
+-'  9  1  ~/.gitignore
+|4,39,9,1,1556286313,"~/.gitignore"
+-'  8  1  ~/.gitignore
+|4,39,8,1,1556286313,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1556286313,"~/.gitignore"
+-'  2  1  ~/.gitignore
+|4,39,2,1,1556286313,"~/.gitignore"
+-'  10  1  ~/.gitignore
+|4,39,10,1,1556286313,"~/.gitignore"
+-'  9  1  ~/.gitignore
+|4,39,9,1,1556286313,"~/.gitignore"
+-'  8  1  ~/.gitignore
+|4,39,8,1,1556286313,"~/.gitignore"
+-'  7  1  ~/.gitignore
+|4,39,7,1,1556286313,"~/.gitignore"
+-'  3  1  ~/.gitignore
+|4,39,3,1,1556286313,"~/.gitignore"
+-'  2  1  ~/.gitignore
+|4,39,2,1,1556286313,"~/.gitignore"
+-'  10  1  ~/.gitignore
+|4,39,10,1,1556286313,"~/.gitignore"
+-'  9  1  ~/.gitignore
+|4,39,9,1,1556286313,"~/.gitignore"
+-'  8  1  ~/.gitignore
+|4,39,8,1,1556286313,"~/.gitignore"
+-'  7  1  ~/.gitignore
+|4,39,7,1,1556286313,"~/.gitignore"
+-'  6  1  ~/.gitignore
+|4,39,6,1,1556286312,"~/.gitignore"
+-'  7  1  ~/.gitignore
+|4,39,7,1,1556286312,"~/.gitignore"
+-'  6  1  ~/.gitignore
+|4,39,6,1,1556286312,"~/.gitignore"
+-'  6  1  ~/.gitignore
+|4,39,6,1,1556286312,"~/.gitignore"
+-'  5  1  ~/.gitignore
+|4,39,5,1,1556286312,"~/.gitignore"
+-'  6  1  ~/.gitignore
+|4,39,6,1,1556286312,"~/.gitignore"
+-'  5  1  ~/.gitignore
+|4,39,5,1,1556286312,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286308,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286308,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286215,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286215,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1556286213,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1556286213,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1556286213,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1556286213,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286206,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286206,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  4  17  ~/.gitignore
+|4,39,4,17,1556286201,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286197,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286197,"~/.gitignore"
+-'  4  18  ~/.gitignore
+|4,39,4,18,1556286193,"~/.gitignore"
+-'  4  18  ~/.gitignore
+|4,39,4,18,1556286193,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286183,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1556286183,"~/.gitignore"
+-'  6  7  ~/.gitignore
+|4,39,6,7,1556286170,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1556286170,"~/.gitignore"
+-'  6  7  ~/.gitignore
+|4,39,6,7,1556286170,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1556286170,"~/.gitignore"
+-'  7  7  ~/.gitignore
+|4,39,7,7,1556286170,"~/.gitignore"
+-'  6  7  ~/.gitignore
+|4,39,6,7,1556286170,"~/.gitignore"
+-'  7  7  ~/.gitignore
+|4,39,7,7,1556286170,"~/.gitignore"
+-'  6  7  ~/.gitignore
+|4,39,6,7,1556286170,"~/.gitignore"
+-'  6  7  ~/.gitignore
+|4,39,6,7,1556286170,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1556286909	0
+	"	29	12
+	^	29	13
+	.	29	12
+	+	53	0
+	+	55	3
+	+	7	7
+	+	5	0
+	+	8	0
+	+	3	23
+	+	29	12
+
+> ~/Projects/aur/brave-bin/PKGBUILD
+	*	1556286775	0
+	"	26	8
+	.	26	0
+	+	26	0
+
+> ~/Projects/.scripts/ssh/ssh.sh
+	*	1556285593	0
+	"	7	27
+	^	7	28
+	.	7	27
+	+	59	1
+	+	56	3
+	+	58	28
+	+	59	0
+	+	60	0
+	+	2	0
+	+	46	28
+	+	7	27
+
+> ~/.ssh/known_hosts
+	*	1556285554	0
+	"	25	0
+	.	25	0
+	+	4	0
+	+	22	0
+	+	25	0
+
+> ~/Projects/.scripts/lock/lock.sh
+	*	1556284396	0
+	"	3	0
+	^	10	107
+	.	10	106
+	+	10	106
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2759-7401134395917455410
+	*	1556266576	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/.config/i3/config
+	*	1556206621	0
+	"	305	43
+	^	238	98
+	.	238	97
+	+	238	97
+
+> ~/.config/newsboat/config
+	*	1556191869	0
+	"	37	27
+	^	37	28
+	.	37	27
+	+	37	27
+
+> ~/.config/newsboat/urls
+	*	1556190732	0
+	"	9	44
+	^	9	45
+	.	9	44
+	+	9	44
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-917-14908307189849100490
+	*	1556109807	0
+	"	6	7
+	^	6	8
+	.	6	7
+	+	3	76
+	+	3	64
+	+	6	7
+
+> ~/test
+	*	1556096719	0
+	"	1	0
+
+> ~/Projects/.scripts/misc/aliases.sh
+	*	1556031241	0
+	"	46	32
+	^	46	33
+	.	46	32
+	+	46	32
+
+> ~/Projects/.scripts/invoice/dmenu-invoice.sh
+	*	1556019429	0
+	"	32	62
+	.	32	62
+	+	32	62
+
+> ~/Projects/Share/Public/Temp IT/New Windows PC Setup/Sage/Sage Serial.txt
+	*	1556010586	0
+	"	1	0
+
+> ~/Projects/.scripts/toggl/stat.sh
+	*	1556009459	0
+	"	6	16
+	^	6	18
+	.	6	16
+	+	4	0
+	+	6	16
+
+> ~/Projects/.scripts/toggl/sta
+	*	1556009256	0
+	"	1	0
+
+> ~/Projects/Share/Public/Temp IT/New Windows PC Setup/Sage/Sage
+	*	1556008619	0
+	"	1	0
+
+> ~/.config/i3/.git/config
+	*	1556008152	0
+	"	1	0
+
+> ~/Projects/.scripts/remind/remind.sh
+	*	1556006772	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-10906-697381297603468413
+	*	1555598210	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> /media/Projects/python-work/strings.sh
+	*	1555595624	0
+	"	1	0
+	^	1	18
+	.	1	17
+	+	2	0
+	+	1	17
+
+> /media/Projects/python-work/loops.sh
+	*	1555595619	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	3	0
+	+	1	0
+	+	3	0
+	+	1	0
+	+	3	0
+	+	1	0
+
+> /media/Projects/python-work/function.sh
+	*	1555595197	0
+	"	1	0
+
+> /media/Projects/python-work/test.py
+	*	1555595184	0
+	"	8	0
+	^	5	0
+	.	5	0
+	+	1	17
+	+	3	5
+	+	3	9
+	+	3	13
+	+	3	4
+	+	3	0
+	+	3	25
+	+	3	0
+	+	3	11
+	+	3	0
+	+	3	21
+	+	3	0
+	+	3	13
+	+	3	17
+	+	3	0
+	+	15	24
+	+	3	22
+	+	13	0
+	+	3	2
+	+	4	29
+	+	7	11
+	+	9	4
+	+	3	57
+	+	11	19
+	+	16	0
+	+	13	13
+	+	12	0
+	+	14	0
+	+	17	10
+	+	3	0
+	+	4	0
+	+	8	0
+	+	6	75
+	+	16	19
+	+	6	79
+	+	16	21
+	+	3	0
+	+	16	0
+	+	3	0
+	+	16	0
+	+	3	0
+	+	4	0
+	+	2	0
+	+	4	0
+	+	5	0
+
+> ~/Projects/Commands/commands.org
+	*	1555584520	0
+	"	25	0
+
+> ~/.zcompdump-GLaDOS-5.6.2
+	*	1555577458	0
+	"	1	0
+
+> ~/.wpmrc
+	*	1555576947	0
+	"	5	0
+
+> ~/xerox number
+	*	1555576830	0
+	"	1	0
+
+> ~/Projects/temp/file1.txt
+	*	1555576602	0
+	"	1	0
+
+> ~/.Xresources
+	*	1555576588	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-3505351482083259414
+	*	1555576452	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-2815438706365045542
+	*	1555576352	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-7479728017368262634
+	*	1555576335	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-8511908580539984818
+	*	1555576166	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-8860019958003572367
+	*	1555576068	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-7190421809199478436
+	*	1555575990	0
+	"	1	0
+	^	1	0
+
+> ~/Projects/Downloads/proton.vcf
+	*	1555575868	0
+	"	79	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-17989438096606479803
+	*	1555575584	0
+	"	1	9
+	^	1	10
+	.	1	8
+	+	1	8
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-15636241038240905984
+	*	1555575356	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-11909127146954881275
+	*	1555575317	0
+	"	6	0
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/Projects/.scripts/network/vpn/vpn.sh
+	*	1555575276	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-16905595655099943842
+	*	1555575022	0
+	"	5	7
+	^	5	9
+	.	5	7
+	+	5	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-4644800309182507105
+	*	1555514356	0
+	"	3	78
+	^	3	79
+	.	3	78
+	+	5	7
+	+	3	78
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-12819543242564671171
+	*	1555513193	0
+	"	3	585
+	^	3	467
+	.	3	466
+	+	3	462
+	+	5	7
+	+	3	49
+	+	3	466
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-11556149789866031083
+	*	1555510089	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-14921643447264528341
+	*	1555507599	0
+	"	2	359
+	^	2	360
+	.	2	359
+	+	4	7
+	+	2	359
+
+> ~/backps/sensu/var/www/html/index.html
+	*	1555507277	0
+	"	1	0
+
+> ~/backps/snipe/var/www/vhosts/snipeit.spv.net.uk/htdocs/server.php
+	*	1555507167	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-15203249284106287885
+	*	1555507139	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	6	83
+	+	6	0
+	+	1	4
+	+	5	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-14318191730888202300
+	*	1555506815	0
+	"	1	100
+	^	1	101
+	.	1	42
+	+	1	0
+	+	1	42
+
+> ~/backps/leda/home/deanpalmer/scripts/export.sh
+	*	1555506273	0
+	"	1	0
+
+> ~/Projects/it-web-processes/IT/How-To/Vagrant/make_new_vm.md
+	*	1555501688	0
+	"	12	140
+	^	12	141
+	.	12	140
+	+	10	46
+	+	14	4
+	+	12	3
+	+	14	39
+	+	1	0
+	+	10	51
+	+	18	135
+	+	20	206
+	+	20	319
+	+	20	156
+	+	20	154
+	+	4	0
+	+	20	206
+	+	20	265
+	+	20	453
+	+	22	3
+	+	20	275
+	+	15	0
+	+	17	0
+	+	19	0
+	+	13	0
+	+	11	0
+	+	9	0
+	+	21	0
+	+	22	232
+	+	20	541
+	+	22	398
+	+	6	0
+	+	10	0
+	+	12	0
+	+	14	0
+	+	18	0
+	+	20	0
+	+	22	0
+	+	6	460
+	+	7	5
+	+	7	1
+	+	8	71
+	+	12	140
+
+> ~/Projects/it-web-processes/IT/How-To/Vagrant/V
+	*	1555498102	0
+	"	1	0
+
+> ~/Projects/.scripts/invoice/warn.txt
+	*	1555496253	0
+	"	1	0
+
+> ~/Projects/it-web-processes/README.md
+	*	1555495532	0
+	"	1	0
+
+> ~/Projects/vagrant.fix
+	*	1555495459	0
+	"	1	58
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2470-16615889818129925997
+	*	1555494691	0
+	"	6	0
+	^	6	0
+	.	5	0
+	+	3	154
+	+	5	0
 
 > ~/.swp
 	*	1555493896	0
@@ -346,10 +817,6 @@ $
 	.	20	0
 	+	21	0
 	+	20	0
-
-> ~/.zcompdump-GLaDOS-5.6.2
-	*	1555493687	0
-	"	89	0
 
 > ~/.xsession-errors
 	*	1555493589	0
@@ -365,10 +832,6 @@ $
 
 > ~/.wpm.csv
 	*	1555493569	0
-	"	1	0
-
-> ~/.wpmrc
-	*	1555493567	0
 	"	1	0
 
 > ~/.wmp
@@ -425,10 +888,6 @@ $
 
 > ~/.bash_completion
 	*	1555493449	0
-	"	1	0
-
-> ~/.Xresources
-	*	1555493442	0
 	"	1	0
 
 > ~/.Xauthority

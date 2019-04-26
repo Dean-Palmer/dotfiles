@@ -1,5 +1,7 @@
-2019/04/01-09:37:24.008 1488 Recovering log #3
-2019/04/01-09:37:24.176 1488 Level-0 table #5: started
-2019/04/01-09:37:24.248 1488 Level-0 table #5: 2594780 bytes OK
-2019/04/01-09:37:24.262 1488 Delete type=0 #3
-2019/04/01-09:37:24.264 1488 Delete type=3 #2
+2019/04/18-11:47:24.179 1f8d Recovering log #3
+2019/04/18-11:47:24.343 1f8d Level-0 table #5: started
+2019/04/18-11:47:24.450 1f8d Level-0 table #5: 2594780 bytes OK
+2019/04/18-11:47:24.455 1f8d Recovering log #8
+2019/04/18-11:47:24.468 1f8d Delete type=0 #3
+2019/04/18-11:47:24.470 1f8d Delete type=0 #8
+2019/04/18-11:47:24.471 1f8d Delete type=3 #2

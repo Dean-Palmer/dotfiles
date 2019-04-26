@@ -235,7 +235,7 @@ exec --no-startup-id xrandr --output DP-1 --mode 1920x1080 --pos 1920x0 --rotate
 	bindsym XF86AudioPrev exec playerctl previous
 
 # Wallpaper with feh
-exec_always feh --bg-fill ~/Projects/Pictures/Landscape/mountain.jpg ~/Projects/Pictures/Portrait/purple.jpg
+exec_always feh --bg-fill ~/Projects/Pictures/Landscape/ladybug.jpg ~/Projects/Pictures/Portrait/tpab.jpg
 
 
 # Border color
