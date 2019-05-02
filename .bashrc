@@ -119,7 +119,7 @@ if ! shopt -oq posix; then
 fi
 
 #Custom
-#Sources aliases that I use for work to ssh into servers faster exclued from the git repo because it's not my infomation
+#Sources aliases that I use for work to ssh into servers faster excluded from the git repo because it's not my information
 source ~/Projects/.scripts/misc/aliases.sh
 
 #Lock PC

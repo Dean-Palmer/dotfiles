@@ -1,11 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/deanpalmer/Projects/.scripts/misc'
-let g:netrw_dirhist_2='/home/deanpalmer/Projects/.scripts'
-let g:netrw_dirhist_3='/home/deanpalmer/Projects/.scripts/misc'
-let g:netrw_dirhist_4='/home/deanpalmer/.mail'
-let g:netrw_dirhist_5='/home/deanpalmer/.w3m'
-let g:netrw_dirhist_6='/home/deanpalmer/.vim'
-let g:netrw_dirhist_7='/dev/disk/by-uuid'
-let g:netrw_dirhist_8='/home/deanpalmer/.vim/plugged/vim-SyntaxRange'
-let g:netrw_dirhist_9='/home/deanpalmer/Projects/Work/patches'
+let g:netrw_dirhist_2='/home/deanpalmer/Projects/.scripts/scripts'
+let g:netrw_dirhist_3='/home/deanpalmer/.config/i3'
+let g:netrw_dirhist_4='/home/deanpalmer/.config/newsboat'

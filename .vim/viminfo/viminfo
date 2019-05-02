@@ -11,23 +11,47 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/vim
+~MSle0~/mpc
 
 # Last Substitute Search Pattern:
-~MSle0&jupiter
+~MSle0&bash
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1556287008,,"q"
+|2,0,1556802549,,"q"
 :w
-|2,0,1556287008,,"w"
+|2,0,1556802548,,"w"
+:e chilledcow.sh
+|2,0,1556790548,,"e chilledcow.sh"
 :wq
-|2,0,1556286970,,"wq"
+|2,0,1556711329,,"wq"
 :q!
-|2,0,1556286957,,"q!"
+|2,0,1556701834,,"q!"
+:5
+|2,0,1556620518,,"5"
+:qlllllll
+|2,0,1556620484,,"qlllllll"
+:% s/bash/sh/g
+|2,0,1556617362,,"% s/bash/sh/g"
+:X test
+|2,0,1556615730,,"X test"
+:x test
+|2,0,1556615715,,"x test"
+:x
+|2,0,1556615712,,"x"
+:19
+|2,0,1556610273,,"19"
+::q
+|2,0,1556545547,,":q"
+:@q
+|2,0,1556535716,,"@q"
+:WQ
+|2,0,1556535174,,"WQ"
+:'q
+|2,0,1556290950,,"'q"
 :wq todo-spafix-network
 |2,0,1556109406,,"wq todo-spafix-network"
 :Wq
@@ -52,6 +76,86 @@ $
 |2,0,1555493959,,"PlugUpdate"
 
 # Search String History (newest to oldest):
+?/mpc
+|2,1,1556797264,47,"mpc"
+?/0
+|2,1,1556790600,47,"0"
+?/add
+|2,1,1556790443,47,"add"
+?/mpd
+|2,1,1556790441,47,"mpd"
+??down
+|2,1,1556710825,63,"down"
+?/pbcopy
+|2,1,1556705620,47,"pbcopy"
+?/nb
+|2,1,1556701426,47,"nb"
+?/NB
+|2,1,1556701425,47,"NB"
+? @$
+|2,1,1556698132,,"@$"
+?/files
+|2,1,1556637230,47,"files"
+?/work
+|2,1,1556637220,47,"work"
+?/fog
+|2,1,1556624091,47,"fog"
+? bash
+|2,1,1556617362,,"bash"
+?/status/
+|2,1,1556617237,47,"status/"
+?/stat
+|2,1,1556617183,47,"stat"
+?/sl
+|2,1,1556611160,47,"sl"
+?/dm
+|2,1,1556610263,47,"dm"
+?/dmenu
+|2,1,1556610235,47,"dmenu"
+?/-l
+|2,1,1556609940,47,"-l"
+?/jpg
+|2,1,1556551539,47,"jpg"
+?/		
+|2,1,1556551535,47,"		"
+?/ve
+|2,1,1556549732,47,"ve"
+?/g
+|2,1,1556545903,47,"g"
+?/gs
+|2,1,1556545763,47,"gs"
+?/+Sent
+|2,1,1556545659,47,"+Sent"
+??Sent
+|2,1,1556545585,63,"Sent"
+?/sent
+|2,1,1556545579,47,"sent"
+?/xcape
+|2,1,1556541048,47,"xcape"
+?/jup
+|2,1,1556538658,47,"jup"
+?/dircolors
+|2,1,1556536394,47,"dircolors"
+?/dir
+|2,1,1556536391,47,"dir"
+?/colors
+|2,1,1556536349,47,"colors"
+?/todo
+|2,1,1556535803,47,"todo"
+?/58
+|2,1,1556533207,47,"58"
+?/29
+|2,1,1556533167,47,"29"
+?/.:q
+|2,1,1556530585,47,".:q"
+?/startx
+|2,1,1556529742,47,"startx"
+?/scripts
+|2,1,1556529561,47,"scripts"
+?/https://
+|2,1,1556288847,47,"https://"
+?/exe
+|2,1,1556288843,47,"exe"
 ?/vim
 |2,1,1556287005,47,"vim"
 ?/sh
@@ -66,54 +170,12 @@ $
 |2,1,1556285553,47,"4\\.2"
 ?/4.1
 |2,1,1556285547,47,"4.1"
-?/mpc
-|2,1,1556206614,47,"mpc"
-?/stat
-|2,1,1556206607,47,"stat"
 ?/bindsym
 |2,1,1556206596,47,"bindsym"
 ?/17
 |2,1,1556206030,47,"17"
 ?/snp
 |2,1,1556206028,47,"snp"
-?/jpg
-|2,1,1556179894,47,"jpg"
-?/mpv
-|2,1,1556110044,47,"mpv"
-? @$
-|2,1,1556109415,,"@$"
-?/192.168.3.20
-|2,1,1556028814,47,"192.168.3.20"
-?/20
-|2,1,1556028810,47,"20"
-?/work
-|2,1,1556019425,47,"work"
-?/snipe
-|2,1,1555597955,47,"snipe"
-?/vpn
-|2,1,1555575157,47,"vpn"
-?/leda
-|2,1,1555514648,47,"leda"
-?/\.28
-|2,1,1555515050,47,"\\.28"
-?/tray
-|2,1,1555513136,47,"tray"
-?/trayu
-|2,1,1555513134,47,"trayu"
-?/hubb
-|2,1,1555507341,47,"hubb"
-?/mkdir
-|2,1,1555498111,47,"mkdir"
-? jupiter
-|2,1,1555496654,,"jupiter"
-?/desktop
-|2,1,1555496638,47,"desktop"
-? \<loac\>
-|2,1,1555495886,,"\\<loac\\>"
-? vm
-|2,1,1555495875,,"vm"
-?/mv
-|2,1,1555496373,47,"mv"
 
 # Expression History (newest to oldest):
 
@@ -122,271 +184,810 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	
-|3,0,0,1,1,0,1556109415,""
+"0	CHAR	0
+	. N
+|3,0,0,0,1,0,1556698132,". N"
 ""1	LINE	0
-	
-|3,1,1,1,1,0,1556287007,""
+	https://www.youtube.com/watch?v=hHW1oY26kxQ 
+|3,1,1,1,1,0,1556794514,"https://www.youtube.com/watch?v=hHW1oY26kxQ "
 "2	LINE	0
-	.vim/plugged/vim-SyntaxRange
-|3,0,2,1,1,0,1556287004,".vim/plugged/vim-SyntaxRange"
+	alias chilledcow='mpc --host=51.68.212.217 --port=6700'
+|3,0,2,1,1,0,1556790540,"alias chilledcow='mpc --host=51.68.212.217 --port=6700'"
 "3	LINE	0
-	        "$pkgname.sh"
-|3,0,3,1,1,0,1556286774,"        \"$pkgname.sh\""
+	375
+<AAAAB3NzaC1yc2EAAAABJQAAAQEAgkIyU0aurHdRGfbZHA/UEo7YB6MrgDFYabLVvH8GwmdOYakZIQ/s5p5hqAeJkwqgpt1cTpOgajbllduqsIjoBbj384KcmXa9MDCQsW81umJBOA3meHobJEhARjYwUQHmTL1kb5lVwNthtkOYCXikK6QhDHb3TkaTzGIlMdeD7mFhxANuouvaZTZ87OcSFlqqdbCxu4QHmB0BWYIp9ouF27M4KFXNSWOLml9ACs5CxQ93pNTl2AELOiXzagAumoKlGeJOgxGqTTrrQZM66WFoLlSMDRI0xmS8BXnsetdDgIbWRZXk94M5V1HmpabzdVbvQ3kbOfF/yzSkYTgKZaTksQ==
+|3,0,3,1,1,0,1556701581,"AAAAB3NzaC1yc2EAAAABJQAAAQEAgkIyU0aurHdRGfbZHA/UEo7YB6MrgDFYabLVvH8GwmdOYakZIQ/s5p5hqAeJkwqgpt1cTpOgajbllduqsIjoBbj384KcmXa9MDCQsW81umJBOA3meHobJEhARjYwUQHmTL1kb5lVwNthtkOYCXikK6QhDHb3TkaTzGIlMdeD7mFhxANuouvaZTZ87OcSFlqqdbCxu4QHmB0BWYIp9ouF27M4KFXNSWOLml9ACs5CxQ93pNTl2AELOiXzagAumoKlGeJOgxGqTTrrQZM66WFoLlSMDRI0xmS8BXnsetdDgIbWRZXk94M5V1HmpabzdVbvQ3kbOfF/yzSkYTgKZaTksQ=="
 "4	LINE	0
-	.config/VirtualBox
-|3,0,4,1,1,0,1556286210,".config/VirtualBox"
+	400
+<ssh-rsaAAAAB3NzaC1yc2EAAAABJQAAAQEAoYhwDWkv6Bv2BlswejLpOB5VQ3lFsXZV6tTk6+RgTLrrE3HYM8QChhYN9ifYBKYhHtKvUhUIslCM2cyIwhIaEFWuiR6MuDr7otAC5vPYV5WkabLFCvYL4W0t337SbGnBKWOvSOEs8K0kZpO2AnNdOdKOYnIfW+zAclA3+v6pJEgIvrhpFO9lQjgYwXTjO/B2El7+HQmekxSzq7EE6HuWzNRUrNNtGWIwqtvBkbCZgoNEfL3TXSYesdsqtc4LAtbIh8MARZpSK5r0JhzfeSZwu9ulugRF0dIk5LY6BTdA6szvdYk9utdYAn+pqO25b9qX0eJ3m24VhCk6iy5ZiS27HOw== rsa-key-20190415
+|3,0,4,1,1,0,1556701468,"ssh-rsaAAAAB3NzaC1yc2EAAAABJQAAAQEAoYhwDWkv6Bv2BlswejLpOB5VQ3lFsXZV6tTk6+RgTLrrE3HYM8QChhYN9ifYBKYhHtKvUhUIslCM2cyIwhIaEFWuiR6MuDr7otAC5vPYV5WkabLFCvYL4W0t337SbGnBKWOvSOEs8K0kZpO2AnNdOdKOYnIfW+zAclA3+v6pJEgIvrhpFO9lQjgYwXTjO/B2El7+HQmekxSzq7EE6HuWzNRUrNNtGWIwqtvBkbCZgoNEfL3TXSYesdsqtc4LAtbIh8MARZpSK5r0JhzfeSZwu9ulugRF0dIk5LY6BTdA6szvdYk9utdYAn+pqO25b9qX0eJ3m24VhCk6iy5ZiS27HOw== rsa-key-20190415"
 "5	LINE	0
-	192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw==
-|3,0,5,1,1,0,1556285554,"192.168.4.2 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCcxSW6XmLFj1U7FpWp+/wZZVIZIjLdRi546NE8uTyLzxZE8N9t2HVBm+3+QkyykhDIlsejdUbz+dQ0IO7TvQNQ1853dEYo/jM7XpW6nl/+LpDj+M+J7n/XDhGk//JwElOzdMu+cXliPoJy8st3mzi/Mk1rRXq3uA1/op1Ti66pMw=="
+	alias jupiter='ssh -p2022 192.168.3.10'
+|3,0,5,1,1,0,1556623252,"alias jupiter='ssh -p2022 192.168.3.10'"
 "6	LINE	0
 	
-|3,0,6,1,1,0,1556108625,""
+|3,0,6,1,1,0,1556623062,""
 "7	LINE	0
-	
-|3,0,7,1,1,0,1556108621,""
+	stat=$( sudo systemctl status openvpn-client@${list} | grep -oh "running") 
+|3,0,7,1,1,0,1556623060,"stat=$( sudo systemctl status openvpn-client@${list} | grep -oh \"running\") "
 "8	LINE	0
-	
-|3,0,8,1,1,0,1556108621,""
+	commit=( $(echo -e "" | dmenu -p "Type a commit message"))
+|3,0,8,1,1,0,1556621530,"commit=( $(echo -e \"\" | dmenu -p \"Type a commit message\"))"
 "9	LINE	0
-	11111111,1111111,11111111,11111100
-|3,0,9,1,1,0,1556108230,"11111111,1111111,11111111,11111100"
+	description=$(echo -e "" | dmenu -i -p "Description?")
+|3,0,9,1,1,0,1556620569,"description=$(echo -e \"\" | dmenu -i -p \"Description?\")"
+"h	CHAR	0
+	0i	j0
+|3,0,17,0,1,0,1556620434,"0i	j0"
 "m	CHAR	0
 	0i#j
 |3,0,22,0,1,0,1555593936,"0i#j"
 "-	CHAR	0
-	/
-|3,0,36,0,1,0,1556286199,"/"
+	 
+|3,0,36,0,1,0,1556790538," "
 
 # File marks:
-'0  31  0  ~/.gitignore
-|4,48,31,0,1556287008,"~/.gitignore"
-'1  2  11  ~/.gitignore
-|4,49,2,11,1556286970,"~/.gitignore"
-'2  2  11  ~/.gitignore
-|4,50,2,11,1556286970,"~/.gitignore"
-'3  4  0  ~/.gitignore
-|4,51,4,0,1556286957,"~/.gitignore"
-'4  3  0  ~/.gitignore
-|4,52,3,0,1556286957,"~/.gitignore"
-'5  4  0  ~/.gitignore
-|4,53,4,0,1556286957,"~/.gitignore"
-'6  3  0  ~/.gitignore
-|4,54,3,0,1556286957,"~/.gitignore"
-'7  10  0  ~/.gitignore
-|4,55,10,0,1556286945,"~/.gitignore"
-'8  9  0  ~/.gitignore
-|4,56,9,0,1556286945,"~/.gitignore"
-'9  9  0  ~/.gitignore
-|4,57,9,0,1556286945,"~/.gitignore"
+'0  122  115  ~/.bashrc
+|4,48,122,115,1556802549,"~/.bashrc"
+'1  1  0  ~/Projects/Share/IT/Support/tnt-number.txt
+|4,49,1,0,1556800137,"~/Projects/Share/IT/Support/tnt-number.txt"
+'2  1  0  ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+|4,50,1,0,1556799711,"~/Projects/Share/IT/Support/ups-help-desk-num.txt"
+'3  1  0  ~/.Xresources
+|4,51,1,0,1556799236,"~/.Xresources"
+'4  1  0  ~/Projects/aur/st/st
+|4,52,1,0,1556799231,"~/Projects/aur/st/st"
+'5  305  41  ~/.config/i3/config
+|4,53,305,41,1556797273,"~/.config/i3/config"
+'6  1  0  ~/Projects/Music/lofi.m3u
+|4,54,1,0,1556794864,"~/Projects/Music/lofi.m3u"
+'7  2  17  ~/Projects/.scripts/chilledcow.sh
+|4,55,2,17,1556794713,"~/Projects/.scripts/chilledcow.sh"
+'8  1  0  ~/Projects/.scripts/misc/aliases.sh
+|4,56,1,0,1556794583,"~/Projects/.scripts/misc/aliases.sh"
+'9  1  0  ~/Projects/Music/lofi.m3u
+|4,57,1,0,1556794515,"~/Projects/Music/lofi.m3u"
 
 # Jumplist (newest first):
--'  31  0  ~/.gitignore
-|4,39,31,0,1556287008,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1556287005,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556287001,"~/.gitignore"
--'  2  11  ~/.gitignore
-|4,39,2,11,1556286970,"~/.gitignore"
--'  2  11  ~/.gitignore
-|4,39,2,11,1556286970,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556286959,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1556286957,"~/.gitignore"
--'  4  0  ~/.gitignore
-|4,39,4,0,1556286957,"~/.gitignore"
--'  3  0  ~/.gitignore
-|4,39,3,0,1556286957,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556286948,"~/.gitignore"
--'  10  0  ~/.gitignore
-|4,39,10,0,1556286945,"~/.gitignore"
--'  9  0  ~/.gitignore
-|4,39,9,0,1556286945,"~/.gitignore"
--'  8  0  ~/.gitignore
-|4,39,8,0,1556286945,"~/.gitignore"
--'  10  0  ~/.gitignore
-|4,39,10,0,1556286945,"~/.gitignore"
--'  9  0  ~/.gitignore
-|4,39,9,0,1556286945,"~/.gitignore"
--'  9  0  ~/.gitignore
-|4,39,9,0,1556286945,"~/.gitignore"
--'  8  0  ~/.gitignore
-|4,39,8,0,1556286945,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556286943,"~/.gitignore"
--'  32  12  ~/.gitignore
-|4,39,32,12,1556286909,"~/.gitignore"
--'  30  12  ~/.gitignore
-|4,39,30,12,1556286909,"~/.gitignore"
--'  29  12  ~/.gitignore
-|4,39,29,12,1556286909,"~/.gitignore"
--'  31  12  ~/.gitignore
-|4,39,31,12,1556286909,"~/.gitignore"
--'  30  12  ~/.gitignore
-|4,39,30,12,1556286909,"~/.gitignore"
--'  30  12  ~/.gitignore
-|4,39,30,12,1556286909,"~/.gitignore"
--'  29  12  ~/.gitignore
-|4,39,29,12,1556286909,"~/.gitignore"
--'  29  12  ~/.gitignore
-|4,39,29,12,1556286909,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556286901,"~/.gitignore"
--'  5  23  ~/.gitignore
-|4,39,5,23,1556286892,"~/.gitignore"
--'  5  23  ~/.gitignore
-|4,39,5,23,1556286892,"~/.gitignore"
--'  4  23  ~/.gitignore
-|4,39,4,23,1556286892,"~/.gitignore"
--'  3  23  ~/.gitignore
-|4,39,3,23,1556286892,"~/.gitignore"
--'  3  23  ~/.gitignore
-|4,39,3,23,1556286892,"~/.gitignore"
--'  3  23  ~/.gitignore
-|4,39,3,23,1556286892,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1556286881,"~/.gitignore"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  26  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,26,8,1556286777,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
--'  27  8  ~/Projects/aur/brave-bin/PKGBUILD
-|4,39,27,8,1556286775,"~/Projects/aur/brave-bin/PKGBUILD"
+-'  122  115  ~/.bashrc
+|4,39,122,115,1556802549,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1556802535,"~/.bashrc"
+-'  1  0  ~/Projects/Share/IT/Support/tnt-number.txt
+|4,39,1,0,1556800137,"~/Projects/Share/IT/Support/tnt-number.txt"
+-'  1  0  ~/Projects/Share/IT/Support/tnt-number.txt
+|4,39,1,0,1556800137,"~/Projects/Share/IT/Support/tnt-number.txt"
+-'  1  0  ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+|4,39,1,0,1556799711,"~/Projects/Share/IT/Support/ups-help-desk-num.txt"
+-'  1  0  ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+|4,39,1,0,1556799711,"~/Projects/Share/IT/Support/ups-help-desk-num.txt"
+-'  1  0  ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+|4,39,1,0,1556799711,"~/Projects/Share/IT/Support/ups-help-desk-num.txt"
+-'  1  0  ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+|4,39,1,0,1556799711,"~/Projects/Share/IT/Support/ups-help-desk-num.txt"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1556799236,"~/.Xresources"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  1  0  ~/Projects/aur/st/st
+|4,39,1,0,1556799231,"~/Projects/aur/st/st"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  305  41  ~/.config/i3/config
+|4,39,305,41,1556797273,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  1  ~/.config/i3/config
+|4,39,1,1,1556797264,"~/.config/i3/config"
+-'  1  0  ~/Projects/Music/lofi.m3u
+|4,39,1,0,1556794864,"~/Projects/Music/lofi.m3u"
+-'  1  0  ~/Projects/Music/lofi.m3u
+|4,39,1,0,1556794864,"~/Projects/Music/lofi.m3u"
+-'  1  0  ~/Projects/Music/lofi.m3u
+|4,39,1,0,1556794864,"~/Projects/Music/lofi.m3u"
+-'  1  0  ~/Projects/Music/lofi.m3u
+|4,39,1,0,1556794864,"~/Projects/Music/lofi.m3u"
 
 # History of marks within files (newest to oldest):
 
+> ~/.bashrc
+	*	1556802548	0
+	"	122	115
+	^	122	116
+	.	122	115
+	+	122	115
+
+> ~/Projects/Share/IT/Support/tnt-number.txt
+	*	1556799838	0
+	"	1	0
+	^	1	13
+	.	1	1
+	+	1	1
+
+> ~/Projects/Share/IT/Support/ups-help-desk-num.txt
+	*	1556799710	0
+	"	1	0
+
+> ~/.Xresources
+	*	1556799235	0
+	"	1	0
+
+> ~/Projects/aur/st/st
+	*	1556799230	0
+	"	1	0
+
+> ~/.config/i3/config
+	*	1556797271	0
+	"	305	41
+	^	238	67
+	.	238	66
+	+	237	97
+	+	1	0
+	+	293	46
+	+	223	27
+	+	225	0
+	+	295	0
+	+	223	0
+	+	294	4
+	+	238	66
+
+> ~/Projects/Music/lofi.m3u
+	*	1556794862	0
+	"	1	0
+	^	1	756
+	.	1	0
+	+	1	0
+
+> ~/Projects/.scripts/chilledcow.sh
+	*	1556794713	0
+	"	2	17
+	^	2	805
+	.	2	804
+	+	2	797
+	+	2	36
+	+	3	0
+	+	2	804
+
+> ~/Projects/.scripts/misc/aliases.sh
+	*	1556794171	0
+	"	1	0
+	.	7	0
+	+	46	32
+	+	36	5
+	+	35	38
+	+	13	47
+	+	35	10
+	+	21	0
+	+	37	15
+	+	9	0
+	+	35	40
+	+	35	57
+	+	35	45
+	+	7	0
+
+> ~/.config/mpd/mpd.conf
+	*	1556792084	0
+	"	14	1
+
+> ~/Projects/Downloads/qwe_download
+	*	1556786556	0
+	"	1	0
+
+> ~/Projects/Work/fog-backup.txt
+	*	1556720665	0
+	"	1	51
+	^	1	52
+	.	1	0
+	+	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-10068-13344336922965992802
+	*	1556711248	0
+	"	19	154
+	^	19	155
+	.	19	154
+	+	2	0
+	+	3	205
+	+	8	150
+	+	9	117
+	+	19	154
+
+> ~/Projects/it-web-processes/IT/How-To/General/lvm.md
+	*	1556709703	0
+	"	7	79
+
+> ~/Projects/.scripts/dots/upload-dots.sh
+	*	1556703359	0
+	"	3	0
+
+> ~/Projects/Share/IT/SSH Keys/Sam/PC/public
+	*	1556701951	0
+	"	1	0
+
+> ~/.ssh/id_rsa.pub
+	*	1556701841	0
+	"	1	0
+
+> ~/Projects/Share/IT/SSH Keys/Sam/PC/id_rsa.pub
+	*	1556701833	0
+	"	1	0
+	.	1	0
+	+	1	378
+	+	1	0
+	+	1	192
+	+	1	64
+	+	1	320
+	+	1	0
+	+	1	320
+	+	1	0
+
+> ~/.config/newsboat/urls
+	*	1556698143	0
+	"	15	40
+	^	15	41
+	.	15	0
+	+	9	44
+	+	15	0
+
+> ~/Projects/it-web-processes/IT/How-To/Vagrant/make_new_vm.md
+	*	1556637966	0
+	"	22	1
+	.	22	0
+	+	10	46
+	+	14	4
+	+	12	3
+	+	14	39
+	+	1	0
+	+	10	51
+	+	18	135
+	+	20	206
+	+	20	319
+	+	20	156
+	+	20	154
+	+	4	0
+	+	20	206
+	+	20	265
+	+	20	453
+	+	22	3
+	+	20	275
+	+	15	0
+	+	17	0
+	+	19	0
+	+	13	0
+	+	11	0
+	+	9	0
+	+	21	0
+	+	22	232
+	+	20	541
+	+	22	398
+	+	6	0
+	+	10	0
+	+	12	0
+	+	14	0
+	+	18	0
+	+	20	0
+	+	22	0
+	+	6	460
+	+	7	5
+	+	7	1
+	+	8	71
+	+	12	140
+	+	22	0
+
+> ~/Projects/Commands/commands.org
+	*	1556637147	0
+	"	1	0
+
+> ~/Projects/Work/in-win
+	*	1556636170	0
+	"	1	0
+
+> ~/Projects/Work/vmb
+	*	1556636165	0
+	"	4	0
+
+> ~/Projects/.scripts/ssh/ssh.sh
+	*	1556624095	0
+	"	24	28
+	^	3	32
+	.	24	28
+	+	65	1
+	+	62	3
+	+	64	28
+	+	65	0
+	+	66	0
+	+	2	0
+	+	52	28
+	+	13	27
+	+	10	16
+	+	10	43
+	+	10	0
+	+	10	4
+	+	10	0
+	+	68	1
+	+	68	0
+	+	10	0
+	+	68	3
+	+	68	0
+	+	10	0
+	+	3	0
+	+	9	0
+	+	3	30
+	+	5	0
+	+	4	0
+	+	6	0
+	+	7	1
+	+	8	0
+	+	3	22
+	+	4	16
+	+	3	31
+	+	4	40
+	+	24	28
+
+> ~/Projects/.scripts/network/vpn/vpn.sh
+	*	1556623063	0
+	"	6	0
+	^	8	0
+	.	10	0
+	+	5	0
+	+	10	1
+	+	5	0
+	+	4	0
+	+	6	0
+	+	10	0
+	+	6	0
+	+	7	1
+	+	6	62
+	+	4	63
+	+	3	61
+	+	8	0
+	+	9	0
+	+	10	0
+
+> ~/Projects/.scripts/git/git-push.sh
+	*	1556621536	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	2	60
+	+	6	0
+	+	4	0
+	+	3	0
+	+	5	0
+	+	3	25
+
+> ~/Projects/.scripts/toggl/start.sh
+	*	1556620588	0
+	"	5	29
+	^	5	30
+	.	5	29
+	+	9	0
+	+	9	3
+	+	14	0
+	+	9	0
+	+	6	1
+	+	11	0
+	+	6	0
+	+	7	0
+	+	11	0
+	+	12	0
+	+	6	25
+	+	7	26
+	+	4	0
+	+	8	0
+	+	5	1
+	+	10	0
+	+	5	29
+
+> ~/Projects/.scripts/toggl/stat.sh
+	*	1556620364	0
+	"	1	0
+	^	6	18
+	.	6	16
+	+	4	0
+	+	6	16
+
+> ~/Projects/.scripts/laptop/back.sh
+	*	1556620356	0
+	"	2	0
+
+> ~/Projects/.scripts/gpg/new-gpg.sh
+	*	1556620329	0
+	"	1	0
+
+> /media/Projects/it-web-processes/README.md
+	*	1556616449	0
+	"	1	0
+
+> /media/Projects/python-work/strings.sh
+	*	1556616424	0
+	"	1	0
+	^	1	18
+	.	1	17
+	+	2	0
+	+	1	17
+
+> ~/test
+	*	1556615717	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-6159-16707033098333155252
+	*	1556612257	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/Projects/.scripts/todo/todo-sl.sh
+	*	1556611932	0
+	"	15	14
+	^	33	3
+	.	15	14
+	+	16	11
+	+	31	13
+	+	16	12
+	+	31	15
+	+	16	15
+	+	14	66
+	+	18	2
+	+	18	0
+	+	16	0
+	+	18	2
+	+	16	0
+	+	16	59
+	+	16	58
+	+	16	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	17	7
+	+	31	0
+	+	29	66
+	+	31	0
+	+	34	0
+	+	31	0
+	+	30	0
+	+	32	7
+	+	33	0
+	+	32	13
+	+	30	14
+	+	17	13
+	+	15	14
+
+> ~/Projects/.scripts/mpc/user-toggle.sh
+	*	1556611875	0
+	"	1	0
+
+> ~/Projects/.scripts/mpc/user-
+	*	1556611872	0
+	"	1	0
+
+> ~/Projects/.scripts/todo/todo
+	*	1556609935	0
+	"	1	0
+
+> ~/Projects/git/slmenu
+	*	1556553653	0
+	"	5	0
+
+> ~/.mutt/muttrc
+	*	1556553199	0
+	"	21	10
+	^	85	1
+	.	20	14
+	+	6	12
+	+	24	43
+	+	6	13
+	+	85	0
+	+	6	0
+	+	21	0
+	+	24	21
+	+	85	0
+	+	21	15
+	+	20	14
+
+> /tmp/calcurse-note.J4eWJ9
+	*	1556549872	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> /tmp/calcurse-note.AVgDmI
+	*	1556549734	0
+	"	3	26
+	^	3	27
+	.	3	26
+	+	3	26
+
+> /tmp/calcurse-note.LvYosg
+	*	1556549617	0
+	"	1	0
+
+> /tmp/calcurse-note.108YMN
+	*	1556549613	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1556545785	0
+	"	1	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-5013-17434945233985012473
+	*	1556542633	0
+	"	4	7
+	^	4	8
+	.	4	7
+	+	4	7
+
+> ~/.surf/script.js
+	*	1556537472	0
+	"	1	0
+
+> /usr/bin/dircolors
+	*	1556536415	0
+	"	10	0
+
+> /usr/bin/di
+	*	1556536405	0
+	"	1	0
+
+> ~/.todo
+	*	1556535904	0
+	"	1	0
+
+> ~/Projects/.scripts/todo/todo.sh
+	*	1556535890	0
+	"	8	0
+
+> ~/Projects/todo/todo.org
+	*	1556535800	0
+	"	1	0
+
+> ~/todo
+	*	1556535764	0
+	"	1	0
+
+> ~/Projects/.scripts/scripts/new.sh
+	*	1556535495	0
+	"	1	0
+
+> ~/Projects/.scripts/test.sh
+	*	1556535176	0
+	"	3	0
+	^	2	10
+	.	2	9
+	+	1	0
+	+	3	0
+	+	2	9
+
+> /media/Projects/config/personal.map
+	*	1556535018	0
+	"	1	0
+
+> ~/.xinitrc
+	*	1556534937	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /usr/local/share/kbd/keymaps/personal.map
+	*	1556534059	0
+	"	14	13
+	^	12	2
+	.	14	13
+	+	15	13
+	+	12	1
+	+	14	13
+
+> ~/uk.map
+	*	1556534009	0
+	"	1	0
+	^	14	25
+	.	14	24
+	+	57	0
+	+	14	22
+	+	57	14
+	+	14	24
+
+> ~/Projects/.scripts/lock/lock.sh
+	*	1556529684	0
+	"	1	0
+	^	10	107
+	.	10	106
+	+	10	106
+
+> ~/Projects/Share/IT/Support/tnt install.txt
+	*	1556526897	0
+	"	7	0
+	.	14	0
+	+	14	0
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1104-11750606041221631980
+	*	1556525290	0
+	"	6	7
+	^	6	8
+	.	6	7
+	+	6	7
+
+> ~/.mutt/tmp/neomutt-spapartsvortex-1001-1104-4400295479698453187
+	*	1556522970	0
+	"	5	7
+	^	5	8
+	.	5	7
+	+	5	7
+
+> ~/Projects/aur/waterfox-bin/PKGBUILD
+	*	1556290951	0
+	"	9	0
+
+> ~/citizen
+	*	1556288861	0
+	"	1	0
+
 > ~/.gitignore
-	*	1556287008	0
+	*	1556287054	0
 	"	31	0
 	.	31	0
 	+	56	0
@@ -407,20 +1008,6 @@ $
 	.	26	0
 	+	26	0
 
-> ~/Projects/.scripts/ssh/ssh.sh
-	*	1556285593	0
-	"	7	27
-	^	7	28
-	.	7	27
-	+	59	1
-	+	56	3
-	+	58	28
-	+	59	0
-	+	60	0
-	+	2	0
-	+	46	28
-	+	7	27
-
 > ~/.ssh/known_hosts
 	*	1556285554	0
 	"	25	0
@@ -429,13 +1016,6 @@ $
 	+	22	0
 	+	25	0
 
-> ~/Projects/.scripts/lock/lock.sh
-	*	1556284396	0
-	"	3	0
-	^	10	107
-	.	10	106
-	+	10	106
-
 > ~/.mutt/tmp/neomutt-spapartsvortex-1001-2759-7401134395917455410
 	*	1556266576	0
 	"	5	7
@@ -443,26 +1023,12 @@ $
 	.	5	7
 	+	5	7
 
-> ~/.config/i3/config
-	*	1556206621	0
-	"	305	43
-	^	238	98
-	.	238	97
-	+	238	97
-
 > ~/.config/newsboat/config
 	*	1556191869	0
 	"	37	27
 	^	37	28
 	.	37	27
 	+	37	27
-
-> ~/.config/newsboat/urls
-	*	1556190732	0
-	"	9	44
-	^	9	45
-	.	9	44
-	+	9	44
 
 > ~/.mutt/tmp/neomutt-spapartsvortex-1001-917-14908307189849100490
 	*	1556109807	0
@@ -473,17 +1039,6 @@ $
 	+	3	64
 	+	6	7
 
-> ~/test
-	*	1556096719	0
-	"	1	0
-
-> ~/Projects/.scripts/misc/aliases.sh
-	*	1556031241	0
-	"	46	32
-	^	46	33
-	.	46	32
-	+	46	32
-
 > ~/Projects/.scripts/invoice/dmenu-invoice.sh
 	*	1556019429	0
 	"	32	62
@@ -493,14 +1048,6 @@ $
 > ~/Projects/Share/Public/Temp IT/New Windows PC Setup/Sage/Sage Serial.txt
 	*	1556010586	0
 	"	1	0
-
-> ~/Projects/.scripts/toggl/stat.sh
-	*	1556009459	0
-	"	6	16
-	^	6	18
-	.	6	16
-	+	4	0
-	+	6	16
 
 > ~/Projects/.scripts/toggl/sta
 	*	1556009256	0
@@ -524,14 +1071,6 @@ $
 	^	5	8
 	.	5	7
 	+	5	7
-
-> /media/Projects/python-work/strings.sh
-	*	1555595624	0
-	"	1	0
-	^	1	18
-	.	1	17
-	+	2	0
-	+	1	17
 
 > /media/Projects/python-work/loops.sh
 	*	1555595619	0
@@ -600,10 +1139,6 @@ $
 	+	4	0
 	+	5	0
 
-> ~/Projects/Commands/commands.org
-	*	1555584520	0
-	"	25	0
-
 > ~/.zcompdump-GLaDOS-5.6.2
 	*	1555577458	0
 	"	1	0
@@ -618,10 +1153,6 @@ $
 
 > ~/Projects/temp/file1.txt
 	*	1555576602	0
-	"	1	0
-
-> ~/.Xresources
-	*	1555576588	0
 	"	1	0
 
 > ~/.mutt/tmp/neomutt-spapartsvortex-1001-4535-3505351482083259414
@@ -671,10 +1202,6 @@ $
 	.	5	7
 	+	5	7
 
-> ~/Projects/.scripts/network/vpn/vpn.sh
-	*	1555575276	0
-	"	1	0
-
 > ~/.mutt/tmp/neomutt-spapartsvortex-1001-3893-16905595655099943842
 	*	1555575022	0
 	"	5	7
@@ -714,197 +1241,3 @@ $
 	.	2	359
 	+	4	7
 	+	2	359
-
-> ~/backps/sensu/var/www/html/index.html
-	*	1555507277	0
-	"	1	0
-
-> ~/backps/snipe/var/www/vhosts/snipeit.spv.net.uk/htdocs/server.php
-	*	1555507167	0
-	"	1	0
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-15203249284106287885
-	*	1555507139	0
-	"	5	7
-	^	5	8
-	.	5	7
-	+	6	83
-	+	6	0
-	+	1	4
-	+	5	7
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-12838-14318191730888202300
-	*	1555506815	0
-	"	1	100
-	^	1	101
-	.	1	42
-	+	1	0
-	+	1	42
-
-> ~/backps/leda/home/deanpalmer/scripts/export.sh
-	*	1555506273	0
-	"	1	0
-
-> ~/Projects/it-web-processes/IT/How-To/Vagrant/make_new_vm.md
-	*	1555501688	0
-	"	12	140
-	^	12	141
-	.	12	140
-	+	10	46
-	+	14	4
-	+	12	3
-	+	14	39
-	+	1	0
-	+	10	51
-	+	18	135
-	+	20	206
-	+	20	319
-	+	20	156
-	+	20	154
-	+	4	0
-	+	20	206
-	+	20	265
-	+	20	453
-	+	22	3
-	+	20	275
-	+	15	0
-	+	17	0
-	+	19	0
-	+	13	0
-	+	11	0
-	+	9	0
-	+	21	0
-	+	22	232
-	+	20	541
-	+	22	398
-	+	6	0
-	+	10	0
-	+	12	0
-	+	14	0
-	+	18	0
-	+	20	0
-	+	22	0
-	+	6	460
-	+	7	5
-	+	7	1
-	+	8	71
-	+	12	140
-
-> ~/Projects/it-web-processes/IT/How-To/Vagrant/V
-	*	1555498102	0
-	"	1	0
-
-> ~/Projects/.scripts/invoice/warn.txt
-	*	1555496253	0
-	"	1	0
-
-> ~/Projects/it-web-processes/README.md
-	*	1555495532	0
-	"	1	0
-
-> ~/Projects/vagrant.fix
-	*	1555495459	0
-	"	1	58
-
-> ~/.mutt/tmp/neomutt-spapartsvortex-1001-2470-16615889818129925997
-	*	1555494691	0
-	"	6	0
-	^	6	0
-	.	5	0
-	+	3	154
-	+	5	0
-
-> ~/.swp
-	*	1555493896	0
-	"	1	0
-	.	20	0
-	+	21	0
-	+	20	0
-
-> ~/.xsession-errors
-	*	1555493589	0
-	"	1	0
-
-> ~/.xinitrc.bak
-	*	1555493580	0
-	"	1	0
-
-> ~/.xinitrc
-	*	1555493576	0
-	"	1	0
-
-> ~/.wpm.csv
-	*	1555493569	0
-	"	1	0
-
-> ~/.wmp
-	*	1555493563	0
-	"	1	0
-
-> ~/.wget-hsts
-	*	1555493559	0
-	"	1	0
-
-> ~/.urlview
-	*	1555493554	0
-	"	1	0
-
-> ~/.tmux
-	*	1555493547	0
-	"	1	0
-
-> ~/.sc-iminfo
-	*	1555493542	0
-	"	1	0
-
-> ~/.pulse-cookie
-	*	1555493538	0
-	"	1	0
-
-> ~/.packettracer
-	*	1555493535	0
-	"	1	0
-
-> ~/.mailcap.bak
-	*	1555493530	0
-	"	1	0
-
-> ~/.mailcap
-	*	1555493528	0
-	"	1	0
-
-> ~/.lesshst
-	*	1555493513	0
-	"	102	0
-
-> ~/.gtkrc-2.0
-	*	1555493499	0
-	"	1	0
-
-> ~/.gitconfig
-	*	1555493495	0
-	"	1	0
-
-> ~/.dmrc
-	*	1555493490	0
-	"	1	0
-
-> ~/.bash_completion
-	*	1555493449	0
-	"	1	0
-
-> ~/.Xauthority
-	*	1555493426	0
-	"	1	0
-
-> ~/Projects/Downloads/.ICEauthority
-	*	1555493380	0
-	"	1	0
-
-> ~/Projects/Downloads/I
-	*	1555493373	0
-	"	1	0
-
-> ~/.swo
-	*	1555493249	0
-	"	1	0

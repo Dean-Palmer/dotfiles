@@ -3,7 +3,6 @@ source "gpg -d ~/.mutt/vortex 2> /dev/null |"
 source "/etc/Muttrc.gpg.dist"
 set beep_new
 set copy=no
-set record="$HOME/.mutt/sent"
 ### Advanced configuration
 ### YOU SHOULD NOT MODIFY THIS UNLESS YOU KNOW WHAT YOU'RE DOING
 
@@ -18,10 +17,11 @@ set imap_user="$my_username@$my_domain"
 set imap_pass=$my_password
 
 set folder="imaps://outlook.office365.com/"
-set spoolfile= +INBOX
+set spoolfile=+INBOX
+set record=+Sent
 #set postponed= +$my_drafts_noquote
 #set trash = +$my_trash_noquote
-mailboxes
+mailboxes =INBOX =Sent =Trash =Drafts =JUNK
 
 set imap_check_subscribed="yes"
 set imap_list_subscribed="yes"
@@ -82,7 +82,7 @@ set index_format=" %?M?   ↳&%4C?   %Z      %D     %-15.15n    %s"
 # Mailboxes
 bind    index   G  imap-fetch-mail
 #macro   index   gi "<change-folder>=INBOX<enter>"       "Go to Inbox"
-#macro   index   gs "<change-folder>=$my_sent<enter>"    "Go to Sent"
+#macro   index   gs "<change-folder>=+Sent<enter>"    "Go to Sent"
 #macro   index   gd "<change-folder>=$my_drafts<enter>"  "Go to Drafts"
 #macro   index   gt "<change-folder>=$my_trash<enter>"   "Go to Trash"
 

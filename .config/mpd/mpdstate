@@ -3,7 +3,7 @@ audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: play
 current: 0
-time: 4.192000
+time: 0.000000
 random: 0
 repeat: 0
 single: 1
@@ -12,8 +12,6 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-song_begin: http://51.68.212.217:8000
-Title: KOD - J. Cole - BRACKETS
-Name: Raspberr pi MPD
+song_begin: https://manifest.googlevideo.com/api/manifest/hls_playlist/id/hHW1oY26kxQ.347/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-aigl6ner.googlevideo.com/playlist_type/DVR/ei/cczKXNL2HpCjxwLg9pS4CA/gcr/gb/initcwndbps/4390/mm/32/mn/sn-aigl6ner/ms/lv/mv/m/pl/21/dover/11/keepalive/yes/mt/1556794406/disable_polymer/true/ip/109.68.192.121/ipbits/0/expire/1556816081/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,playlist_type,ei,gcr,initcwndbps,mm,mn,ms,mv,pl/signature/908870FA46B4311848488FE86B01C512CA331979.582DC8FE91E5856853E7689969F96D0500E542E2/key/dg_yt0/playlist/index.m3u8
 song_end
 playlist_end

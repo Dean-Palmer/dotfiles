@@ -2,4 +2,5 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 gitlab.com	0	0	1551435533	31536000
+bitbucket.org	0	1	1556553646	31536000
 sourceforge.net	0	0	1553164193	31536000
